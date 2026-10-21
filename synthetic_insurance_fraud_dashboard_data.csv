@@ -1,0 +1,1501 @@
+claim_id,claim_date,county,policy_type,claim_channel,accident_type,driver_age,vehicle_age_years,policy_tenure_months,annual_premium_kes,claim_amount_kes,days_to_report,police_report_filed,witness_available,previous_claims_3yr,fraud_label,AgeGroup
+CLM202300001,5/3/2023,Mombasa,Comprehensive,Agent,Theft,40,13,97,48964,400238,9,No,Yes,0,0,36-45
+CLM202300002,11/25/2025,Nairobi,Comprehensive,Online,Windscreen,43,5,5,51192,111192,2,Yes,No,1,0,36-45
+CLM202300003,6/15/2025,Nairobi,Comprehensive,Online,Collision,36,12,51,45140,247949,4,Yes,No,1,0,36-45
+CLM202300004,8/23/2024,Uasin Gishu,Comprehensive,Broker,Theft,34,8,18,53630,105723,6,Yes,No,0,0,26-35
+CLM202300005,8/15/2024,Uasin Gishu,Third Party,Online,Weather,47,13,5,17445,36324,3,Yes,No,0,0,46-55
+CLM202300006,3/21/2026,Machakos,Comprehensive,Online,Theft,41,12,56,35732,329051,4,No,No,0,0,36-45
+CLM202300007,4/28/2023,Nakuru,Comprehensive,Agent,Vandalism,31,10,89,67038,243288,22,Yes,Yes,0,0,26-35
+CLM202300008,8/12/2025,Mombasa,Third Party Fire & Theft,Agent,Windscreen,38,2,19,24531,40395,5,Yes,No,0,0,36-45
+CLM202300009,10/3/2023,Mombasa,Comprehensive,Call Centre,Collision,42,5,102,76735,388966,4,Yes,No,1,0,36-45
+CLM202300010,5/9/2023,Nairobi,Comprehensive,Agent,Collision,57,6,63,53996,1153195,5,Yes,No,1,0,56+
+CLM202300011,12/21/2024,Kisumu,Third Party,Call Centre,Fire,47,13,58,27784,325836,8,No,Yes,0,0,46-55
+CLM202300012,8/28/2026,Nakuru,Comprehensive,Online,Weather,51,2,111,66705,42079,2,Yes,Yes,1,0,46-55
+CLM202300013,10/4/2025,Nairobi,Comprehensive,Agent,Collision,31,6,40,51153,151046,8,Yes,No,0,0,26-35
+CLM202300014,11/8/2025,Other,Comprehensive,Agent,Collision,32,10,25,39202,433940,7,No,No,0,0,26-35
+CLM202300015,9/9/2025,Kiambu,Third Party Fire & Theft,Agent,Theft,35,6,95,21363,148540,1,Yes,No,1,0,26-35
+CLM202300016,12/12/2025,Nairobi,Comprehensive,Broker,Collision,36,4,13,55726,483619,28,Yes,No,3,0,36-45
+CLM202300017,12/3/2024,Kiambu,Comprehensive,Online,Windscreen,27,10,105,49963,24739,20,Yes,No,1,0,26-35
+CLM202300018,6/25/2023,Machakos,Comprehensive,Online,Theft,52,9,100,40702,236833,3,No,No,1,1,46-55
+CLM202300019,2/23/2026,Other,Comprehensive,Broker,Windscreen,48,2,118,60610,19714,2,Yes,Yes,0,0,46-55
+CLM202300020,9/8/2024,Mombasa,Third Party,Broker,Vandalism,35,7,56,16175,74133,7,Yes,Yes,0,0,26-35
+CLM202300021,11/15/2024,Other,Comprehensive,Call Centre,Theft,45,4,75,60711,214827,2,Yes,No,2,0,36-45
+CLM202300022,5/22/2024,Machakos,Third Party,Call Centre,Theft,40,14,106,12176,50051,19,Yes,Yes,0,0,36-45
+CLM202300023,9/7/2023,Machakos,Third Party,Broker,Windscreen,46,13,16,21167,18332,4,Yes,No,2,0,46-55
+CLM202300024,6/22/2026,Machakos,Third Party,Call Centre,Vandalism,23,11,37,18410,24329,24,Yes,No,0,0,18-25
+CLM202300025,12/5/2025,Kiambu,Comprehensive,Broker,Vandalism,36,3,57,67123,47113,3,Yes,Yes,2,0,36-45
+CLM202300026,5/31/2025,Uasin Gishu,Third Party Fire & Theft,Online,Collision,37,2,76,34185,76754,5,Yes,No,0,0,36-45
+CLM202300027,7/4/2024,Nakuru,Third Party,Broker,Theft,45,9,82,15624,407212,17,Yes,Yes,0,1,36-45
+CLM202300028,1/31/2026,Kisumu,Comprehensive,Agent,Collision,31,3,111,45828,328801,4,Yes,No,0,0,26-35
+CLM202300029,1/16/2025,Nairobi,Third Party,Broker,Vandalism,18,8,59,26360,102152,7,Yes,Yes,1,0,18-25
+CLM202300030,8/30/2024,Uasin Gishu,Third Party Fire & Theft,Call Centre,Fire,26,9,21,23968,60484,15,No,No,1,0,26-35
+CLM202300031,9/8/2024,Other,Comprehensive,Agent,Collision,37,8,23,59191,134052,3,Yes,No,2,0,36-45
+CLM202300032,11/8/2023,Kiambu,Third Party Fire & Theft,Call Centre,Collision,39,2,97,23367,49352,2,No,Yes,1,0,36-45
+CLM202300033,5/7/2023,Other,Comprehensive,Call Centre,Collision,57,6,56,28499,128882,1,No,Yes,2,0,56+
+CLM202300034,1/29/2025,Kiambu,Third Party,Agent,Fire,44,8,76,11347,279900,9,No,Yes,1,0,36-45
+CLM202300035,4/30/2026,Nairobi,Third Party Fire & Theft,Online,Collision,39,8,68,29130,320671,8,Yes,Yes,1,0,36-45
+CLM202300036,3/29/2023,Nairobi,Comprehensive,Call Centre,Collision,38,4,98,58412,211666,14,Yes,Yes,1,0,36-45
+CLM202300037,3/21/2026,Uasin Gishu,Third Party,Call Centre,Vandalism,50,8,27,17942,178574,4,Yes,Yes,0,0,46-55
+CLM202300038,2/7/2026,Nakuru,Comprehensive,Agent,Windscreen,32,5,21,66159,32128,2,Yes,No,0,0,26-35
+CLM202300039,1/14/2024,Kiambu,Third Party,Online,Collision,36,6,89,17852,120288,1,Yes,Yes,1,0,36-45
+CLM202300040,5/14/2025,Nakuru,Third Party,Broker,Collision,26,4,53,12878,291681,30,Yes,Yes,1,0,26-35
+CLM202300041,8/15/2023,Kiambu,Comprehensive,Agent,Weather,54,2,98,56690,209608,9,Yes,Yes,1,0,46-55
+CLM202300042,11/3/2025,Mombasa,Comprehensive,Online,Fire,42,21,16,50335,109635,6,No,No,2,0,36-45
+CLM202300043,8/17/2025,Machakos,Comprehensive,Agent,Theft,30,6,33,40856,245443,7,Yes,No,0,0,26-35
+CLM202300044,4/30/2024,Kisumu,Comprehensive,Agent,Collision,37,2,116,54790,114581,2,No,No,1,0,36-45
+CLM202300045,4/3/2023,Uasin Gishu,Comprehensive,Broker,Collision,44,4,102,49079,29074,3,No,No,0,0,36-45
+CLM202300046,8/21/2026,Nakuru,Comprehensive,Broker,Collision,35,5,8,40520,206194,26,Yes,No,0,0,26-35
+CLM202300047,9/2/2024,Other,Comprehensive,Broker,Windscreen,32,9,99,45668,9266,10,Yes,Yes,2,0,26-35
+CLM202300048,5/7/2026,Nairobi,Comprehensive,Broker,Collision,31,4,8,71307,188541,3,Yes,Yes,1,0,26-35
+CLM202300049,7/17/2025,Nairobi,Third Party,Online,Collision,42,5,15,23553,42457,2,No,No,0,0,36-45
+CLM202300050,12/1/2025,Nairobi,Third Party,Agent,Windscreen,34,7,108,16865,14676,3,No,Yes,0,0,26-35
+CLM202300051,11/6/2025,Nakuru,Third Party,Agent,Weather,33,8,16,16259,71749,4,Yes,No,0,0,26-35
+CLM202300052,9/24/2023,Nakuru,Comprehensive,Agent,Windscreen,23,6,37,32135,68259,30,Yes,No,0,0,18-25
+CLM202300053,5/13/2024,Kisumu,Third Party Fire & Theft,Online,Collision,39,17,17,42078,94625,5,Yes,No,1,1,36-45
+CLM202300054,9/30/2024,Kiambu,Third Party,Agent,Theft,36,10,72,21387,76700,2,No,No,0,1,36-45
+CLM202300055,11/12/2024,Nairobi,Comprehensive,Agent,Collision,34,9,7,59249,194068,5,No,No,0,1,26-35
+CLM202300056,3/1/2023,Nakuru,Comprehensive,Agent,Collision,40,9,35,25388,121894,7,No,No,0,0,36-45
+CLM202300057,1/18/2025,Other,Third Party,Broker,Theft,46,12,40,16184,341151,2,Yes,No,0,0,46-55
+CLM202300058,7/31/2023,Kiambu,Comprehensive,Broker,Collision,46,7,78,46321,64536,8,Yes,No,0,0,46-55
+CLM202300059,10/14/2025,Nairobi,Comprehensive,Call Centre,Theft,44,3,60,58113,214554,16,Yes,No,0,0,36-45
+CLM202300060,7/24/2025,Kiambu,Third Party Fire & Theft,Broker,Vandalism,35,8,24,22915,470539,6,Yes,No,1,0,26-35
+CLM202300061,6/16/2026,Mombasa,Comprehensive,Broker,Weather,32,9,56,44985,83817,3,Yes,Yes,2,1,26-35
+CLM202300062,10/16/2025,Nairobi,Comprehensive,Agent,Collision,27,14,56,57090,168362,3,No,Yes,1,0,26-35
+CLM202300063,5/16/2024,Kiambu,Third Party Fire & Theft,Broker,Collision,31,3,43,20937,38394,1,No,No,1,0,26-35
+CLM202300064,8/17/2026,Nakuru,Third Party,Agent,Collision,38,3,65,13624,73285,5,Yes,Yes,0,0,36-45
+CLM202300065,7/16/2024,Kiambu,Comprehensive,Online,Collision,29,6,40,50670,209455,7,Yes,Yes,0,0,26-35
+CLM202300066,3/22/2024,Kiambu,Third Party Fire & Theft,Online,Collision,39,9,41,37821,111365,2,Yes,Yes,0,0,36-45
+CLM202300067,5/24/2026,Nairobi,Third Party Fire & Theft,Online,Collision,27,2,95,32605,237052,30,No,No,1,0,26-35
+CLM202300068,5/22/2024,Other,Comprehensive,Agent,Windscreen,20,3,31,64865,36667,11,No,No,2,1,18-25
+CLM202300069,4/15/2023,Kiambu,Third Party,Broker,Theft,47,11,40,16286,63146,1,Yes,No,0,1,46-55
+CLM202300070,10/4/2024,Kiambu,Comprehensive,Call Centre,Vandalism,33,2,17,72954,147006,1,Yes,No,0,0,26-35
+CLM202300071,12/25/2025,Nairobi,Comprehensive,Broker,Collision,29,3,84,29479,53656,2,Yes,Yes,0,1,26-35
+CLM202300072,9/17/2023,Nakuru,Third Party,Broker,Collision,26,11,85,28186,78633,23,Yes,No,2,0,26-35
+CLM202300073,9/25/2024,Machakos,Comprehensive,Online,Collision,43,9,82,87680,174220,12,Yes,No,0,1,36-45
+CLM202300074,6/27/2023,Nairobi,Third Party,Agent,Collision,53,4,21,18182,507934,24,Yes,No,1,0,46-55
+CLM202300075,7/28/2025,Nairobi,Third Party,Broker,Collision,34,8,55,20199,64951,6,Yes,No,0,0,26-35
+CLM202300076,10/13/2024,Nairobi,Comprehensive,Online,Weather,36,7,36,47492,114229,5,Yes,No,0,0,36-45
+CLM202300077,3/28/2024,Nakuru,Third Party,Agent,Collision,50,6,92,15088,164276,2,Yes,Yes,0,0,46-55
+CLM202300078,11/7/2023,Other,Comprehensive,Online,Collision,18,5,41,40454,245334,7,No,Yes,0,0,18-25
+CLM202300079,2/11/2025,Mombasa,Third Party Fire & Theft,Call Centre,Theft,60,8,50,25646,467361,5,Yes,No,2,0,56+
+CLM202300080,7/5/2025,Kiambu,Comprehensive,Broker,Theft,65,2,55,56085,131186,4,Yes,Yes,1,0,56+
+CLM202300081,7/11/2026,Uasin Gishu,Third Party,Online,Theft,18,8,92,17996,407221,23,No,No,0,1,18-25
+CLM202300082,8/21/2024,Uasin Gishu,Third Party,Broker,Collision,37,7,85,27906,420309,5,Yes,Yes,3,0,36-45
+CLM202300083,8/8/2023,Nairobi,Comprehensive,Online,Windscreen,30,7,99,49367,108756,18,Yes,No,2,0,26-35
+CLM202300084,2/13/2026,Nairobi,Third Party,Online,Collision,35,3,52,10546,216648,1,Yes,No,0,0,26-35
+CLM202300085,5/12/2025,Kiambu,Third Party,Agent,Collision,33,14,99,25356,164463,30,No,No,0,0,26-35
+CLM202300086,8/16/2025,Uasin Gishu,Third Party,Online,Fire,47,4,105,11367,114072,4,Yes,No,2,0,46-55
+CLM202300087,5/14/2023,Kisumu,Third Party,Broker,Vandalism,37,4,63,13680,20308,10,Yes,No,1,0,36-45
+CLM202300088,3/3/2024,Kisumu,Third Party Fire & Theft,Agent,Collision,28,5,82,28055,116091,12,Yes,No,1,1,26-35
+CLM202300089,11/17/2025,Machakos,Comprehensive,Broker,Theft,36,9,110,53947,198293,3,Yes,No,0,0,36-45
+CLM202300090,2/13/2026,Nairobi,Comprehensive,Agent,Collision,44,7,101,32024,132839,11,Yes,No,0,0,36-45
+CLM202300091,8/18/2024,Kiambu,Comprehensive,Broker,Collision,25,2,34,38946,233903,12,Yes,No,1,0,18-25
+CLM202300092,1/6/2026,Nairobi,Third Party,Broker,Collision,20,6,86,10569,45304,3,Yes,No,0,1,18-25
+CLM202300093,2/26/2026,Machakos,Comprehensive,Broker,Windscreen,60,6,54,57127,22564,3,Yes,Yes,2,0,56+
+CLM202300094,6/14/2024,Nakuru,Comprehensive,Broker,Collision,31,14,18,66856,715191,6,Yes,Yes,0,0,26-35
+CLM202300095,5/14/2026,Kiambu,Comprehensive,Call Centre,Windscreen,36,5,45,34093,57882,5,Yes,No,1,1,36-45
+CLM202300096,1/30/2024,Nairobi,Third Party Fire & Theft,Online,Collision,34,9,118,34360,237386,19,Yes,Yes,0,0,26-35
+CLM202300097,11/24/2023,Kisumu,Comprehensive,Broker,Vandalism,44,25,115,62291,89190,10,Yes,No,0,0,36-45
+CLM202300098,7/23/2025,Uasin Gishu,Third Party,Broker,Windscreen,58,12,95,13304,19484,5,No,Yes,0,0,56+
+CLM202300099,5/21/2025,Kisumu,Comprehensive,Agent,Collision,44,3,119,27552,35640,9,Yes,Yes,1,0,36-45
+CLM202300100,7/11/2023,Nairobi,Third Party Fire & Theft,Agent,Collision,21,10,69,19262,209021,1,Yes,No,0,0,18-25
+CLM202300101,2/14/2026,Other,Comprehensive,Online,Collision,23,8,91,40631,20450,3,No,Yes,0,0,18-25
+CLM202300102,10/1/2023,Uasin Gishu,Comprehensive,Agent,Vandalism,34,5,20,73912,50289,7,No,No,0,0,26-35
+CLM202300103,1/6/2026,Kisumu,Third Party Fire & Theft,Online,Collision,35,10,36,25153,144576,15,Yes,No,0,1,26-35
+CLM202300104,1/11/2023,Kisumu,Third Party Fire & Theft,Online,Theft,19,3,21,19613,126738,7,No,No,1,0,18-25
+CLM202300105,12/26/2025,Other,Comprehensive,Broker,Collision,47,4,113,50029,823728,20,Yes,Yes,0,0,46-55
+CLM202300106,12/13/2025,Other,Comprehensive,Agent,Windscreen,26,5,74,33398,112326,12,No,Yes,0,0,26-35
+CLM202300107,12/4/2025,Nakuru,Third Party,Call Centre,Theft,54,5,112,18478,414108,4,Yes,No,1,0,46-55
+CLM202300108,6/29/2025,Mombasa,Third Party Fire & Theft,Online,Theft,58,9,50,19774,86454,5,Yes,Yes,2,0,56+
+CLM202300109,10/7/2024,Kiambu,Comprehensive,Broker,Weather,35,6,49,38019,472100,8,No,No,1,1,26-35
+CLM202300110,8/23/2025,Machakos,Comprehensive,Agent,Collision,43,4,82,53321,237914,4,Yes,No,2,1,36-45
+CLM202300111,1/15/2024,Kisumu,Third Party,Online,Windscreen,24,12,69,26119,12285,22,No,Yes,1,0,18-25
+CLM202300112,12/4/2025,Nairobi,Third Party,Agent,Collision,45,9,45,29606,148845,2,Yes,No,1,0,36-45
+CLM202300113,1/30/2025,Nairobi,Third Party,Broker,Collision,33,2,39,11958,312184,7,Yes,No,1,0,26-35
+CLM202300114,9/20/2024,Other,Third Party,Online,Vandalism,26,2,62,13539,40412,11,No,No,1,0,26-35
+CLM202300115,11/23/2024,Other,Comprehensive,Call Centre,Fire,35,4,10,55454,186591,4,Yes,Yes,0,0,26-35
+CLM202300116,2/17/2025,Other,Third Party Fire & Theft,Online,Fire,33,2,23,36066,214793,3,No,No,1,0,26-35
+CLM202300117,2/21/2023,Mombasa,Third Party Fire & Theft,Broker,Collision,34,11,6,14185,60102,5,No,Yes,2,0,26-35
+CLM202300118,7/11/2023,Uasin Gishu,Third Party,Agent,Collision,48,4,19,16396,116823,11,Yes,No,0,0,46-55
+CLM202300119,12/3/2023,Machakos,Comprehensive,Broker,Collision,29,9,24,41880,63839,3,Yes,No,0,1,26-35
+CLM202300120,6/6/2023,Kiambu,Comprehensive,Online,Theft,57,10,10,28008,363148,2,Yes,No,0,0,56+
+CLM202300121,8/24/2024,Nairobi,Third Party,Online,Collision,23,1,7,11003,70126,15,Yes,No,0,0,18-25
+CLM202300122,7/4/2025,Other,Comprehensive,Agent,Collision,56,4,99,40945,183126,8,Yes,No,1,0,56+
+CLM202300123,6/14/2025,Nairobi,Third Party Fire & Theft,Agent,Collision,27,5,22,26432,47685,14,Yes,No,1,0,26-35
+CLM202300124,10/6/2024,Nakuru,Comprehensive,Agent,Collision,38,7,67,63654,58556,11,No,Yes,0,1,36-45
+CLM202300125,3/16/2026,Kisumu,Third Party,Call Centre,Collision,33,11,12,17669,56330,30,Yes,No,2,0,26-35
+CLM202300126,2/12/2025,Kisumu,Third Party Fire & Theft,Online,Collision,34,22,114,33900,115016,15,Yes,Yes,1,0,26-35
+CLM202300127,4/19/2023,Nairobi,Comprehensive,Agent,Vandalism,47,16,29,48361,75379,3,Yes,No,0,1,46-55
+CLM202300128,11/13/2025,Kisumu,Comprehensive,Call Centre,Theft,54,6,90,39402,242665,8,Yes,Yes,0,0,46-55
+CLM202300129,2/25/2025,Nairobi,Third Party,Agent,Collision,51,6,77,15198,35126,3,Yes,Yes,1,0,46-55
+CLM202300130,5/18/2025,Machakos,Third Party,Online,Fire,34,15,93,19440,145705,4,Yes,No,1,1,26-35
+CLM202300131,2/12/2025,Nairobi,Comprehensive,Broker,Vandalism,40,6,76,64092,35794,2,Yes,Yes,0,0,36-45
+CLM202300132,1/27/2025,Kisumu,Third Party,Call Centre,Collision,29,4,62,15351,222311,4,Yes,No,1,0,26-35
+CLM202300133,5/4/2023,Uasin Gishu,Third Party Fire & Theft,Broker,Collision,27,11,93,20044,117053,9,No,Yes,0,0,26-35
+CLM202300134,2/4/2025,Nairobi,Comprehensive,Online,Collision,25,8,98,52730,135920,5,No,Yes,0,1,18-25
+CLM202300135,12/24/2025,Nairobi,Comprehensive,Call Centre,Collision,33,2,46,54874,79900,2,Yes,No,0,0,26-35
+CLM202300136,2/21/2024,Uasin Gishu,Comprehensive,Agent,Windscreen,41,5,114,67786,103716,1,No,No,0,0,36-45
+CLM202300137,4/5/2025,Nairobi,Comprehensive,Call Centre,Weather,18,2,119,39692,36350,30,No,No,0,0,18-25
+CLM202300138,2/12/2023,Nairobi,Comprehensive,Call Centre,Collision,37,1,87,39814,105314,7,Yes,No,1,0,36-45
+CLM202300139,4/20/2024,Mombasa,Comprehensive,Call Centre,Windscreen,55,18,112,59319,28446,3,No,Yes,0,0,46-55
+CLM202300140,8/20/2024,Other,Third Party,Agent,Collision,50,7,13,14275,118587,8,Yes,Yes,1,1,46-55
+CLM202300141,9/7/2026,Nakuru,Comprehensive,Agent,Theft,32,5,65,42321,98369,30,Yes,Yes,1,0,26-35
+CLM202300142,10/21/2023,Kiambu,Third Party Fire & Theft,Broker,Windscreen,23,4,79,36939,6126,10,Yes,No,0,0,18-25
+CLM202300143,1/14/2024,Other,Comprehensive,Online,Collision,43,6,112,32698,83390,0,No,Yes,0,0,36-45
+CLM202300144,7/13/2024,Mombasa,Comprehensive,Online,Collision,18,4,15,85365,67304,30,No,No,0,0,18-25
+CLM202300145,9/20/2026,Mombasa,Third Party,Call Centre,Theft,50,3,97,13478,694545,1,No,No,0,0,46-55
+CLM202300146,3/14/2026,Mombasa,Third Party Fire & Theft,Broker,Weather,36,4,10,33141,621301,5,No,No,0,0,36-45
+CLM202300147,2/17/2023,Kiambu,Comprehensive,Online,Collision,58,14,43,46560,139226,2,Yes,No,1,0,56+
+CLM202300148,11/17/2023,Kiambu,Comprehensive,Online,Collision,19,11,84,51789,47131,3,Yes,Yes,0,0,18-25
+CLM202300149,1/29/2026,Kisumu,Comprehensive,Agent,Collision,48,4,35,44595,261692,7,Yes,No,1,0,46-55
+CLM202300150,3/21/2023,Nairobi,Comprehensive,Agent,Theft,37,19,101,61010,82683,1,Yes,Yes,2,0,36-45
+CLM202300151,3/17/2026,Kisumu,Comprehensive,Agent,Theft,34,6,112,43552,116809,5,Yes,No,0,0,26-35
+CLM202300152,1/21/2024,Nairobi,Comprehensive,Call Centre,Windscreen,23,3,20,40886,15782,15,No,Yes,0,0,18-25
+CLM202300153,6/10/2026,Kiambu,Comprehensive,Broker,Windscreen,45,8,31,79753,17488,3,Yes,Yes,1,0,36-45
+CLM202300154,2/6/2024,Nairobi,Comprehensive,Online,Vandalism,45,16,9,48397,49129,2,Yes,Yes,1,0,36-45
+CLM202300155,8/17/2024,Nakuru,Third Party Fire & Theft,Online,Windscreen,58,14,86,21518,9126,5,No,Yes,0,0,56+
+CLM202300156,6/25/2025,Kisumu,Third Party,Broker,Collision,49,4,107,10541,82692,4,No,No,1,0,46-55
+CLM202300157,6/22/2023,Kiambu,Comprehensive,Call Centre,Theft,31,2,73,80928,409867,3,Yes,Yes,0,0,26-35
+CLM202300158,2/1/2025,Nairobi,Comprehensive,Call Centre,Collision,27,5,16,41127,141159,2,Yes,No,1,0,26-35
+CLM202300159,11/22/2024,Nairobi,Comprehensive,Online,Collision,23,9,21,85500,160290,9,No,No,2,0,18-25
+CLM202300160,12/9/2025,Machakos,Comprehensive,Call Centre,Vandalism,54,10,5,53671,10940,9,Yes,Yes,1,0,46-55
+CLM202300161,9/25/2026,Nairobi,Third Party,Online,Fire,29,13,59,16653,355926,2,Yes,Yes,3,0,26-35
+CLM202300162,6/28/2025,Uasin Gishu,Third Party Fire & Theft,Online,Weather,54,7,87,27266,58653,2,Yes,Yes,0,0,46-55
+CLM202300163,7/14/2024,Kiambu,Third Party Fire & Theft,Call Centre,Collision,44,7,19,48355,356348,6,Yes,No,1,0,36-45
+CLM202300164,7/10/2024,Nairobi,Third Party Fire & Theft,Online,Theft,42,7,102,14073,205059,2,Yes,Yes,1,0,36-45
+CLM202300165,7/26/2024,Kisumu,Third Party Fire & Theft,Online,Theft,35,12,31,27608,115611,6,Yes,No,0,0,26-35
+CLM202300166,1/19/2026,Mombasa,Third Party Fire & Theft,Online,Collision,45,10,62,24139,37883,21,Yes,Yes,0,0,36-45
+CLM202300167,3/15/2024,Nairobi,Comprehensive,Online,Collision,38,3,81,45220,826013,5,Yes,Yes,0,0,36-45
+CLM202300168,8/17/2023,Other,Comprehensive,Online,Theft,34,9,65,50049,344631,2,Yes,Yes,0,0,26-35
+CLM202300169,4/2/2024,Nairobi,Comprehensive,Broker,Collision,46,11,58,44552,289222,8,Yes,No,0,0,46-55
+CLM202300170,2/1/2023,Kiambu,Third Party,Online,Vandalism,36,12,41,16865,279580,5,Yes,No,2,0,36-45
+CLM202300171,5/26/2023,Kiambu,Comprehensive,Agent,Collision,29,8,52,47684,173470,5,Yes,No,1,0,26-35
+CLM202300172,5/4/2023,Mombasa,Third Party,Call Centre,Collision,45,7,29,11076,427799,8,No,Yes,1,0,36-45
+CLM202300173,11/22/2025,Uasin Gishu,Third Party,Online,Windscreen,37,6,36,17803,17798,10,Yes,Yes,1,0,36-45
+CLM202300174,9/15/2025,Nairobi,Comprehensive,Call Centre,Collision,43,6,91,58656,261595,6,Yes,No,0,0,36-45
+CLM202300175,8/11/2025,Other,Comprehensive,Agent,Vandalism,33,17,106,41241,39415,5,Yes,No,1,0,26-35
+CLM202300176,9/24/2024,Kisumu,Comprehensive,Broker,Windscreen,25,7,102,80981,17441,30,Yes,No,1,0,18-25
+CLM202300177,9/8/2025,Other,Comprehensive,Online,Collision,57,4,40,69767,156700,16,Yes,No,0,0,56+
+CLM202300178,8/9/2023,Machakos,Third Party Fire & Theft,Call Centre,Fire,55,8,39,32931,60496,12,Yes,No,1,0,46-55
+CLM202300179,5/17/2026,Other,Third Party,Agent,Theft,48,10,7,20196,235902,6,No,Yes,0,0,46-55
+CLM202300180,11/16/2024,Nakuru,Third Party,Call Centre,Windscreen,34,11,33,16135,20336,2,No,No,0,1,26-35
+CLM202300181,7/8/2026,Kiambu,Comprehensive,Online,Windscreen,35,3,71,66075,5322,15,Yes,Yes,0,0,26-35
+CLM202300182,7/28/2023,Mombasa,Comprehensive,Broker,Windscreen,53,15,33,74516,18098,6,Yes,No,0,0,46-55
+CLM202300183,11/11/2024,Kisumu,Comprehensive,Online,Theft,34,10,89,60186,137529,3,No,Yes,0,0,26-35
+CLM202300184,8/11/2025,Mombasa,Third Party,Agent,Collision,31,14,7,13639,286862,4,No,No,1,0,26-35
+CLM202300185,11/9/2024,Uasin Gishu,Third Party,Online,Fire,59,2,50,15823,209485,2,Yes,No,1,0,56+
+CLM202300186,9/2/2024,Nairobi,Comprehensive,Agent,Weather,37,12,34,56364,323124,14,No,No,0,0,36-45
+CLM202300187,8/16/2023,Machakos,Third Party Fire & Theft,Online,Theft,57,3,60,32873,274778,10,No,No,2,0,56+
+CLM202300188,6/5/2024,Nairobi,Comprehensive,Broker,Fire,23,5,4,46970,107053,6,No,No,0,0,18-25
+CLM202300189,11/23/2023,Other,Third Party Fire & Theft,Online,Collision,44,10,51,22184,138386,5,Yes,No,1,0,36-45
+CLM202300190,2/17/2024,Nairobi,Comprehensive,Agent,Windscreen,61,3,95,74797,19757,3,No,No,2,0,56+
+CLM202300191,7/24/2025,Nairobi,Comprehensive,Agent,Weather,38,4,103,35550,149970,1,Yes,No,4,0,36-45
+CLM202300192,5/12/2025,Machakos,Third Party,Agent,Collision,35,2,31,12293,152108,2,Yes,Yes,1,0,26-35
+CLM202300193,4/11/2025,Machakos,Comprehensive,Agent,Collision,25,10,52,33102,87697,3,Yes,No,0,0,18-25
+CLM202300194,5/10/2024,Uasin Gishu,Comprehensive,Broker,Theft,50,3,83,36856,182501,2,Yes,Yes,0,0,46-55
+CLM202300195,8/6/2026,Other,Comprehensive,Agent,Theft,30,6,56,68065,262125,7,No,No,0,0,26-35
+CLM202300196,4/30/2023,Nairobi,Comprehensive,Call Centre,Theft,37,8,66,68706,81024,11,Yes,Yes,0,0,36-45
+CLM202300197,4/14/2024,Machakos,Third Party,Agent,Collision,24,8,41,15672,186856,5,Yes,Yes,0,0,18-25
+CLM202300198,6/11/2023,Kiambu,Third Party Fire & Theft,Agent,Collision,55,7,101,29876,41009,19,Yes,No,0,0,46-55
+CLM202300199,4/9/2024,Nakuru,Third Party Fire & Theft,Call Centre,Theft,51,7,76,25924,438928,3,Yes,No,3,0,46-55
+CLM202300200,8/9/2026,Mombasa,Comprehensive,Agent,Theft,38,2,116,34379,276337,5,Yes,No,0,0,36-45
+CLM202300201,5/16/2024,Nairobi,Comprehensive,Online,Fire,25,5,94,89324,613955,5,Yes,Yes,1,0,18-25
+CLM202300202,5/28/2026,Nakuru,Comprehensive,Call Centre,Windscreen,55,7,45,70536,10683,15,Yes,No,2,0,46-55
+CLM202300203,11/8/2024,Uasin Gishu,Comprehensive,Call Centre,Fire,34,7,40,53008,412921,6,Yes,No,0,0,26-35
+CLM202300204,8/15/2025,Nairobi,Comprehensive,Broker,Windscreen,26,6,11,37771,55178,6,Yes,Yes,0,0,26-35
+CLM202300205,9/18/2024,Other,Third Party Fire & Theft,Agent,Theft,19,4,75,24413,156662,1,Yes,No,1,0,18-25
+CLM202300206,12/30/2023,Nakuru,Third Party Fire & Theft,Broker,Theft,31,7,90,21418,134097,2,Yes,Yes,2,0,26-35
+CLM202300207,11/12/2025,Nairobi,Third Party,Call Centre,Theft,22,8,43,16443,76078,15,No,No,0,0,18-25
+CLM202300208,8/19/2026,Kisumu,Comprehensive,Call Centre,Collision,31,5,3,52351,49407,1,No,Yes,0,0,26-35
+CLM202300209,12/27/2023,Nairobi,Comprehensive,Agent,Collision,46,11,100,43627,79499,18,No,No,0,0,46-55
+CLM202300210,12/2/2025,Nairobi,Comprehensive,Online,Theft,34,15,27,31943,66371,9,Yes,No,1,0,26-35
+CLM202300211,12/24/2023,Kisumu,Comprehensive,Online,Vandalism,42,6,70,87198,233879,3,Yes,Yes,1,0,36-45
+CLM202300212,9/8/2025,Nairobi,Comprehensive,Agent,Fire,30,3,7,51301,50142,3,No,No,0,0,26-35
+CLM202300213,12/16/2025,Nairobi,Comprehensive,Broker,Collision,39,2,8,54546,163343,30,Yes,No,2,0,36-45
+CLM202300214,9/7/2024,Uasin Gishu,Comprehensive,Agent,Theft,59,5,108,42646,256837,19,Yes,No,1,0,56+
+CLM202300215,10/5/2025,Nairobi,Third Party Fire & Theft,Online,Collision,34,6,81,16789,193008,5,Yes,Yes,0,0,26-35
+CLM202300216,1/8/2024,Uasin Gishu,Comprehensive,Agent,Windscreen,42,2,1,46893,37269,6,Yes,Yes,0,0,36-45
+CLM202300217,4/19/2023,Uasin Gishu,Third Party Fire & Theft,Online,Windscreen,21,5,13,23750,55649,3,Yes,No,1,0,18-25
+CLM202300218,5/12/2023,Nairobi,Comprehensive,Agent,Theft,55,11,60,58549,126867,6,Yes,No,1,0,46-55
+CLM202300219,9/3/2024,Mombasa,Third Party,Online,Theft,33,1,82,20621,194400,3,Yes,No,0,0,26-35
+CLM202300220,5/20/2026,Nairobi,Comprehensive,Agent,Collision,50,7,51,59466,114650,5,Yes,Yes,0,0,46-55
+CLM202300221,6/24/2023,Nakuru,Comprehensive,Call Centre,Collision,37,4,105,63302,411066,28,Yes,No,2,0,36-45
+CLM202300222,9/15/2024,Nairobi,Comprehensive,Agent,Vandalism,45,6,79,79537,350065,5,No,Yes,0,1,36-45
+CLM202300223,8/21/2025,Other,Comprehensive,Online,Windscreen,45,16,74,53536,10042,2,No,Yes,0,0,36-45
+CLM202300224,10/5/2023,Nairobi,Third Party Fire & Theft,Agent,Theft,33,6,35,35370,35695,2,Yes,No,0,0,26-35
+CLM202300225,9/14/2025,Kisumu,Comprehensive,Agent,Collision,50,5,82,55118,228615,6,Yes,No,1,0,46-55
+CLM202300226,2/23/2024,Nairobi,Third Party,Agent,Collision,30,9,105,9399,341392,3,Yes,No,0,0,26-35
+CLM202300227,1/12/2026,Nairobi,Comprehensive,Agent,Collision,47,8,6,45968,693891,7,Yes,Yes,0,0,46-55
+CLM202300228,3/3/2025,Mombasa,Comprehensive,Agent,Collision,34,7,89,37647,261660,1,No,Yes,1,1,26-35
+CLM202300229,1/18/2025,Nakuru,Comprehensive,Online,Collision,42,8,106,51213,442906,10,Yes,No,1,0,36-45
+CLM202300230,8/31/2023,Other,Comprehensive,Broker,Weather,33,13,52,38464,383028,2,Yes,Yes,1,0,26-35
+CLM202300231,9/26/2024,Nairobi,Third Party Fire & Theft,Agent,Theft,39,11,92,30805,585051,6,No,No,2,1,36-45
+CLM202300232,3/18/2026,Nairobi,Third Party,Online,Collision,26,5,43,21058,293437,4,Yes,No,1,0,26-35
+CLM202300233,1/27/2023,Kiambu,Third Party,Broker,Collision,41,15,24,22412,51986,26,Yes,Yes,1,0,36-45
+CLM202300234,11/4/2025,Kiambu,Comprehensive,Agent,Collision,38,4,98,75535,144033,6,No,No,0,0,36-45
+CLM202300235,11/5/2024,Other,Comprehensive,Online,Windscreen,32,7,38,30022,33181,30,Yes,No,1,0,26-35
+CLM202300236,9/11/2025,Other,Third Party Fire & Theft,Agent,Collision,37,7,91,18585,133872,9,Yes,No,0,0,36-45
+CLM202300237,6/27/2025,Other,Comprehensive,Agent,Windscreen,39,5,38,108961,25316,20,No,Yes,0,0,36-45
+CLM202300238,8/14/2024,Nairobi,Comprehensive,Online,Windscreen,31,14,48,63680,91443,5,Yes,No,0,0,26-35
+CLM202300239,2/27/2024,Mombasa,Comprehensive,Call Centre,Collision,37,5,83,51113,79144,7,Yes,No,2,0,36-45
+CLM202300240,5/8/2025,Uasin Gishu,Third Party,Call Centre,Theft,27,6,41,16144,343477,16,Yes,No,0,0,26-35
+CLM202300241,7/11/2023,Kiambu,Third Party,Call Centre,Weather,64,12,97,15747,130740,12,Yes,Yes,0,0,56+
+CLM202300242,3/10/2025,Kisumu,Third Party,Online,Collision,50,4,5,9310,73018,9,Yes,Yes,0,0,46-55
+CLM202300243,5/10/2023,Nairobi,Third Party,Agent,Collision,41,2,2,12889,61280,4,Yes,No,0,0,36-45
+CLM202300244,6/8/2025,Kiambu,Comprehensive,Online,Vandalism,51,7,10,46520,16730,5,Yes,No,1,0,46-55
+CLM202300245,5/10/2025,Machakos,Third Party Fire & Theft,Agent,Vandalism,18,3,31,21278,96225,15,Yes,No,0,0,18-25
+CLM202300246,4/26/2023,Nairobi,Comprehensive,Agent,Theft,18,3,7,40746,172308,18,Yes,No,1,0,18-25
+CLM202300247,11/3/2025,Other,Third Party,Agent,Theft,34,1,46,32754,93621,3,No,Yes,0,0,26-35
+CLM202300248,7/23/2024,Kiambu,Comprehensive,Online,Collision,23,1,3,44734,32325,3,Yes,No,1,0,18-25
+CLM202300249,12/13/2025,Nairobi,Third Party Fire & Theft,Online,Windscreen,35,1,91,28106,36896,2,Yes,Yes,2,0,26-35
+CLM202300250,2/26/2023,Nairobi,Comprehensive,Agent,Theft,40,16,19,51373,157732,12,No,Yes,0,0,36-45
+CLM202300251,9/3/2023,Nairobi,Comprehensive,Broker,Collision,48,1,117,56614,81923,2,Yes,Yes,0,0,46-55
+CLM202300252,11/7/2024,Mombasa,Comprehensive,Online,Fire,25,3,103,41995,77112,11,Yes,No,1,0,18-25
+CLM202300253,9/15/2023,Nairobi,Comprehensive,Call Centre,Weather,42,6,84,68058,83864,9,Yes,Yes,1,0,36-45
+CLM202300254,3/27/2024,Nakuru,Comprehensive,Agent,Windscreen,38,9,96,54347,38013,3,Yes,No,0,0,36-45
+CLM202300255,6/23/2025,Machakos,Third Party,Online,Collision,42,10,93,11158,111358,22,No,No,0,0,36-45
+CLM202300256,7/17/2023,Kiambu,Comprehensive,Agent,Collision,32,3,102,46577,56031,1,Yes,Yes,0,0,26-35
+CLM202300257,7/16/2025,Nairobi,Third Party Fire & Theft,Online,Weather,53,7,67,24776,96888,24,No,No,0,1,46-55
+CLM202300258,5/22/2023,Kiambu,Comprehensive,Agent,Vandalism,37,6,75,45156,150606,7,Yes,Yes,1,0,36-45
+CLM202300259,8/28/2023,Uasin Gishu,Third Party,Agent,Theft,58,6,57,18452,187184,1,Yes,Yes,0,0,56+
+CLM202300260,3/15/2025,Nakuru,Comprehensive,Broker,Fire,29,7,75,57336,176132,23,Yes,No,1,1,26-35
+CLM202300261,12/22/2025,Nairobi,Third Party,Agent,Collision,46,8,46,18490,111743,13,Yes,No,1,0,46-55
+CLM202300262,8/22/2023,Nakuru,Third Party,Agent,Collision,37,4,15,17593,71165,4,Yes,No,1,0,36-45
+CLM202300263,2/15/2024,Mombasa,Comprehensive,Call Centre,Collision,34,13,112,49165,69298,2,Yes,No,0,0,26-35
+CLM202300264,6/20/2026,Kiambu,Third Party Fire & Theft,Agent,Collision,45,18,84,14236,38369,1,Yes,Yes,1,0,36-45
+CLM202300265,9/16/2026,Nairobi,Comprehensive,Broker,Collision,35,5,85,59681,373051,30,No,Yes,0,0,26-35
+CLM202300266,3/6/2025,Other,Comprehensive,Online,Windscreen,18,21,34,55033,37784,2,No,Yes,0,0,18-25
+CLM202300267,9/3/2024,Nairobi,Third Party,Agent,Collision,18,4,93,12144,154891,2,Yes,No,1,0,18-25
+CLM202300268,4/19/2024,Nairobi,Third Party,Online,Collision,52,7,63,17308,183681,7,No,Yes,1,0,46-55
+CLM202300269,4/18/2025,Nairobi,Comprehensive,Agent,Theft,52,6,10,57548,237817,1,Yes,Yes,1,0,46-55
+CLM202300270,3/19/2025,Nakuru,Comprehensive,Broker,Collision,59,6,115,66630,80568,2,Yes,No,1,0,56+
+CLM202300271,2/8/2024,Mombasa,Third Party Fire & Theft,Agent,Collision,38,12,120,29994,111779,13,Yes,No,1,0,36-45
+CLM202300272,2/1/2023,Nairobi,Third Party,Agent,Theft,24,5,105,17508,124028,8,Yes,Yes,2,0,18-25
+CLM202300273,7/27/2023,Mombasa,Third Party Fire & Theft,Online,Collision,33,3,57,33892,1081250,4,Yes,No,0,0,26-35
+CLM202300274,8/5/2026,Kisumu,Comprehensive,Call Centre,Theft,38,4,28,44052,409952,6,Yes,No,0,0,36-45
+CLM202300275,7/26/2024,Kiambu,Third Party,Broker,Vandalism,27,5,2,17956,74629,4,No,No,1,0,26-35
+CLM202300276,10/22/2024,Other,Comprehensive,Call Centre,Collision,56,7,89,40338,432474,5,Yes,No,1,0,56+
+CLM202300277,10/1/2024,Kiambu,Third Party Fire & Theft,Broker,Vandalism,63,3,107,35480,175911,3,No,No,1,0,56+
+CLM202300278,12/7/2025,Nairobi,Comprehensive,Broker,Vandalism,43,4,13,30584,21624,3,Yes,Yes,0,0,36-45
+CLM202300279,3/30/2023,Other,Third Party,Online,Windscreen,38,7,83,20111,21838,3,Yes,No,0,0,36-45
+CLM202300280,4/24/2023,Machakos,Comprehensive,Call Centre,Theft,24,7,4,48239,178898,3,Yes,Yes,1,0,18-25
+CLM202300281,1/13/2024,Kiambu,Third Party,Online,Theft,55,11,94,20966,295627,14,Yes,No,0,0,46-55
+CLM202300282,10/28/2024,Machakos,Third Party,Online,Theft,39,4,4,12859,151515,11,Yes,No,0,1,36-45
+CLM202300283,7/7/2025,Mombasa,Comprehensive,Broker,Fire,35,9,118,49225,154111,2,No,No,2,1,26-35
+CLM202300284,11/2/2024,Kiambu,Third Party Fire & Theft,Online,Collision,43,6,21,26445,100249,2,Yes,No,0,0,36-45
+CLM202300285,8/26/2024,Machakos,Comprehensive,Agent,Weather,32,4,49,54200,234911,5,Yes,No,0,0,26-35
+CLM202300286,7/7/2026,Uasin Gishu,Third Party,Online,Theft,40,6,84,11933,57123,30,No,No,0,1,36-45
+CLM202300287,8/9/2023,Kiambu,Comprehensive,Online,Windscreen,22,6,102,57360,18542,2,Yes,Yes,1,0,18-25
+CLM202300288,2/21/2025,Nakuru,Comprehensive,Call Centre,Collision,50,2,44,28627,33175,5,No,No,2,0,46-55
+CLM202300289,1/12/2025,Kiambu,Comprehensive,Online,Collision,37,2,118,39813,63626,6,Yes,No,0,0,36-45
+CLM202300290,10/10/2024,Nairobi,Comprehensive,Call Centre,Theft,51,9,2,30989,233602,5,Yes,Yes,1,0,46-55
+CLM202300291,1/10/2026,Other,Comprehensive,Online,Theft,36,5,57,60528,237176,4,Yes,No,0,0,36-45
+CLM202300292,1/1/2024,Nakuru,Third Party,Broker,Collision,37,7,119,17897,112864,15,Yes,Yes,1,0,36-45
+CLM202300293,7/29/2026,Nakuru,Third Party,Agent,Collision,25,9,33,18179,356353,8,Yes,No,0,0,18-25
+CLM202300294,3/29/2024,Nakuru,Third Party,Call Centre,Collision,46,6,65,24169,428362,12,Yes,Yes,0,0,46-55
+CLM202300295,1/16/2025,Nakuru,Comprehensive,Online,Theft,28,9,54,43936,171485,9,No,Yes,0,0,26-35
+CLM202300296,12/13/2024,Kiambu,Comprehensive,Agent,Collision,33,6,48,56934,177165,12,No,No,1,0,26-35
+CLM202300297,3/9/2026,Other,Comprehensive,Agent,Weather,38,7,93,48896,70670,23,Yes,No,1,0,36-45
+CLM202300298,8/23/2024,Nakuru,Third Party,Agent,Collision,39,12,63,15618,239426,18,Yes,No,0,0,36-45
+CLM202300299,1/25/2024,Kisumu,Third Party Fire & Theft,Online,Collision,19,5,86,37485,55784,30,Yes,No,0,0,18-25
+CLM202300300,1/30/2023,Mombasa,Comprehensive,Broker,Collision,35,9,63,85981,609965,16,Yes,Yes,0,0,26-35
+CLM202300301,5/12/2024,Kiambu,Third Party,Call Centre,Theft,47,2,120,14179,451180,3,Yes,Yes,1,0,46-55
+CLM202300302,2/5/2026,Nairobi,Comprehensive,Broker,Theft,34,7,57,60621,69459,12,Yes,No,2,0,26-35
+CLM202300303,1/14/2023,Kiambu,Comprehensive,Online,Fire,36,14,96,52486,88702,10,Yes,No,1,0,36-45
+CLM202300304,5/11/2026,Nairobi,Comprehensive,Online,Weather,40,22,74,52663,142175,30,Yes,No,1,0,36-45
+CLM202300305,1/13/2025,Kisumu,Comprehensive,Call Centre,Collision,37,2,97,51440,110624,2,No,Yes,1,0,36-45
+CLM202300306,7/12/2023,Machakos,Third Party,Call Centre,Fire,27,5,107,14575,257798,9,Yes,Yes,3,0,26-35
+CLM202300307,2/18/2024,Kiambu,Third Party Fire & Theft,Agent,Collision,38,3,28,9529,108768,3,No,Yes,0,0,36-45
+CLM202300308,1/28/2025,Kiambu,Comprehensive,Call Centre,Collision,49,6,37,73770,491068,9,No,No,1,0,46-55
+CLM202300309,3/8/2024,Kisumu,Comprehensive,Online,Collision,26,10,37,39515,145967,5,Yes,Yes,1,0,26-35
+CLM202300310,5/29/2023,Nairobi,Third Party,Call Centre,Collision,34,13,59,14954,1005437,8,Yes,No,2,0,26-35
+CLM202300311,6/30/2025,Other,Third Party Fire & Theft,Call Centre,Theft,23,13,60,24445,293541,2,Yes,Yes,0,0,18-25
+CLM202300312,7/9/2025,Kiambu,Third Party,Broker,Fire,48,2,1,12847,56655,11,No,No,1,0,46-55
+CLM202300313,6/12/2023,Nairobi,Comprehensive,Agent,Windscreen,37,6,108,51340,138536,7,Yes,Yes,1,0,36-45
+CLM202300314,1/21/2024,Nairobi,Third Party,Broker,Theft,29,4,104,15803,436514,6,Yes,No,0,0,26-35
+CLM202300315,11/30/2023,Other,Comprehensive,Agent,Theft,39,5,73,39274,245672,30,Yes,No,0,0,36-45
+CLM202300316,6/21/2025,Nairobi,Third Party Fire & Theft,Broker,Collision,25,4,37,27110,243238,4,No,Yes,3,1,18-25
+CLM202300317,9/26/2025,Kisumu,Comprehensive,Agent,Collision,27,2,100,47558,56008,7,Yes,Yes,2,0,26-35
+CLM202300318,9/22/2025,Nairobi,Third Party,Broker,Collision,22,13,33,20747,34234,6,No,Yes,0,0,18-25
+CLM202300319,7/9/2026,Nairobi,Comprehensive,Call Centre,Fire,26,4,37,32980,161273,7,Yes,No,0,0,26-35
+CLM202300320,11/18/2025,Machakos,Comprehensive,Agent,Weather,53,4,120,38309,305844,30,Yes,No,0,0,46-55
+CLM202300321,3/15/2024,Nairobi,Third Party Fire & Theft,Online,Collision,30,14,111,31855,198999,6,Yes,Yes,1,0,26-35
+CLM202300322,5/28/2023,Nairobi,Third Party,Broker,Theft,43,2,71,13376,711386,3,Yes,No,2,0,36-45
+CLM202300323,4/21/2025,Mombasa,Comprehensive,Online,Windscreen,29,8,21,37272,75107,29,Yes,Yes,0,0,26-35
+CLM202300324,6/8/2026,Machakos,Third Party Fire & Theft,Agent,Windscreen,46,11,15,22039,26534,4,Yes,No,1,0,46-55
+CLM202300325,8/27/2026,Kiambu,Third Party Fire & Theft,Agent,Theft,27,14,116,25275,467259,1,No,No,1,1,26-35
+CLM202300326,11/12/2023,Nairobi,Comprehensive,Online,Theft,38,8,32,46712,612748,3,No,No,0,0,36-45
+CLM202300327,11/20/2023,Other,Comprehensive,Broker,Fire,39,10,82,45260,156390,2,Yes,Yes,1,0,36-45
+CLM202300328,2/21/2023,Kisumu,Comprehensive,Broker,Vandalism,64,11,43,35989,54993,1,Yes,No,0,0,56+
+CLM202300329,7/13/2023,Machakos,Third Party,Agent,Collision,45,6,60,19867,162243,4,Yes,No,0,0,36-45
+CLM202300330,1/29/2025,Uasin Gishu,Comprehensive,Online,Vandalism,31,3,119,69585,9475,5,Yes,Yes,0,0,26-35
+CLM202300331,1/18/2025,Kisumu,Comprehensive,Online,Collision,46,15,72,28114,181468,16,No,No,1,0,46-55
+CLM202300332,5/22/2024,Kiambu,Third Party Fire & Theft,Agent,Windscreen,62,9,52,16829,46446,10,No,No,0,0,56+
+CLM202300333,2/29/2024,Kiambu,Third Party Fire & Theft,Broker,Collision,20,6,50,34429,162771,9,No,No,0,1,18-25
+CLM202300334,2/9/2026,Kisumu,Third Party,Online,Collision,29,2,28,24832,191038,2,Yes,No,0,0,26-35
+CLM202300335,9/21/2024,Kisumu,Third Party Fire & Theft,Online,Collision,35,1,67,14324,140043,12,Yes,No,0,0,26-35
+CLM202300336,1/11/2026,Other,Third Party,Call Centre,Collision,33,8,69,20104,29345,19,No,No,1,1,26-35
+CLM202300337,8/11/2026,Nakuru,Third Party,Online,Collision,34,1,12,25310,548293,8,Yes,Yes,1,1,26-35
+CLM202300338,3/10/2024,Kiambu,Third Party,Broker,Collision,24,6,49,12567,108037,8,Yes,No,0,0,18-25
+CLM202300339,10/5/2023,Mombasa,Comprehensive,Agent,Collision,53,4,78,74702,88457,2,Yes,No,0,0,46-55
+CLM202300340,7/28/2026,Nakuru,Comprehensive,Agent,Collision,22,4,7,45666,429714,14,No,No,2,1,18-25
+CLM202300341,5/19/2025,Mombasa,Comprehensive,Agent,Windscreen,36,13,118,52421,57105,27,Yes,No,1,0,36-45
+CLM202300342,2/3/2024,Uasin Gishu,Third Party,Broker,Vandalism,50,4,104,13082,81181,7,No,No,1,0,46-55
+CLM202300343,5/1/2025,Nakuru,Comprehensive,Call Centre,Fire,38,6,77,63529,308583,3,Yes,Yes,0,0,36-45
+CLM202300344,12/6/2024,Nairobi,Comprehensive,Agent,Collision,27,4,2,60634,57555,5,Yes,Yes,0,0,26-35
+CLM202300345,5/24/2026,Nakuru,Third Party,Agent,Collision,23,7,63,25933,135913,4,Yes,No,0,0,18-25
+CLM202300346,12/17/2023,Nakuru,Comprehensive,Online,Vandalism,35,7,108,71849,183838,4,No,No,1,0,26-35
+CLM202300347,9/19/2026,Other,Comprehensive,Broker,Collision,30,6,3,47877,84354,10,Yes,Yes,1,0,26-35
+CLM202300348,7/5/2026,Mombasa,Third Party,Broker,Collision,40,11,96,38204,65240,7,No,No,1,1,36-45
+CLM202300349,9/5/2023,Nakuru,Third Party Fire & Theft,Broker,Weather,23,2,101,37952,108088,14,Yes,No,1,0,18-25
+CLM202300350,8/14/2023,Mombasa,Comprehensive,Call Centre,Weather,47,1,10,55843,110135,8,No,No,0,0,46-55
+CLM202300351,12/30/2024,Nakuru,Comprehensive,Agent,Collision,39,2,28,36307,243421,3,No,No,0,0,36-45
+CLM202300352,3/3/2023,Nairobi,Comprehensive,Broker,Fire,40,7,87,31274,55366,3,Yes,No,1,0,36-45
+CLM202300353,2/14/2024,Other,Third Party,Broker,Collision,54,8,110,10676,18864,3,No,No,2,0,46-55
+CLM202300354,8/18/2024,Other,Third Party,Online,Windscreen,33,0,93,12319,54539,5,Yes,Yes,0,1,26-35
+CLM202300355,8/20/2026,Nakuru,Comprehensive,Call Centre,Collision,30,8,64,70587,60968,28,No,No,0,0,26-35
+CLM202300356,9/20/2026,Nakuru,Third Party,Agent,Collision,32,5,73,18338,89009,30,No,No,0,0,26-35
+CLM202300357,7/27/2023,Nairobi,Comprehensive,Broker,Theft,36,15,63,40425,31604,12,Yes,No,0,1,36-45
+CLM202300358,5/5/2026,Nakuru,Comprehensive,Broker,Collision,37,8,70,46208,328673,6,Yes,No,1,0,36-45
+CLM202300359,5/5/2023,Mombasa,Third Party Fire & Theft,Call Centre,Fire,29,14,93,24190,220692,2,No,No,0,0,26-35
+CLM202300360,10/21/2025,Kisumu,Comprehensive,Online,Collision,18,13,6,60052,185841,7,No,Yes,1,0,18-25
+CLM202300361,3/3/2026,Nairobi,Comprehensive,Online,Vandalism,32,5,26,37530,83179,3,Yes,Yes,2,0,26-35
+CLM202300362,5/4/2026,Kisumu,Comprehensive,Call Centre,Windscreen,42,10,8,52938,5022,24,No,Yes,0,0,36-45
+CLM202300363,11/2/2023,Kiambu,Third Party,Broker,Theft,39,5,96,17402,82413,1,Yes,No,2,0,36-45
+CLM202300364,5/8/2026,Kisumu,Third Party Fire & Theft,Online,Windscreen,51,17,88,20500,18184,8,Yes,No,1,0,46-55
+CLM202300365,6/8/2023,Nakuru,Third Party Fire & Theft,Broker,Collision,60,5,7,40558,79658,2,Yes,Yes,1,0,56+
+CLM202300366,12/11/2024,Nairobi,Comprehensive,Agent,Theft,46,9,13,44187,145863,5,Yes,Yes,1,0,46-55
+CLM202300367,10/4/2024,Mombasa,Comprehensive,Broker,Collision,53,18,32,36351,176566,10,Yes,No,0,0,46-55
+CLM202300368,3/8/2024,Machakos,Third Party,Call Centre,Vandalism,46,9,30,20316,145966,14,Yes,Yes,1,0,46-55
+CLM202300369,1/31/2023,Nakuru,Comprehensive,Online,Windscreen,57,4,63,48738,7987,5,Yes,Yes,0,0,56+
+CLM202300370,11/22/2025,Nairobi,Third Party Fire & Theft,Online,Vandalism,58,2,60,29150,64790,11,Yes,Yes,0,0,56+
+CLM202300371,4/4/2024,Mombasa,Third Party,Call Centre,Vandalism,48,2,43,11483,115291,3,No,No,0,0,46-55
+CLM202300372,6/24/2025,Kiambu,Comprehensive,Broker,Weather,46,8,20,60261,48463,7,No,No,1,0,46-55
+CLM202300373,7/15/2024,Kisumu,Third Party,Call Centre,Collision,36,6,78,29396,124271,13,No,No,1,0,36-45
+CLM202300374,5/26/2024,Nakuru,Comprehensive,Online,Vandalism,38,2,95,33704,94771,7,Yes,Yes,0,0,36-45
+CLM202300375,4/28/2026,Nairobi,Comprehensive,Call Centre,Theft,34,10,77,53005,182883,3,No,Yes,0,0,26-35
+CLM202300376,5/10/2023,Nakuru,Third Party,Agent,Collision,45,10,97,12842,248661,4,Yes,No,0,0,36-45
+CLM202300377,10/5/2025,Uasin Gishu,Comprehensive,Online,Theft,30,6,110,101930,195515,14,Yes,No,1,0,26-35
+CLM202300378,10/19/2025,Uasin Gishu,Third Party,Online,Collision,36,15,102,22639,112984,2,No,Yes,0,0,36-45
+CLM202300379,6/4/2024,Nairobi,Third Party,Broker,Collision,18,1,79,17315,56745,2,Yes,No,0,0,18-25
+CLM202300380,12/26/2023,Kiambu,Third Party Fire & Theft,Call Centre,Collision,57,5,6,18436,176703,9,No,No,0,0,56+
+CLM202300381,1/8/2023,Mombasa,Third Party Fire & Theft,Broker,Collision,36,9,41,19727,157073,4,Yes,No,0,0,36-45
+CLM202300382,7/6/2026,Nairobi,Comprehensive,Broker,Theft,43,3,52,59155,81909,1,Yes,No,1,0,36-45
+CLM202300383,7/21/2026,Mombasa,Comprehensive,Online,Vandalism,54,10,86,32776,103946,18,Yes,Yes,0,0,46-55
+CLM202300384,11/26/2023,Nairobi,Third Party,Online,Theft,41,12,102,11022,499804,2,Yes,Yes,2,0,36-45
+CLM202300385,2/13/2023,Nairobi,Third Party Fire & Theft,Online,Theft,54,1,77,26064,106890,5,Yes,No,2,0,46-55
+CLM202300386,6/18/2023,Kisumu,Comprehensive,Agent,Collision,24,15,44,49827,81014,3,Yes,No,0,0,18-25
+CLM202300387,4/3/2023,Nairobi,Comprehensive,Online,Collision,64,8,95,53389,78682,4,Yes,No,3,0,56+
+CLM202300388,2/11/2026,Kisumu,Comprehensive,Call Centre,Collision,50,4,84,42442,37857,2,No,Yes,1,0,46-55
+CLM202300389,5/6/2026,Nairobi,Comprehensive,Broker,Windscreen,40,2,96,62106,129738,10,Yes,Yes,2,1,36-45
+CLM202300390,7/29/2023,Nakuru,Third Party,Broker,Collision,54,11,71,12570,101253,6,Yes,No,0,0,46-55
+CLM202300391,10/19/2025,Kiambu,Comprehensive,Online,Windscreen,25,2,78,57206,13134,13,Yes,No,1,1,18-25
+CLM202300392,9/3/2023,Uasin Gishu,Third Party,Online,Windscreen,35,8,42,16989,10596,3,Yes,Yes,0,0,26-35
+CLM202300393,5/17/2024,Uasin Gishu,Third Party,Agent,Theft,54,2,48,18930,132888,30,Yes,No,1,1,46-55
+CLM202300394,3/31/2025,Kiambu,Third Party,Online,Vandalism,18,6,34,22277,37415,1,Yes,No,0,0,18-25
+CLM202300395,9/12/2025,Nakuru,Comprehensive,Online,Collision,44,11,31,42254,458148,1,No,No,0,0,36-45
+CLM202300396,4/12/2026,Nairobi,Comprehensive,Agent,Vandalism,44,4,79,39889,24028,27,Yes,No,1,1,36-45
+CLM202300397,3/3/2023,Nakuru,Third Party,Agent,Windscreen,60,15,47,9973,7623,8,No,Yes,1,0,56+
+CLM202300398,9/26/2023,Nairobi,Third Party,Broker,Windscreen,21,9,17,9091,40584,7,Yes,No,2,0,18-25
+CLM202300399,1/20/2024,Mombasa,Comprehensive,Online,Fire,56,3,5,45692,153045,8,Yes,No,0,0,56+
+CLM202300400,2/29/2024,Nairobi,Third Party Fire & Theft,Online,Vandalism,32,2,104,25229,54591,9,Yes,No,0,0,26-35
+CLM202300401,9/28/2026,Other,Comprehensive,Agent,Weather,33,3,53,35414,158819,7,Yes,No,0,0,26-35
+CLM202300402,11/30/2025,Mombasa,Third Party Fire & Theft,Online,Collision,25,6,70,20373,161758,2,Yes,Yes,1,0,18-25
+CLM202300403,3/14/2024,Nakuru,Comprehensive,Online,Windscreen,26,16,109,73535,25141,11,Yes,No,0,0,26-35
+CLM202300404,8/23/2026,Kiambu,Comprehensive,Online,Windscreen,42,18,14,61340,8478,10,Yes,No,1,0,36-45
+CLM202300405,11/14/2024,Kiambu,Comprehensive,Broker,Collision,26,4,113,33715,38178,20,Yes,Yes,0,0,26-35
+CLM202300406,11/16/2024,Nairobi,Comprehensive,Agent,Vandalism,46,4,85,42408,37259,27,Yes,No,0,0,46-55
+CLM202300407,8/16/2024,Other,Comprehensive,Call Centre,Collision,31,10,77,53779,60901,7,No,Yes,0,0,26-35
+CLM202300408,7/16/2023,Uasin Gishu,Comprehensive,Agent,Theft,25,10,52,40278,224807,2,No,No,1,0,18-25
+CLM202300409,7/3/2026,Nairobi,Comprehensive,Online,Collision,32,13,85,38274,34390,27,Yes,No,1,0,26-35
+CLM202300410,1/20/2023,Uasin Gishu,Third Party,Agent,Collision,42,14,25,14554,101393,2,Yes,Yes,1,0,36-45
+CLM202300411,8/27/2023,Mombasa,Comprehensive,Online,Vandalism,35,3,37,65143,56813,7,Yes,No,0,1,26-35
+CLM202300412,11/11/2023,Nairobi,Third Party,Agent,Collision,38,2,116,22273,140472,4,No,No,0,0,36-45
+CLM202300413,1/18/2024,Mombasa,Third Party,Call Centre,Collision,46,9,34,13022,199518,4,Yes,No,0,1,46-55
+CLM202300414,6/30/2023,Nairobi,Comprehensive,Online,Collision,50,7,87,54607,111665,11,Yes,No,0,0,46-55
+CLM202300415,1/25/2023,Nairobi,Comprehensive,Broker,Theft,35,1,112,47914,106259,7,No,Yes,0,0,26-35
+CLM202300416,7/16/2025,Kisumu,Third Party Fire & Theft,Agent,Windscreen,27,2,72,19605,70635,9,Yes,No,1,0,26-35
+CLM202300417,8/19/2026,Nairobi,Third Party,Agent,Vandalism,39,9,36,14723,50511,3,Yes,No,1,0,36-45
+CLM202300418,6/16/2023,Other,Comprehensive,Online,Collision,43,6,102,33690,451257,5,No,Yes,0,1,36-45
+CLM202300419,2/10/2024,Kisumu,Third Party,Online,Theft,22,9,100,22159,139739,3,No,No,1,0,18-25
+CLM202300420,11/24/2024,Machakos,Comprehensive,Online,Collision,28,3,66,74135,143125,5,Yes,Yes,2,0,26-35
+CLM202300421,6/23/2026,Nakuru,Comprehensive,Call Centre,Theft,30,9,14,42787,162208,5,Yes,Yes,0,0,26-35
+CLM202300422,8/8/2025,Machakos,Third Party,Broker,Collision,36,8,53,13341,174462,29,Yes,No,1,0,36-45
+CLM202300423,11/14/2025,Kiambu,Comprehensive,Call Centre,Collision,30,10,52,64489,103633,4,Yes,No,0,0,26-35
+CLM202300424,3/6/2025,Nakuru,Third Party,Agent,Collision,46,4,23,22491,156592,1,Yes,No,0,0,46-55
+CLM202300425,7/24/2024,Mombasa,Comprehensive,Broker,Theft,20,4,49,35134,616790,19,Yes,No,0,0,18-25
+CLM202300426,10/1/2023,Other,Third Party,Broker,Theft,21,2,19,15350,419456,8,Yes,Yes,2,0,18-25
+CLM202300427,3/29/2026,Nairobi,Comprehensive,Broker,Collision,34,5,84,47214,337419,5,No,No,1,0,26-35
+CLM202300428,1/5/2026,Nakuru,Comprehensive,Call Centre,Windscreen,36,12,52,38682,8921,4,No,Yes,2,0,36-45
+CLM202300429,2/4/2023,Uasin Gishu,Comprehensive,Broker,Windscreen,22,14,88,53478,10154,2,No,Yes,0,0,18-25
+CLM202300430,9/6/2025,Kiambu,Comprehensive,Call Centre,Collision,31,2,55,39457,172593,30,Yes,Yes,1,0,26-35
+CLM202300431,4/26/2023,Machakos,Third Party,Broker,Windscreen,34,6,86,13754,48353,6,Yes,Yes,3,1,26-35
+CLM202300432,10/8/2025,Kiambu,Comprehensive,Agent,Vandalism,34,16,88,46657,43074,1,Yes,No,1,0,26-35
+CLM202300433,2/4/2026,Nairobi,Comprehensive,Broker,Collision,40,17,20,31635,82985,7,Yes,No,0,0,36-45
+CLM202300434,6/29/2023,Nakuru,Comprehensive,Online,Theft,31,5,54,26988,552775,16,Yes,No,0,1,26-35
+CLM202300435,8/16/2024,Mombasa,Comprehensive,Call Centre,Collision,54,13,90,62073,250996,6,No,No,0,0,46-55
+CLM202300436,6/19/2023,Nairobi,Third Party,Call Centre,Windscreen,43,11,72,13005,60845,2,Yes,Yes,0,0,36-45
+CLM202300437,2/15/2025,Nairobi,Comprehensive,Agent,Collision,29,11,27,87266,101857,2,Yes,No,2,0,26-35
+CLM202300438,6/23/2026,Nairobi,Third Party Fire & Theft,Agent,Fire,39,1,100,45160,110000,2,Yes,Yes,1,0,36-45
+CLM202300439,4/21/2023,Uasin Gishu,Comprehensive,Agent,Collision,39,4,24,41654,309775,22,No,No,0,0,36-45
+CLM202300440,6/28/2024,Other,Third Party,Online,Theft,51,5,120,30800,146892,5,Yes,No,0,0,46-55
+CLM202300441,8/25/2026,Nakuru,Comprehensive,Agent,Weather,31,5,85,62410,62263,1,Yes,Yes,1,0,26-35
+CLM202300442,2/16/2024,Nairobi,Comprehensive,Broker,Collision,46,6,39,40065,69838,8,Yes,No,2,1,46-55
+CLM202300443,7/1/2023,Nakuru,Third Party Fire & Theft,Broker,Vandalism,38,18,24,12619,43345,6,No,No,1,0,36-45
+CLM202300444,10/30/2024,Machakos,Third Party Fire & Theft,Call Centre,Weather,54,5,109,31525,204410,4,Yes,Yes,0,0,46-55
+CLM202300445,11/26/2024,Uasin Gishu,Third Party Fire & Theft,Agent,Vandalism,52,8,63,26229,19502,2,Yes,No,0,0,46-55
+CLM202300446,6/26/2025,Kiambu,Comprehensive,Online,Collision,40,8,97,54162,239841,2,No,No,0,0,36-45
+CLM202300447,3/5/2024,Nairobi,Comprehensive,Agent,Windscreen,35,6,100,45021,14811,15,Yes,Yes,0,0,26-35
+CLM202300448,8/1/2026,Other,Third Party,Call Centre,Collision,44,3,9,11615,122547,7,Yes,Yes,0,0,36-45
+CLM202300449,12/14/2024,Machakos,Comprehensive,Agent,Collision,36,6,83,42591,128990,8,No,No,0,0,36-45
+CLM202300450,1/28/2024,Nairobi,Third Party,Agent,Vandalism,56,1,41,19501,54687,7,Yes,No,1,0,56+
+CLM202300451,8/7/2026,Machakos,Third Party,Agent,Fire,39,8,109,14489,132528,7,Yes,No,0,0,36-45
+CLM202300452,6/20/2026,Nairobi,Third Party,Call Centre,Theft,34,1,27,14464,127026,4,Yes,No,2,0,26-35
+CLM202300453,11/14/2024,Nairobi,Third Party,Agent,Collision,33,8,5,10456,91798,5,Yes,Yes,1,0,26-35
+CLM202300454,2/4/2023,Uasin Gishu,Third Party,Broker,Windscreen,25,4,80,16414,75020,16,Yes,No,0,0,18-25
+CLM202300455,3/28/2025,Nakuru,Comprehensive,Broker,Fire,44,3,67,35158,170125,20,No,No,1,1,36-45
+CLM202300456,1/30/2025,Mombasa,Comprehensive,Broker,Collision,29,10,67,62078,131102,2,No,No,1,0,26-35
+CLM202300457,7/22/2023,Other,Third Party,Agent,Vandalism,50,4,32,13027,38959,5,Yes,No,1,0,46-55
+CLM202300458,5/17/2025,Machakos,Comprehensive,Agent,Collision,24,6,60,44186,104625,12,No,No,1,0,18-25
+CLM202300459,2/25/2026,Nairobi,Comprehensive,Online,Collision,39,1,116,87981,86817,30,No,No,0,0,36-45
+CLM202300460,5/25/2023,Nakuru,Comprehensive,Agent,Fire,51,15,92,44052,307591,27,Yes,Yes,2,0,46-55
+CLM202300461,9/17/2025,Uasin Gishu,Third Party,Broker,Weather,18,7,119,14143,55544,3,No,Yes,0,0,18-25
+CLM202300462,7/12/2023,Nakuru,Third Party,Online,Collision,60,7,40,18851,24040,17,No,No,1,0,56+
+CLM202300463,10/22/2025,Other,Third Party,Online,Collision,33,9,105,9706,151924,6,No,Yes,1,0,26-35
+CLM202300464,7/27/2024,Kisumu,Comprehensive,Agent,Collision,40,0,46,68131,115957,14,Yes,Yes,0,1,36-45
+CLM202300465,1/9/2023,Nairobi,Comprehensive,Broker,Vandalism,44,16,113,63403,40837,11,No,No,0,1,36-45
+CLM202300466,8/15/2026,Nairobi,Comprehensive,Agent,Collision,46,5,104,55592,300660,2,Yes,No,2,0,46-55
+CLM202300467,8/16/2023,Machakos,Comprehensive,Broker,Theft,41,15,20,18646,20350,9,Yes,Yes,1,0,36-45
+CLM202300468,3/26/2025,Other,Third Party,Agent,Weather,49,5,117,14879,358187,14,Yes,Yes,0,0,46-55
+CLM202300469,9/6/2023,Nairobi,Third Party,Call Centre,Collision,44,4,73,11203,337132,5,Yes,Yes,1,0,36-45
+CLM202300470,7/1/2026,Nairobi,Comprehensive,Broker,Theft,57,8,94,65756,109665,4,Yes,Yes,0,0,56+
+CLM202300471,10/7/2025,Uasin Gishu,Comprehensive,Agent,Theft,44,21,70,64452,126375,1,Yes,Yes,1,0,36-45
+CLM202300472,1/6/2026,Nairobi,Comprehensive,Agent,Windscreen,60,13,27,53509,39074,10,Yes,No,0,0,56+
+CLM202300473,8/14/2024,Nairobi,Third Party Fire & Theft,Online,Collision,48,9,119,18564,221785,7,No,No,1,0,46-55
+CLM202300474,10/1/2024,Other,Third Party,Agent,Collision,18,8,14,24313,87324,2,Yes,Yes,1,0,18-25
+CLM202300475,5/18/2025,Uasin Gishu,Comprehensive,Agent,Collision,67,6,98,44602,39778,4,Yes,Yes,0,0,56+
+CLM202300476,12/10/2025,Other,Third Party Fire & Theft,Call Centre,Windscreen,32,15,26,43103,141583,6,Yes,No,1,0,26-35
+CLM202300477,3/5/2026,Kisumu,Comprehensive,Broker,Windscreen,54,10,95,51703,56083,3,Yes,Yes,3,0,46-55
+CLM202300478,1/25/2023,Kiambu,Comprehensive,Agent,Collision,38,2,51,55318,164386,5,Yes,Yes,0,1,36-45
+CLM202300479,6/27/2025,Other,Third Party Fire & Theft,Broker,Collision,50,3,29,22856,166893,1,Yes,Yes,1,0,46-55
+CLM202300480,5/30/2023,Kiambu,Comprehensive,Agent,Vandalism,30,9,29,71175,107263,18,Yes,No,2,0,26-35
+CLM202300481,1/30/2024,Nairobi,Comprehensive,Call Centre,Collision,45,2,39,56915,262325,6,No,Yes,0,0,36-45
+CLM202300482,2/9/2026,Other,Third Party,Agent,Collision,35,7,109,23965,27321,2,Yes,No,1,0,26-35
+CLM202300483,12/9/2023,Kisumu,Comprehensive,Broker,Theft,55,11,93,50446,136890,1,Yes,No,0,1,46-55
+CLM202300484,12/26/2025,Other,Third Party,Broker,Collision,43,8,81,15791,100773,14,No,No,1,1,36-45
+CLM202300485,9/25/2024,Nairobi,Comprehensive,Agent,Collision,48,2,76,56704,127432,9,Yes,No,0,0,46-55
+CLM202300486,11/15/2023,Other,Comprehensive,Agent,Collision,18,3,51,71888,268639,7,Yes,No,0,0,18-25
+CLM202300487,4/2/2024,Nakuru,Comprehensive,Online,Collision,37,8,109,63809,34628,12,Yes,No,3,0,36-45
+CLM202300488,12/27/2024,Kisumu,Comprehensive,Call Centre,Theft,43,19,33,49894,61594,12,Yes,Yes,2,1,36-45
+CLM202300489,11/13/2025,Other,Comprehensive,Online,Fire,40,6,114,28536,96650,7,Yes,Yes,0,0,36-45
+CLM202300490,4/9/2025,Kiambu,Comprehensive,Broker,Theft,49,11,46,60226,205070,4,No,Yes,0,0,46-55
+CLM202300491,7/1/2026,Kisumu,Third Party Fire & Theft,Broker,Collision,34,8,41,17379,282149,4,Yes,Yes,0,0,26-35
+CLM202300492,4/2/2026,Kisumu,Comprehensive,Call Centre,Vandalism,39,4,58,48473,240636,8,No,Yes,0,0,36-45
+CLM202300493,10/28/2025,Uasin Gishu,Comprehensive,Online,Collision,51,11,90,46469,115313,19,Yes,Yes,0,0,46-55
+CLM202300494,4/5/2025,Other,Comprehensive,Online,Windscreen,18,1,86,32273,50720,5,No,No,1,0,18-25
+CLM202300495,2/1/2024,Kisumu,Comprehensive,Broker,Collision,44,10,93,53277,255920,21,Yes,No,1,1,36-45
+CLM202300496,7/18/2024,Nairobi,Comprehensive,Agent,Windscreen,34,9,11,87743,40256,8,Yes,Yes,1,0,26-35
+CLM202300497,6/12/2023,Nairobi,Third Party,Call Centre,Collision,28,4,20,14659,142211,8,Yes,No,1,0,26-35
+CLM202300498,5/27/2024,Other,Comprehensive,Agent,Collision,42,3,102,59480,105331,30,Yes,Yes,1,1,36-45
+CLM202300499,6/22/2026,Other,Third Party Fire & Theft,Agent,Theft,52,4,118,50284,77289,24,Yes,No,0,0,46-55
+CLM202300500,8/6/2024,Other,Third Party Fire & Theft,Call Centre,Collision,49,4,16,33103,58642,25,Yes,No,1,1,46-55
+CLM202300501,6/5/2023,Nairobi,Comprehensive,Online,Collision,37,5,109,40071,191406,3,Yes,Yes,1,0,36-45
+CLM202300502,6/11/2025,Kiambu,Comprehensive,Agent,Windscreen,48,5,32,51294,24988,30,Yes,Yes,0,0,46-55
+CLM202300503,8/10/2026,Uasin Gishu,Comprehensive,Agent,Windscreen,48,4,118,54917,18719,5,Yes,No,1,0,46-55
+CLM202300504,4/2/2026,Uasin Gishu,Third Party,Online,Collision,37,1,120,23904,246801,4,Yes,No,1,0,36-45
+CLM202300505,1/11/2024,Nairobi,Comprehensive,Call Centre,Vandalism,30,2,77,67433,55581,1,Yes,No,2,0,26-35
+CLM202300506,9/13/2024,Nakuru,Third Party Fire & Theft,Agent,Windscreen,31,12,23,11972,12571,7,Yes,Yes,0,0,26-35
+CLM202300507,12/27/2024,Nairobi,Third Party,Agent,Vandalism,47,4,95,12589,52722,2,Yes,Yes,0,0,46-55
+CLM202300508,12/6/2023,Mombasa,Third Party,Online,Fire,38,5,13,15689,321501,8,Yes,Yes,1,0,36-45
+CLM202300509,1/3/2024,Nairobi,Comprehensive,Call Centre,Fire,26,4,41,36123,73529,2,Yes,No,1,0,26-35
+CLM202300510,11/20/2023,Nairobi,Third Party Fire & Theft,Agent,Theft,19,15,77,9226,214283,28,Yes,Yes,1,1,18-25
+CLM202300511,9/23/2026,Nairobi,Comprehensive,Call Centre,Fire,47,3,9,39175,159518,9,No,Yes,0,0,46-55
+CLM202300512,10/18/2025,Other,Comprehensive,Call Centre,Vandalism,32,3,48,47951,35502,30,No,No,0,0,26-35
+CLM202300513,2/25/2026,Uasin Gishu,Comprehensive,Agent,Collision,42,9,96,41435,114669,2,Yes,No,0,0,36-45
+CLM202300514,1/22/2026,Other,Third Party Fire & Theft,Call Centre,Collision,52,7,12,19667,41239,22,Yes,Yes,0,0,46-55
+CLM202300515,8/6/2026,Mombasa,Third Party,Broker,Collision,24,9,45,16187,158293,1,Yes,No,0,0,18-25
+CLM202300516,5/25/2023,Mombasa,Third Party,Online,Weather,38,8,1,17613,34065,7,Yes,No,1,0,36-45
+CLM202300517,4/21/2026,Kiambu,Comprehensive,Online,Collision,36,11,79,42098,341956,3,Yes,No,0,0,36-45
+CLM202300518,4/2/2023,Nakuru,Third Party Fire & Theft,Call Centre,Fire,42,2,10,38175,154921,4,Yes,Yes,0,0,36-45
+CLM202300519,10/12/2024,Kiambu,Comprehensive,Broker,Vandalism,52,8,34,48782,41296,3,Yes,No,1,0,46-55
+CLM202300520,3/24/2025,Uasin Gishu,Comprehensive,Broker,Weather,23,3,63,37607,256854,2,Yes,Yes,0,0,18-25
+CLM202300521,5/4/2024,Uasin Gishu,Third Party Fire & Theft,Call Centre,Collision,44,1,26,18977,63514,2,Yes,No,0,1,36-45
+CLM202300522,7/20/2023,Machakos,Comprehensive,Online,Windscreen,49,8,28,45221,14351,4,Yes,No,0,0,46-55
+CLM202300523,9/21/2023,Nairobi,Comprehensive,Call Centre,Vandalism,36,8,101,65560,15102,6,No,No,2,1,36-45
+CLM202300524,2/2/2026,Mombasa,Third Party,Call Centre,Collision,36,6,94,12704,413368,16,No,No,1,0,36-45
+CLM202300525,3/12/2024,Nairobi,Comprehensive,Agent,Windscreen,43,11,10,56715,116773,7,Yes,No,1,0,36-45
+CLM202300526,2/29/2024,Nairobi,Comprehensive,Agent,Collision,42,3,103,49288,38010,16,No,Yes,1,0,36-45
+CLM202300527,6/18/2026,Kisumu,Comprehensive,Online,Fire,44,9,57,83873,86824,1,No,Yes,0,0,36-45
+CLM202300528,7/16/2023,Nakuru,Comprehensive,Call Centre,Theft,44,5,18,53542,191661,4,Yes,Yes,0,0,36-45
+CLM202300529,6/7/2026,Kisumu,Third Party Fire & Theft,Agent,Collision,27,6,109,21383,95984,10,Yes,No,0,1,26-35
+CLM202300530,6/14/2026,Nairobi,Third Party,Broker,Collision,49,1,41,19664,141413,7,No,Yes,0,0,46-55
+CLM202300531,3/30/2025,Other,Comprehensive,Agent,Collision,51,11,40,59549,131981,3,Yes,No,0,0,46-55
+CLM202300532,8/15/2023,Other,Comprehensive,Online,Collision,40,8,18,42950,200894,13,Yes,No,2,0,36-45
+CLM202300533,8/2/2023,Mombasa,Comprehensive,Broker,Theft,22,9,107,34649,84024,3,Yes,No,0,0,18-25
+CLM202300534,1/25/2024,Machakos,Third Party,Agent,Collision,37,3,35,18591,169163,3,Yes,Yes,1,0,36-45
+CLM202300535,3/1/2025,Nairobi,Third Party Fire & Theft,Call Centre,Collision,40,7,72,26467,59373,8,Yes,No,0,0,36-45
+CLM202300536,7/30/2023,Uasin Gishu,Third Party Fire & Theft,Agent,Fire,25,5,29,17004,119942,6,No,No,1,0,18-25
+CLM202300537,9/15/2024,Machakos,Comprehensive,Call Centre,Fire,34,8,108,51546,41558,3,Yes,No,0,0,26-35
+CLM202300538,6/8/2023,Machakos,Comprehensive,Agent,Theft,22,7,95,40159,131136,3,Yes,No,1,0,18-25
+CLM202300539,1/9/2025,Machakos,Comprehensive,Call Centre,Vandalism,45,17,61,31401,41266,2,Yes,Yes,0,1,36-45
+CLM202300540,1/29/2023,Mombasa,Third Party,Broker,Collision,40,14,42,14498,308462,4,Yes,Yes,2,0,36-45
+CLM202300541,8/28/2025,Machakos,Comprehensive,Agent,Windscreen,20,5,79,68746,24892,15,No,No,1,0,18-25
+CLM202300542,3/17/2023,Kisumu,Third Party,Agent,Collision,42,8,60,22440,159930,7,Yes,No,0,0,36-45
+CLM202300543,9/24/2023,Nairobi,Third Party,Agent,Windscreen,37,5,113,20857,25635,13,Yes,No,0,0,36-45
+CLM202300544,8/28/2023,Nairobi,Comprehensive,Broker,Weather,44,11,81,51758,18482,9,Yes,No,0,0,36-45
+CLM202300545,2/11/2026,Uasin Gishu,Comprehensive,Call Centre,Vandalism,34,6,4,56714,13206,3,No,No,0,0,26-35
+CLM202300546,3/15/2023,Nakuru,Comprehensive,Online,Theft,29,4,99,49344,140462,1,No,No,1,0,26-35
+CLM202300547,8/10/2024,Mombasa,Comprehensive,Online,Theft,30,7,24,35226,226496,2,Yes,No,1,0,26-35
+CLM202300548,3/20/2025,Other,Comprehensive,Broker,Collision,32,13,37,37250,120162,3,Yes,No,1,0,26-35
+CLM202300549,12/7/2024,Kisumu,Third Party,Online,Fire,38,12,53,13498,83534,3,Yes,Yes,0,0,36-45
+CLM202300550,7/20/2025,Kiambu,Comprehensive,Broker,Windscreen,40,4,26,71064,21535,13,No,Yes,2,0,36-45
+CLM202300551,1/4/2026,Mombasa,Comprehensive,Online,Weather,36,16,114,64889,78131,13,No,Yes,0,0,36-45
+CLM202300552,6/22/2024,Nakuru,Third Party,Broker,Theft,33,3,118,11825,338011,30,Yes,No,1,0,26-35
+CLM202300553,2/7/2026,Uasin Gishu,Third Party,Call Centre,Collision,34,4,19,16241,258566,3,No,No,0,0,26-35
+CLM202300554,3/11/2024,Nakuru,Comprehensive,Online,Theft,66,11,39,42883,116413,23,Yes,No,1,0,56+
+CLM202300555,9/9/2026,Mombasa,Third Party,Agent,Collision,30,1,45,15320,139323,23,Yes,Yes,0,0,26-35
+CLM202300556,11/21/2024,Kisumu,Third Party Fire & Theft,Agent,Collision,32,6,81,22376,180855,4,Yes,Yes,2,0,26-35
+CLM202300557,10/4/2025,Kisumu,Third Party,Broker,Collision,74,5,72,23717,203659,8,Yes,No,0,0,56+
+CLM202300558,4/12/2026,Machakos,Third Party,Online,Windscreen,43,16,82,15916,97907,17,Yes,No,0,0,36-45
+CLM202300559,12/21/2025,Nairobi,Comprehensive,Call Centre,Collision,23,3,4,50995,141771,5,Yes,No,1,0,18-25
+CLM202300560,3/11/2026,Uasin Gishu,Third Party Fire & Theft,Broker,Collision,47,3,62,27685,369344,5,No,Yes,0,0,46-55
+CLM202300561,1/4/2025,Mombasa,Comprehensive,Online,Collision,28,18,26,35997,57321,3,No,Yes,0,0,26-35
+CLM202300562,3/1/2023,Nairobi,Third Party Fire & Theft,Broker,Vandalism,48,5,28,26802,39177,1,Yes,No,1,0,46-55
+CLM202300563,11/6/2024,Kisumu,Third Party,Agent,Fire,36,13,93,21543,30200,6,Yes,No,1,0,36-45
+CLM202300564,9/6/2023,Kisumu,Comprehensive,Call Centre,Collision,33,4,17,72498,163658,3,No,No,0,0,26-35
+CLM202300565,5/2/2026,Mombasa,Comprehensive,Agent,Collision,56,4,4,34807,243411,2,Yes,No,0,0,56+
+CLM202300566,11/21/2023,Uasin Gishu,Third Party,Broker,Theft,44,13,59,10458,23466,8,No,Yes,0,0,36-45
+CLM202300567,11/9/2023,Kiambu,Third Party,Call Centre,Collision,49,20,89,16281,168572,1,Yes,Yes,0,0,46-55
+CLM202300568,12/8/2023,Nairobi,Comprehensive,Broker,Theft,43,14,62,65482,293902,11,Yes,Yes,0,0,36-45
+CLM202300569,5/29/2025,Kiambu,Third Party,Call Centre,Collision,33,4,20,17695,224646,8,No,Yes,0,1,26-35
+CLM202300570,2/21/2025,Mombasa,Third Party Fire & Theft,Online,Vandalism,45,6,93,31456,25067,4,Yes,Yes,0,0,36-45
+CLM202300571,7/22/2026,Kisumu,Comprehensive,Call Centre,Collision,51,3,46,32797,269139,5,Yes,Yes,0,0,46-55
+CLM202300572,7/23/2024,Machakos,Comprehensive,Broker,Fire,39,3,86,40897,167996,2,Yes,Yes,0,0,36-45
+CLM202300573,1/22/2024,Kisumu,Comprehensive,Broker,Collision,58,3,25,25953,232657,11,No,No,0,0,56+
+CLM202300574,3/9/2023,Nairobi,Third Party,Agent,Weather,47,5,110,15374,91778,6,No,Yes,0,0,46-55
+CLM202300575,1/10/2023,Kiambu,Comprehensive,Agent,Weather,40,7,35,26186,137674,7,Yes,No,2,0,36-45
+CLM202300576,5/26/2024,Nairobi,Third Party Fire & Theft,Broker,Windscreen,41,6,117,37760,63391,9,Yes,Yes,0,0,36-45
+CLM202300577,6/21/2026,Kisumu,Comprehensive,Agent,Collision,40,10,46,74184,123164,3,Yes,Yes,2,0,36-45
+CLM202300578,12/18/2024,Nairobi,Third Party,Broker,Collision,24,7,88,16643,182002,1,Yes,Yes,0,0,18-25
+CLM202300579,5/8/2026,Mombasa,Comprehensive,Call Centre,Windscreen,37,9,61,31427,70934,13,Yes,Yes,3,0,36-45
+CLM202300580,5/20/2023,Uasin Gishu,Comprehensive,Call Centre,Windscreen,40,10,10,53325,23461,10,Yes,Yes,2,0,36-45
+CLM202300581,5/8/2023,Kisumu,Third Party,Agent,Collision,33,4,12,26927,58934,3,Yes,No,0,0,26-35
+CLM202300582,2/15/2026,Kiambu,Comprehensive,Call Centre,Collision,42,6,49,54839,249029,8,Yes,No,1,0,36-45
+CLM202300583,5/27/2023,Kiambu,Comprehensive,Agent,Collision,38,25,24,66886,456978,17,Yes,Yes,0,1,36-45
+CLM202300584,3/13/2023,Kisumu,Third Party Fire & Theft,Online,Windscreen,47,4,74,22697,73183,15,Yes,Yes,0,0,46-55
+CLM202300585,7/7/2024,Nakuru,Third Party Fire & Theft,Call Centre,Fire,45,10,17,20372,295446,3,Yes,Yes,0,0,36-45
+CLM202300586,6/20/2026,Nairobi,Third Party Fire & Theft,Agent,Fire,40,2,71,25489,25564,1,Yes,No,0,0,36-45
+CLM202300587,8/1/2025,Machakos,Comprehensive,Agent,Fire,23,10,25,27987,100266,2,Yes,Yes,1,0,18-25
+CLM202300588,5/16/2023,Mombasa,Third Party,Agent,Collision,58,4,22,30161,90836,4,Yes,Yes,1,0,56+
+CLM202300589,2/20/2026,Mombasa,Third Party Fire & Theft,Online,Collision,36,6,45,27037,150299,20,Yes,No,3,0,36-45
+CLM202300590,2/28/2026,Nairobi,Comprehensive,Call Centre,Collision,37,2,70,61185,559669,3,Yes,No,0,0,36-45
+CLM202300591,1/1/2026,Kiambu,Comprehensive,Agent,Windscreen,34,6,48,42181,10996,3,Yes,No,2,0,26-35
+CLM202300592,5/20/2026,Kiambu,Third Party,Agent,Collision,33,6,42,10387,871744,3,Yes,Yes,1,0,26-35
+CLM202300593,11/25/2023,Nairobi,Comprehensive,Broker,Collision,55,5,41,71552,106791,3,Yes,Yes,0,0,46-55
+CLM202300594,9/3/2026,Nakuru,Third Party,Agent,Collision,53,8,41,11680,78509,5,Yes,Yes,1,0,46-55
+CLM202300595,3/15/2024,Mombasa,Third Party Fire & Theft,Broker,Collision,43,12,49,28668,285116,2,Yes,No,0,0,36-45
+CLM202300596,1/2/2026,Other,Third Party,Call Centre,Theft,37,3,101,18113,379677,15,Yes,No,1,0,36-45
+CLM202300597,3/4/2025,Other,Comprehensive,Broker,Collision,45,5,70,49004,243884,5,Yes,Yes,3,1,36-45
+CLM202300598,12/3/2025,Nairobi,Comprehensive,Call Centre,Collision,39,2,51,38533,78349,30,Yes,No,0,0,36-45
+CLM202300599,5/9/2025,Nairobi,Comprehensive,Online,Windscreen,36,1,90,46030,39000,2,No,No,0,0,36-45
+CLM202300600,5/29/2025,Uasin Gishu,Comprehensive,Call Centre,Collision,42,7,64,36789,63427,23,Yes,No,1,0,36-45
+CLM202300601,4/23/2025,Other,Third Party,Agent,Collision,33,3,114,20069,76626,19,No,Yes,1,0,26-35
+CLM202300602,12/2/2025,Machakos,Third Party,Agent,Collision,41,6,68,18777,134402,4,Yes,Yes,0,0,36-45
+CLM202300603,10/8/2025,Nairobi,Comprehensive,Broker,Windscreen,40,7,26,47713,13544,4,No,Yes,2,1,36-45
+CLM202300604,7/4/2023,Nairobi,Comprehensive,Agent,Collision,45,1,68,40938,336612,2,No,No,1,0,36-45
+CLM202300605,2/4/2026,Nairobi,Third Party Fire & Theft,Call Centre,Windscreen,31,8,93,46906,16435,2,Yes,Yes,1,0,26-35
+CLM202300606,1/3/2025,Machakos,Comprehensive,Broker,Vandalism,46,12,26,33336,54700,5,Yes,Yes,1,0,46-55
+CLM202300607,3/18/2024,Nakuru,Comprehensive,Call Centre,Fire,28,9,25,31147,82462,6,Yes,No,0,0,26-35
+CLM202300608,12/4/2024,Mombasa,Comprehensive,Online,Collision,32,3,72,46910,332560,1,Yes,No,1,0,26-35
+CLM202300609,8/16/2026,Nakuru,Third Party,Online,Windscreen,32,6,107,14885,15318,30,Yes,No,0,0,26-35
+CLM202300610,3/20/2026,Nairobi,Comprehensive,Broker,Collision,26,6,41,65269,361529,4,No,No,0,0,26-35
+CLM202300611,2/15/2026,Nakuru,Third Party,Agent,Collision,49,6,61,19173,340893,6,Yes,No,0,0,46-55
+CLM202300612,9/25/2024,Nairobi,Comprehensive,Online,Theft,27,2,79,48398,126865,3,No,No,1,0,26-35
+CLM202300613,12/9/2025,Kisumu,Third Party,Broker,Collision,30,3,80,18406,148483,4,No,Yes,2,0,26-35
+CLM202300614,6/11/2024,Uasin Gishu,Comprehensive,Call Centre,Collision,52,5,18,54938,99262,4,No,Yes,1,0,46-55
+CLM202300615,7/28/2025,Kisumu,Comprehensive,Broker,Collision,32,7,48,86505,224373,5,No,No,0,0,26-35
+CLM202300616,5/25/2025,Kiambu,Comprehensive,Agent,Collision,36,4,120,51529,124109,5,Yes,Yes,0,0,36-45
+CLM202300617,12/8/2023,Machakos,Comprehensive,Online,Collision,27,1,107,39666,103829,11,No,No,0,0,26-35
+CLM202300618,12/31/2023,Kisumu,Comprehensive,Broker,Theft,47,4,93,50743,188071,7,Yes,No,0,0,46-55
+CLM202300619,3/25/2023,Nairobi,Comprehensive,Agent,Vandalism,47,17,3,23057,18402,10,Yes,Yes,0,0,46-55
+CLM202300620,7/11/2023,Nairobi,Comprehensive,Online,Collision,46,8,51,47563,136463,5,Yes,No,1,0,46-55
+CLM202300621,8/16/2024,Nakuru,Comprehensive,Agent,Theft,44,7,7,65185,304773,7,Yes,No,1,1,36-45
+CLM202300622,10/16/2024,Kiambu,Third Party Fire & Theft,Agent,Collision,39,3,37,30775,161932,4,No,No,1,0,36-45
+CLM202300623,8/15/2023,Nairobi,Comprehensive,Online,Collision,32,4,104,52185,310461,14,Yes,No,1,0,26-35
+CLM202300624,7/24/2024,Nairobi,Third Party,Agent,Collision,29,1,47,19190,107221,7,Yes,Yes,2,0,26-35
+CLM202300625,4/7/2025,Nairobi,Third Party Fire & Theft,Broker,Collision,52,3,21,35410,100414,5,Yes,Yes,1,0,46-55
+CLM202300626,11/15/2023,Mombasa,Comprehensive,Agent,Collision,46,8,87,71541,59316,5,Yes,Yes,1,0,46-55
+CLM202300627,4/8/2024,Nakuru,Third Party,Broker,Collision,30,7,92,18136,104809,5,Yes,No,2,0,26-35
+CLM202300628,5/18/2024,Nairobi,Third Party Fire & Theft,Agent,Collision,38,4,79,23798,698858,6,Yes,Yes,0,0,36-45
+CLM202300629,11/22/2024,Kisumu,Third Party,Call Centre,Theft,35,6,98,8371,225950,5,Yes,No,0,0,26-35
+CLM202300630,5/16/2024,Kiambu,Comprehensive,Agent,Collision,26,6,85,63123,90768,3,Yes,Yes,1,0,26-35
+CLM202300631,10/5/2025,Kiambu,Comprehensive,Online,Collision,40,4,77,55449,64833,11,Yes,No,0,0,36-45
+CLM202300632,3/24/2024,Nairobi,Comprehensive,Online,Collision,33,8,107,50096,40363,12,Yes,No,0,0,26-35
+CLM202300633,8/17/2024,Uasin Gishu,Comprehensive,Agent,Theft,28,7,39,39589,93276,27,Yes,Yes,2,0,26-35
+CLM202300634,6/3/2024,Other,Third Party Fire & Theft,Online,Collision,22,5,55,34067,266158,3,No,No,0,0,18-25
+CLM202300635,9/8/2023,Mombasa,Third Party Fire & Theft,Call Centre,Theft,21,2,68,24193,128799,10,No,No,1,1,18-25
+CLM202300636,7/27/2025,Nairobi,Comprehensive,Call Centre,Collision,34,4,81,47540,67370,1,No,No,0,0,26-35
+CLM202300637,11/19/2023,Nairobi,Third Party,Online,Collision,37,4,58,15751,73566,12,Yes,No,1,0,36-45
+CLM202300638,2/11/2024,Nairobi,Comprehensive,Agent,Weather,28,4,53,54443,170655,1,Yes,No,0,0,26-35
+CLM202300639,12/21/2025,Machakos,Third Party Fire & Theft,Broker,Collision,45,2,20,18849,135873,2,No,No,0,0,36-45
+CLM202300640,7/22/2026,Nairobi,Comprehensive,Broker,Collision,37,14,77,56189,87792,7,No,No,2,0,36-45
+CLM202300641,7/7/2025,Other,Third Party Fire & Theft,Agent,Collision,44,14,15,21248,113298,3,Yes,Yes,2,0,36-45
+CLM202300642,6/8/2026,Nakuru,Third Party,Broker,Weather,36,5,57,13205,592746,3,Yes,No,0,0,36-45
+CLM202300643,3/15/2026,Mombasa,Comprehensive,Online,Theft,29,7,50,61502,480860,4,Yes,Yes,0,1,26-35
+CLM202300644,10/20/2024,Machakos,Comprehensive,Broker,Theft,39,8,94,36328,586855,11,Yes,No,1,1,36-45
+CLM202300645,11/20/2025,Nairobi,Third Party,Online,Weather,24,5,58,20490,24987,2,No,Yes,0,0,18-25
+CLM202300646,3/25/2024,Uasin Gishu,Comprehensive,Online,Collision,44,7,1,49382,128490,5,No,No,0,0,36-45
+CLM202300647,9/22/2024,Nairobi,Comprehensive,Agent,Weather,28,9,61,30256,60596,4,No,Yes,1,0,26-35
+CLM202300648,1/3/2025,Machakos,Third Party Fire & Theft,Broker,Collision,48,7,26,38098,224036,11,Yes,Yes,0,0,46-55
+CLM202300649,8/7/2026,Mombasa,Third Party,Agent,Theft,34,10,46,17452,423148,12,Yes,Yes,1,0,26-35
+CLM202300650,3/7/2026,Nairobi,Comprehensive,Broker,Collision,50,4,36,53600,188270,1,No,Yes,0,1,46-55
+CLM202300651,10/31/2024,Machakos,Comprehensive,Broker,Collision,26,6,20,63639,72151,14,Yes,Yes,0,0,26-35
+CLM202300652,6/12/2025,Nairobi,Comprehensive,Broker,Vandalism,31,25,114,73038,38452,3,Yes,No,0,0,26-35
+CLM202300653,10/5/2023,Nairobi,Third Party Fire & Theft,Agent,Collision,42,11,31,27505,238219,7,Yes,Yes,1,0,36-45
+CLM202300654,1/6/2026,Uasin Gishu,Comprehensive,Agent,Weather,51,7,61,57056,180570,2,Yes,Yes,1,0,46-55
+CLM202300655,1/27/2025,Mombasa,Comprehensive,Online,Collision,56,3,100,53257,162308,8,Yes,Yes,0,0,56+
+CLM202300656,12/30/2024,Other,Comprehensive,Broker,Fire,38,6,44,43606,184995,30,No,Yes,0,1,36-45
+CLM202300657,11/15/2025,Nakuru,Third Party Fire & Theft,Call Centre,Weather,58,11,113,16689,105653,6,Yes,No,0,0,56+
+CLM202300658,5/16/2025,Nakuru,Comprehensive,Online,Collision,35,9,49,50977,179830,4,Yes,Yes,0,0,26-35
+CLM202300659,4/10/2023,Kiambu,Third Party Fire & Theft,Call Centre,Vandalism,50,1,114,38252,115699,4,Yes,No,0,0,46-55
+CLM202300660,1/30/2024,Nairobi,Third Party,Agent,Theft,28,2,55,18839,300068,1,Yes,No,1,0,26-35
+CLM202300661,8/30/2023,Other,Third Party,Online,Fire,43,2,2,11866,169926,20,Yes,No,1,1,36-45
+CLM202300662,10/3/2025,Nairobi,Third Party Fire & Theft,Agent,Collision,18,8,105,35354,139420,7,Yes,No,0,0,18-25
+CLM202300663,2/18/2023,Mombasa,Third Party,Broker,Theft,26,2,104,14672,169024,2,No,Yes,1,0,26-35
+CLM202300664,10/5/2023,Nairobi,Third Party Fire & Theft,Agent,Fire,43,3,116,14474,89321,2,Yes,No,0,0,36-45
+CLM202300665,3/28/2025,Nairobi,Comprehensive,Agent,Collision,24,5,15,63829,76885,6,Yes,No,0,0,18-25
+CLM202300666,8/9/2025,Nakuru,Third Party,Broker,Collision,43,12,102,12279,224057,13,Yes,Yes,0,0,36-45
+CLM202300667,11/20/2024,Uasin Gishu,Comprehensive,Online,Collision,48,8,41,79028,81977,2,Yes,No,1,0,46-55
+CLM202300668,3/24/2026,Uasin Gishu,Comprehensive,Agent,Vandalism,32,5,101,66193,125132,15,Yes,Yes,1,1,26-35
+CLM202300669,6/12/2026,Machakos,Third Party Fire & Theft,Agent,Collision,27,10,116,24393,139165,5,Yes,No,0,0,26-35
+CLM202300670,6/30/2023,Kiambu,Third Party Fire & Theft,Online,Fire,33,20,24,29569,321235,2,Yes,No,0,0,26-35
+CLM202300671,7/27/2026,Mombasa,Third Party,Online,Weather,27,6,45,31541,168954,4,Yes,Yes,0,0,26-35
+CLM202300672,4/21/2025,Nairobi,Comprehensive,Agent,Collision,37,2,33,63510,284598,26,Yes,Yes,2,1,36-45
+CLM202300673,5/20/2025,Uasin Gishu,Comprehensive,Broker,Collision,39,3,37,51311,99052,2,Yes,No,0,0,36-45
+CLM202300674,5/11/2023,Kiambu,Comprehensive,Agent,Fire,35,3,72,107788,231277,3,Yes,Yes,1,0,26-35
+CLM202300675,5/1/2025,Nakuru,Comprehensive,Broker,Collision,56,3,50,49607,261660,13,Yes,No,1,0,56+
+CLM202300676,9/20/2025,Nairobi,Comprehensive,Online,Theft,30,5,79,56493,52395,7,Yes,Yes,0,0,26-35
+CLM202300677,3/6/2025,Machakos,Comprehensive,Agent,Fire,53,7,81,36931,650571,3,Yes,Yes,0,1,46-55
+CLM202300678,4/26/2023,Machakos,Comprehensive,Agent,Theft,27,2,25,30032,1110582,13,No,No,0,0,26-35
+CLM202300679,12/17/2024,Machakos,Third Party,Agent,Collision,39,2,6,14761,309378,14,Yes,No,1,0,36-45
+CLM202300680,7/5/2026,Nairobi,Comprehensive,Agent,Fire,51,9,90,48519,317729,7,No,No,2,0,46-55
+CLM202300681,9/17/2025,Other,Third Party Fire & Theft,Online,Theft,50,4,22,28511,290291,3,Yes,No,0,1,46-55
+CLM202300682,7/8/2023,Nairobi,Third Party,Call Centre,Collision,33,3,24,10752,111943,4,Yes,Yes,0,0,26-35
+CLM202300683,8/7/2026,Kiambu,Comprehensive,Call Centre,Theft,44,5,73,57754,165959,7,Yes,Yes,1,0,36-45
+CLM202300684,8/5/2026,Nairobi,Comprehensive,Online,Vandalism,43,13,32,38042,141140,2,Yes,Yes,2,0,36-45
+CLM202300685,8/20/2023,Nairobi,Comprehensive,Broker,Fire,32,10,23,56920,76548,18,No,Yes,0,1,26-35
+CLM202300686,1/1/2026,Nakuru,Third Party Fire & Theft,Broker,Collision,45,9,37,33780,62064,25,No,Yes,1,0,36-45
+CLM202300687,7/10/2024,Nairobi,Comprehensive,Call Centre,Collision,58,16,63,42968,105517,4,No,No,1,0,56+
+CLM202300688,3/23/2025,Kiambu,Comprehensive,Agent,Collision,43,7,102,36647,245117,8,Yes,Yes,1,0,36-45
+CLM202300689,9/1/2024,Kisumu,Third Party Fire & Theft,Agent,Collision,44,17,119,40058,72529,16,No,Yes,1,0,36-45
+CLM202300690,12/7/2025,Machakos,Third Party Fire & Theft,Online,Collision,45,18,88,33199,121074,30,Yes,No,0,0,36-45
+CLM202300691,9/26/2026,Kisumu,Comprehensive,Agent,Weather,22,2,108,50087,93197,22,No,Yes,1,0,18-25
+CLM202300692,12/24/2025,Nakuru,Comprehensive,Online,Collision,43,1,64,72411,64537,1,Yes,No,1,0,36-45
+CLM202300693,6/29/2026,Nairobi,Comprehensive,Call Centre,Windscreen,27,3,49,49132,5000,4,No,Yes,1,0,26-35
+CLM202300694,7/19/2026,Machakos,Comprehensive,Call Centre,Collision,32,12,99,40345,63785,9,Yes,Yes,0,0,26-35
+CLM202300695,5/4/2023,Nairobi,Comprehensive,Agent,Collision,62,5,37,36260,178653,4,Yes,No,0,0,56+
+CLM202300696,12/13/2023,Nairobi,Third Party,Online,Collision,35,5,98,15524,213930,27,No,No,1,0,26-35
+CLM202300697,9/15/2025,Nairobi,Third Party Fire & Theft,Online,Collision,30,10,120,32271,215341,24,Yes,No,0,0,26-35
+CLM202300698,3/18/2025,Kisumu,Comprehensive,Online,Windscreen,51,4,47,70834,42504,3,No,No,0,0,46-55
+CLM202300699,3/10/2023,Kiambu,Third Party,Broker,Weather,28,7,77,16106,61494,5,Yes,Yes,0,0,26-35
+CLM202300700,5/11/2023,Kisumu,Comprehensive,Agent,Vandalism,33,9,94,67416,33306,3,Yes,No,1,0,26-35
+CLM202300701,12/13/2024,Kiambu,Third Party,Call Centre,Collision,52,3,95,15068,195739,5,Yes,Yes,0,0,46-55
+CLM202300702,4/23/2025,Mombasa,Third Party,Call Centre,Windscreen,38,2,25,12855,22033,4,Yes,No,2,0,36-45
+CLM202300703,8/18/2023,Mombasa,Third Party Fire & Theft,Broker,Collision,21,6,116,18035,299585,13,No,Yes,1,0,18-25
+CLM202300704,8/23/2023,Nairobi,Third Party Fire & Theft,Broker,Vandalism,44,7,61,22564,88529,2,Yes,Yes,1,0,36-45
+CLM202300705,6/27/2023,Mombasa,Comprehensive,Online,Theft,34,10,6,33649,506201,1,Yes,Yes,0,0,26-35
+CLM202300706,2/12/2025,Kisumu,Comprehensive,Online,Collision,55,3,15,84256,99913,1,Yes,No,0,0,46-55
+CLM202300707,1/11/2023,Nakuru,Comprehensive,Agent,Collision,31,3,88,54283,340618,2,Yes,Yes,1,0,26-35
+CLM202300708,2/22/2025,Nairobi,Comprehensive,Broker,Collision,50,18,52,46732,738392,3,No,No,0,0,46-55
+CLM202300709,10/13/2024,Kisumu,Third Party Fire & Theft,Agent,Collision,58,11,13,42109,151370,6,No,Yes,1,0,56+
+CLM202300710,9/29/2024,Kiambu,Comprehensive,Call Centre,Vandalism,29,5,63,33334,97288,2,Yes,No,1,0,26-35
+CLM202300711,7/18/2025,Nairobi,Third Party,Online,Windscreen,36,12,72,15397,12398,2,Yes,Yes,0,0,36-45
+CLM202300712,12/16/2024,Nairobi,Comprehensive,Online,Weather,42,3,10,84025,207536,2,Yes,No,0,0,36-45
+CLM202300713,9/23/2025,Mombasa,Comprehensive,Online,Collision,29,5,43,46103,357802,2,Yes,No,0,0,26-35
+CLM202300714,11/11/2025,Kiambu,Comprehensive,Call Centre,Theft,41,7,56,95231,122036,3,No,No,0,1,36-45
+CLM202300715,6/13/2026,Kisumu,Third Party,Agent,Collision,36,5,94,19937,231751,3,Yes,Yes,0,0,36-45
+CLM202300716,12/30/2025,Nairobi,Third Party,Agent,Theft,35,5,79,23063,226842,10,Yes,No,1,0,26-35
+CLM202300717,12/9/2024,Uasin Gishu,Comprehensive,Agent,Collision,39,9,11,69754,198217,2,Yes,Yes,0,0,36-45
+CLM202300718,11/4/2024,Kiambu,Comprehensive,Broker,Collision,39,11,74,48022,277647,4,Yes,No,1,0,36-45
+CLM202300719,11/19/2023,Nakuru,Third Party,Call Centre,Theft,40,4,109,13956,274513,3,No,No,2,1,36-45
+CLM202300720,3/31/2025,Uasin Gishu,Comprehensive,Agent,Collision,31,2,7,46473,129741,11,Yes,Yes,2,0,26-35
+CLM202300721,7/10/2023,Kiambu,Third Party Fire & Theft,Call Centre,Collision,32,2,119,19722,282413,5,Yes,No,1,0,26-35
+CLM202300722,6/28/2026,Nairobi,Comprehensive,Agent,Fire,37,1,12,47122,405849,14,Yes,No,1,0,36-45
+CLM202300723,3/2/2026,Nakuru,Comprehensive,Broker,Collision,38,16,75,47941,93072,2,Yes,Yes,0,0,36-45
+CLM202300724,6/13/2023,Other,Comprehensive,Agent,Vandalism,33,9,43,77029,65156,5,Yes,Yes,1,0,26-35
+CLM202300725,12/11/2025,Other,Comprehensive,Online,Theft,42,8,88,56674,44032,3,No,Yes,4,0,36-45
+CLM202300726,6/10/2023,Nairobi,Comprehensive,Broker,Windscreen,18,4,102,93013,41630,2,Yes,No,2,0,18-25
+CLM202300727,9/14/2025,Uasin Gishu,Comprehensive,Online,Fire,30,4,103,26220,443629,5,Yes,No,1,0,26-35
+CLM202300728,5/1/2023,Kiambu,Third Party Fire & Theft,Agent,Windscreen,35,11,105,18492,21245,26,Yes,No,0,0,26-35
+CLM202300729,10/30/2024,Nairobi,Comprehensive,Call Centre,Windscreen,29,1,98,43454,29040,3,No,Yes,0,0,26-35
+CLM202300730,6/19/2025,Kisumu,Comprehensive,Call Centre,Vandalism,56,4,38,72901,54711,5,Yes,Yes,0,0,56+
+CLM202300731,9/24/2025,Mombasa,Comprehensive,Online,Theft,38,13,56,46550,133321,2,Yes,Yes,0,0,36-45
+CLM202300732,7/27/2024,Nakuru,Comprehensive,Broker,Collision,40,4,87,31824,174595,1,No,Yes,0,0,36-45
+CLM202300733,6/15/2026,Machakos,Third Party,Broker,Collision,33,9,21,14939,77427,3,Yes,Yes,1,0,26-35
+CLM202300734,11/26/2025,Kiambu,Comprehensive,Agent,Theft,38,6,70,34325,150153,4,No,Yes,3,0,36-45
+CLM202300735,10/13/2023,Kisumu,Third Party,Call Centre,Collision,25,0,64,10831,70323,4,No,No,0,0,18-25
+CLM202300736,7/7/2025,Kiambu,Comprehensive,Agent,Collision,36,5,119,84005,232292,4,No,No,1,0,36-45
+CLM202300737,9/27/2025,Nairobi,Third Party Fire & Theft,Broker,Collision,28,6,6,23562,175585,1,Yes,Yes,0,0,26-35
+CLM202300738,4/1/2024,Kiambu,Comprehensive,Agent,Theft,35,5,12,50385,128366,3,Yes,No,0,0,26-35
+CLM202300739,10/7/2025,Other,Third Party Fire & Theft,Agent,Collision,18,2,4,25332,149366,9,No,Yes,1,0,18-25
+CLM202300740,5/14/2026,Mombasa,Comprehensive,Online,Theft,26,5,66,44736,151911,2,Yes,Yes,0,0,26-35
+CLM202300741,1/23/2026,Nairobi,Comprehensive,Online,Windscreen,54,1,67,37933,65173,4,Yes,No,1,0,46-55
+CLM202300742,11/9/2025,Kisumu,Third Party,Call Centre,Windscreen,47,4,72,14667,18341,7,Yes,No,0,0,46-55
+CLM202300743,5/18/2025,Other,Third Party,Call Centre,Collision,53,10,30,17584,240993,3,Yes,Yes,0,1,46-55
+CLM202300744,1/6/2024,Other,Third Party,Agent,Theft,53,16,37,23803,103101,7,Yes,Yes,0,0,46-55
+CLM202300745,12/24/2025,Nakuru,Comprehensive,Agent,Theft,45,14,51,62582,347675,1,No,No,1,0,36-45
+CLM202300746,5/13/2024,Kiambu,Third Party,Online,Collision,33,3,6,11373,332480,12,Yes,Yes,0,1,26-35
+CLM202300747,12/29/2024,Nakuru,Third Party Fire & Theft,Online,Fire,27,2,91,34291,397065,8,Yes,No,0,0,26-35
+CLM202300748,3/6/2024,Machakos,Third Party,Online,Collision,51,7,7,18278,470383,6,No,No,2,0,46-55
+CLM202300749,3/4/2024,Machakos,Comprehensive,Call Centre,Weather,39,6,81,40297,128254,15,Yes,Yes,2,0,36-45
+CLM202300750,8/4/2023,Machakos,Third Party,Broker,Collision,65,9,55,16837,390368,4,Yes,No,0,0,56+
+CLM202300751,8/9/2026,Mombasa,Third Party,Agent,Windscreen,34,4,120,18781,95706,3,Yes,No,0,0,26-35
+CLM202300752,7/22/2023,Nairobi,Third Party Fire & Theft,Online,Theft,60,6,84,26345,73865,19,Yes,No,0,0,56+
+CLM202300753,4/29/2023,Nakuru,Comprehensive,Broker,Collision,36,6,58,54909,89491,29,Yes,No,0,0,36-45
+CLM202300754,7/5/2026,Nairobi,Comprehensive,Online,Windscreen,53,4,85,37697,7888,3,Yes,No,0,0,46-55
+CLM202300755,1/29/2025,Nairobi,Third Party,Agent,Collision,57,1,15,27955,338881,5,Yes,Yes,0,0,56+
+CLM202300756,8/22/2024,Mombasa,Comprehensive,Online,Windscreen,27,9,22,27966,7808,14,Yes,Yes,0,0,26-35
+CLM202300757,10/6/2025,Kisumu,Third Party,Online,Theft,33,7,60,18810,43641,5,Yes,Yes,0,0,26-35
+CLM202300758,6/8/2024,Machakos,Comprehensive,Agent,Collision,27,10,103,53191,60269,9,Yes,No,0,0,26-35
+CLM202300759,6/25/2023,Uasin Gishu,Comprehensive,Broker,Collision,24,11,99,57468,36092,11,Yes,No,2,0,18-25
+CLM202300760,9/25/2025,Machakos,Third Party,Online,Windscreen,45,5,46,13121,32449,3,Yes,Yes,0,0,36-45
+CLM202300761,8/29/2023,Uasin Gishu,Comprehensive,Broker,Collision,36,10,35,66591,60892,8,Yes,No,0,0,36-45
+CLM202300762,1/27/2025,Kisumu,Comprehensive,Online,Vandalism,39,16,116,46570,16878,5,No,Yes,0,0,36-45
+CLM202300763,7/23/2026,Nairobi,Third Party,Call Centre,Windscreen,44,19,68,11478,25240,2,Yes,No,0,0,36-45
+CLM202300764,7/5/2026,Nakuru,Third Party,Agent,Fire,18,7,15,11776,169048,2,No,No,0,0,18-25
+CLM202300765,5/8/2024,Nairobi,Third Party Fire & Theft,Agent,Collision,52,8,27,26924,32489,3,Yes,Yes,3,0,46-55
+CLM202300766,12/4/2025,Nairobi,Comprehensive,Online,Fire,34,7,101,30697,94211,13,Yes,Yes,2,0,26-35
+CLM202300767,4/18/2025,Nairobi,Comprehensive,Online,Weather,44,8,108,79467,95617,13,Yes,Yes,2,0,36-45
+CLM202300768,10/18/2024,Machakos,Third Party Fire & Theft,Agent,Collision,45,11,110,34876,108992,11,Yes,No,1,0,36-45
+CLM202300769,7/11/2023,Uasin Gishu,Comprehensive,Broker,Collision,53,7,1,80055,111402,8,Yes,Yes,0,0,46-55
+CLM202300770,5/30/2024,Other,Comprehensive,Agent,Collision,37,18,99,77727,372473,8,No,No,0,0,36-45
+CLM202300771,6/11/2025,Other,Comprehensive,Agent,Collision,18,17,14,43496,807521,7,No,No,0,1,18-25
+CLM202300772,9/12/2026,Other,Comprehensive,Online,Windscreen,39,6,98,37630,20314,8,No,No,0,0,36-45
+CLM202300773,1/7/2023,Nairobi,Third Party Fire & Theft,Broker,Collision,40,6,106,12284,50362,8,No,No,0,0,36-45
+CLM202300774,9/9/2025,Machakos,Third Party,Call Centre,Theft,27,4,44,14280,150237,2,Yes,No,0,0,26-35
+CLM202300775,3/4/2026,Machakos,Third Party,Broker,Collision,40,9,24,26232,169384,3,Yes,No,1,0,36-45
+CLM202300776,7/26/2026,Machakos,Comprehensive,Broker,Collision,34,5,86,38069,138950,2,Yes,No,0,0,26-35
+CLM202300777,8/3/2024,Nairobi,Comprehensive,Broker,Collision,23,4,9,45260,236344,15,Yes,Yes,0,0,18-25
+CLM202300778,6/12/2023,Nairobi,Comprehensive,Broker,Vandalism,45,9,70,41096,382892,24,No,Yes,0,0,36-45
+CLM202300779,1/6/2024,Other,Comprehensive,Agent,Theft,32,2,40,53314,46034,1,Yes,Yes,1,0,26-35
+CLM202300780,3/10/2026,Nairobi,Comprehensive,Broker,Collision,34,11,51,68807,96647,22,Yes,No,0,0,26-35
+CLM202300781,4/16/2026,Kiambu,Comprehensive,Broker,Windscreen,33,9,100,31194,89555,6,Yes,Yes,0,0,26-35
+CLM202300782,5/22/2025,Mombasa,Comprehensive,Online,Collision,52,16,120,32912,95497,14,No,No,0,0,46-55
+CLM202300783,6/18/2023,Nairobi,Third Party,Broker,Collision,38,7,49,24260,272688,9,Yes,Yes,3,0,36-45
+CLM202300784,6/16/2023,Nairobi,Third Party,Online,Collision,39,10,35,19645,240196,20,No,No,2,0,36-45
+CLM202300785,10/16/2024,Other,Comprehensive,Online,Weather,33,1,101,44638,273025,7,Yes,No,0,0,26-35
+CLM202300786,3/16/2025,Machakos,Comprehensive,Agent,Fire,43,11,50,77415,770598,2,Yes,No,0,0,36-45
+CLM202300787,2/14/2023,Other,Third Party,Broker,Theft,53,13,24,10918,236592,5,Yes,No,0,0,46-55
+CLM202300788,7/28/2025,Kiambu,Third Party,Call Centre,Collision,45,7,109,20766,35876,9,No,Yes,0,0,36-45
+CLM202300789,1/15/2025,Nairobi,Third Party,Agent,Collision,46,4,120,15697,82798,5,No,Yes,1,0,46-55
+CLM202300790,1/17/2023,Mombasa,Comprehensive,Online,Theft,45,7,35,56885,1041815,10,Yes,No,0,0,36-45
+CLM202300791,5/11/2023,Mombasa,Third Party,Agent,Collision,23,11,19,8200,46776,5,Yes,Yes,1,0,18-25
+CLM202300792,9/13/2024,Nairobi,Comprehensive,Agent,Vandalism,28,12,19,44621,97093,3,Yes,No,4,0,26-35
+CLM202300793,9/16/2025,Uasin Gishu,Comprehensive,Call Centre,Windscreen,36,1,72,58998,5000,2,Yes,No,0,0,36-45
+CLM202300794,2/3/2026,Other,Comprehensive,Online,Collision,30,25,38,47156,49193,4,Yes,Yes,1,0,26-35
+CLM202300795,8/13/2024,Mombasa,Comprehensive,Online,Windscreen,26,4,75,68216,53063,7,Yes,No,0,0,26-35
+CLM202300796,2/9/2024,Kiambu,Comprehensive,Agent,Weather,18,10,92,67580,104462,1,Yes,Yes,1,0,18-25
+CLM202300797,8/18/2026,Kiambu,Comprehensive,Call Centre,Collision,23,14,1,36701,107295,3,No,No,0,0,18-25
+CLM202300798,9/19/2024,Nairobi,Third Party,Agent,Fire,35,6,104,20152,86922,1,No,Yes,0,0,26-35
+CLM202300799,3/7/2024,Nairobi,Comprehensive,Broker,Vandalism,37,13,4,36352,13210,3,No,No,0,0,36-45
+CLM202300800,8/28/2024,Mombasa,Comprehensive,Agent,Collision,29,1,14,48731,252512,16,No,Yes,1,0,26-35
+CLM202300801,1/17/2023,Mombasa,Comprehensive,Agent,Vandalism,39,13,87,57680,52024,2,No,No,0,0,36-45
+CLM202300802,2/18/2024,Nakuru,Comprehensive,Broker,Collision,33,12,75,37990,42916,10,Yes,No,0,0,26-35
+CLM202300803,12/6/2024,Machakos,Comprehensive,Agent,Fire,50,8,118,59832,170826,30,Yes,No,1,0,46-55
+CLM202300804,6/11/2026,Nairobi,Comprehensive,Broker,Windscreen,36,11,69,41667,41552,20,Yes,No,0,0,36-45
+CLM202300805,10/7/2025,Nairobi,Comprehensive,Agent,Theft,46,17,51,40797,154368,6,No,No,1,0,46-55
+CLM202300806,12/5/2025,Nairobi,Third Party,Broker,Theft,40,14,81,19501,198874,12,Yes,No,1,0,36-45
+CLM202300807,1/15/2025,Nairobi,Third Party Fire & Theft,Broker,Theft,23,6,92,20574,186864,2,Yes,No,0,0,18-25
+CLM202300808,6/1/2023,Nakuru,Comprehensive,Broker,Collision,37,7,81,37446,82376,1,Yes,No,0,0,36-45
+CLM202300809,6/19/2024,Uasin Gishu,Third Party,Agent,Collision,24,5,45,21415,151433,6,Yes,No,1,0,18-25
+CLM202300810,9/26/2026,Other,Third Party Fire & Theft,Broker,Collision,37,5,116,26802,261101,8,Yes,No,0,0,36-45
+CLM202300811,3/2/2023,Nakuru,Third Party Fire & Theft,Call Centre,Theft,30,11,37,17304,414715,15,No,Yes,1,0,26-35
+CLM202300812,4/18/2026,Kiambu,Third Party,Agent,Collision,42,5,42,20331,272958,3,Yes,No,2,0,36-45
+CLM202300813,7/26/2025,Nairobi,Third Party Fire & Theft,Agent,Collision,23,11,34,23202,84492,7,No,Yes,0,0,18-25
+CLM202300814,1/24/2024,Kiambu,Third Party Fire & Theft,Call Centre,Vandalism,38,6,36,17553,108548,6,Yes,Yes,0,0,36-45
+CLM202300815,12/1/2025,Kiambu,Third Party,Agent,Collision,44,6,26,7929,210420,5,No,No,1,0,36-45
+CLM202300816,2/19/2026,Machakos,Comprehensive,Broker,Collision,48,3,70,61816,82184,5,Yes,Yes,0,0,46-55
+CLM202300817,3/1/2023,Mombasa,Comprehensive,Broker,Collision,30,10,88,37729,100011,3,Yes,Yes,2,0,26-35
+CLM202300818,5/26/2023,Nairobi,Comprehensive,Agent,Collision,38,1,52,33883,249757,7,No,No,0,0,36-45
+CLM202300819,6/30/2025,Kiambu,Comprehensive,Broker,Windscreen,40,13,111,57411,78529,7,No,No,2,0,36-45
+CLM202300820,9/29/2026,Nairobi,Comprehensive,Broker,Collision,55,23,57,60149,34035,4,No,Yes,0,0,46-55
+CLM202300821,2/2/2023,Other,Comprehensive,Online,Collision,22,7,57,38506,538497,10,No,No,0,0,18-25
+CLM202300822,6/30/2025,Nairobi,Third Party,Call Centre,Weather,28,6,9,20659,257594,14,Yes,Yes,0,0,26-35
+CLM202300823,7/6/2023,Nairobi,Third Party,Agent,Windscreen,69,2,109,28445,30607,10,Yes,No,0,0,56+
+CLM202300824,6/9/2025,Nairobi,Third Party,Online,Windscreen,35,4,18,23328,21528,2,Yes,Yes,1,0,26-35
+CLM202300825,5/3/2025,Machakos,Comprehensive,Call Centre,Vandalism,18,11,20,67000,89173,6,No,Yes,0,0,18-25
+CLM202300826,5/4/2023,Mombasa,Comprehensive,Agent,Vandalism,32,12,113,52413,39086,2,No,No,1,0,26-35
+CLM202300827,7/20/2025,Nakuru,Third Party,Call Centre,Collision,18,7,63,14131,125785,6,No,No,0,0,18-25
+CLM202300828,5/13/2026,Kiambu,Third Party,Agent,Theft,41,11,9,15752,55693,2,No,No,1,0,36-45
+CLM202300829,3/28/2026,Nairobi,Third Party Fire & Theft,Online,Theft,47,3,54,29415,45000,17,Yes,No,1,0,46-55
+CLM202300830,2/9/2023,Machakos,Third Party Fire & Theft,Agent,Collision,28,8,71,18283,936902,11,Yes,No,0,1,26-35
+CLM202300831,12/3/2023,Nairobi,Third Party Fire & Theft,Broker,Collision,33,15,2,20961,152504,15,Yes,No,1,1,26-35
+CLM202300832,11/26/2023,Nairobi,Comprehensive,Broker,Collision,48,9,91,32183,170662,14,Yes,Yes,1,0,46-55
+CLM202300833,9/12/2024,Nakuru,Comprehensive,Call Centre,Fire,19,17,81,51267,162700,4,No,No,1,1,18-25
+CLM202300834,7/15/2023,Nairobi,Comprehensive,Call Centre,Windscreen,23,17,2,49129,13460,4,Yes,No,1,0,18-25
+CLM202300835,3/15/2026,Nairobi,Third Party,Broker,Windscreen,35,9,75,13328,20415,26,No,Yes,0,0,26-35
+CLM202300836,11/29/2025,Uasin Gishu,Third Party Fire & Theft,Broker,Collision,30,0,27,32715,155973,5,Yes,Yes,0,0,26-35
+CLM202300837,1/11/2026,Mombasa,Comprehensive,Online,Collision,35,12,89,35827,123894,2,Yes,Yes,0,0,26-35
+CLM202300838,9/29/2023,Nairobi,Third Party,Call Centre,Collision,24,2,46,13190,79438,14,No,No,1,0,18-25
+CLM202300839,1/20/2023,Kiambu,Comprehensive,Broker,Theft,40,0,25,59725,265993,6,Yes,No,1,1,36-45
+CLM202300840,5/31/2026,Kisumu,Comprehensive,Call Centre,Vandalism,36,1,61,62257,75862,21,No,No,0,0,36-45
+CLM202300841,1/31/2024,Nairobi,Comprehensive,Agent,Vandalism,44,13,54,38413,89349,7,Yes,Yes,1,0,36-45
+CLM202300842,6/17/2025,Nairobi,Comprehensive,Online,Vandalism,40,9,41,51222,114693,5,Yes,Yes,0,0,36-45
+CLM202300843,5/30/2026,Nakuru,Third Party Fire & Theft,Broker,Vandalism,40,7,106,20906,56929,22,Yes,No,1,0,36-45
+CLM202300844,2/19/2023,Nakuru,Comprehensive,Agent,Weather,22,9,78,45420,88672,1,Yes,Yes,0,0,18-25
+CLM202300845,1/8/2023,Other,Third Party,Agent,Collision,43,1,59,16658,474706,3,No,No,0,1,36-45
+CLM202300846,1/8/2023,Kiambu,Third Party,Call Centre,Collision,34,5,28,18718,68137,2,No,No,0,0,26-35
+CLM202300847,8/3/2023,Nairobi,Comprehensive,Online,Collision,36,4,69,52463,32389,1,No,No,1,0,36-45
+CLM202300848,3/12/2023,Nakuru,Comprehensive,Agent,Collision,50,7,4,51815,226142,12,Yes,No,1,0,46-55
+CLM202300849,1/27/2026,Nakuru,Third Party,Online,Collision,30,7,107,11830,87641,3,No,No,1,0,26-35
+CLM202300850,4/9/2025,Nairobi,Comprehensive,Online,Collision,53,9,1,53513,61243,12,Yes,Yes,0,0,46-55
+CLM202300851,9/3/2026,Nakuru,Third Party Fire & Theft,Broker,Weather,54,10,84,30338,206077,8,Yes,No,0,1,46-55
+CLM202300852,1/2/2026,Nairobi,Comprehensive,Call Centre,Collision,46,1,42,58213,129143,9,No,No,0,0,46-55
+CLM202300853,8/11/2026,Machakos,Third Party,Call Centre,Weather,27,5,87,13081,36937,4,No,No,0,0,26-35
+CLM202300854,11/23/2023,Machakos,Third Party,Broker,Windscreen,18,6,44,20676,122718,3,No,Yes,1,0,18-25
+CLM202300855,1/29/2024,Mombasa,Comprehensive,Broker,Fire,50,2,4,33194,45968,6,No,No,0,1,46-55
+CLM202300856,3/8/2026,Other,Comprehensive,Online,Fire,39,2,114,42545,155579,13,Yes,Yes,1,0,36-45
+CLM202300857,12/2/2023,Other,Third Party Fire & Theft,Call Centre,Collision,30,1,92,24070,31986,5,Yes,No,0,0,26-35
+CLM202300858,3/20/2023,Nairobi,Comprehensive,Agent,Fire,51,2,6,33708,207063,3,Yes,No,2,0,46-55
+CLM202300859,7/5/2025,Kiambu,Comprehensive,Agent,Collision,29,11,4,44248,86821,2,Yes,No,1,0,26-35
+CLM202300860,1/1/2026,Nakuru,Comprehensive,Call Centre,Vandalism,33,1,64,51071,125668,7,Yes,Yes,0,0,26-35
+CLM202300861,8/18/2026,Nairobi,Comprehensive,Call Centre,Collision,44,2,115,28789,142997,3,Yes,No,0,0,36-45
+CLM202300862,6/24/2026,Kiambu,Third Party,Online,Collision,26,7,70,14326,427186,5,Yes,Yes,0,0,26-35
+CLM202300863,6/14/2023,Nairobi,Third Party,Broker,Windscreen,37,8,2,9806,18507,4,Yes,No,2,0,36-45
+CLM202300864,11/23/2025,Other,Comprehensive,Online,Fire,50,6,84,85015,46194,4,No,Yes,1,0,46-55
+CLM202300865,3/4/2026,Mombasa,Third Party,Online,Collision,40,3,52,16981,175343,7,Yes,Yes,0,0,36-45
+CLM202300866,8/13/2025,Uasin Gishu,Comprehensive,Agent,Theft,52,2,77,49721,148092,9,Yes,No,1,0,46-55
+CLM202300867,1/27/2026,Kiambu,Comprehensive,Agent,Collision,50,7,43,51223,33829,30,Yes,Yes,1,1,46-55
+CLM202300868,2/21/2026,Nairobi,Third Party,Online,Fire,38,6,1,18951,71679,11,Yes,No,1,1,36-45
+CLM202300869,9/3/2024,Machakos,Third Party Fire & Theft,Online,Collision,18,5,3,34192,80401,23,Yes,Yes,0,1,18-25
+CLM202300870,2/24/2023,Nairobi,Comprehensive,Online,Collision,26,11,76,30982,503227,3,Yes,No,1,0,26-35
+CLM202300871,9/16/2024,Nairobi,Comprehensive,Agent,Collision,46,5,77,69273,255364,1,No,Yes,0,1,46-55
+CLM202300872,10/4/2023,Kiambu,Comprehensive,Call Centre,Collision,21,2,39,68036,109787,5,No,No,1,0,18-25
+CLM202300873,6/5/2023,Kisumu,Third Party,Broker,Collision,34,5,10,15706,211332,12,Yes,No,0,0,26-35
+CLM202300874,6/21/2023,Kiambu,Comprehensive,Call Centre,Collision,42,9,93,46431,28365,10,Yes,No,0,0,36-45
+CLM202300875,8/12/2025,Nairobi,Comprehensive,Agent,Collision,54,5,19,20134,92278,16,Yes,Yes,1,0,46-55
+CLM202300876,11/21/2024,Kiambu,Third Party,Broker,Collision,32,9,23,11294,199843,1,Yes,No,1,0,26-35
+CLM202300877,1/9/2025,Nairobi,Comprehensive,Call Centre,Theft,31,10,55,55505,206888,17,Yes,No,0,0,26-35
+CLM202300878,10/17/2025,Nairobi,Comprehensive,Online,Collision,37,5,86,67180,94184,7,No,Yes,0,0,36-45
+CLM202300879,1/20/2025,Nakuru,Comprehensive,Agent,Fire,42,6,120,58867,161717,1,Yes,No,0,0,36-45
+CLM202300880,5/12/2025,Nairobi,Comprehensive,Agent,Weather,36,5,76,46993,133026,10,Yes,No,1,0,36-45
+CLM202300881,4/28/2023,Kiambu,Comprehensive,Agent,Collision,50,9,116,82306,143919,6,No,No,1,1,46-55
+CLM202300882,3/11/2026,Kisumu,Third Party Fire & Theft,Online,Vandalism,29,5,79,34451,129934,8,Yes,Yes,1,0,26-35
+CLM202300883,9/6/2024,Kisumu,Third Party,Online,Collision,39,8,102,14329,187110,13,Yes,Yes,0,0,36-45
+CLM202300884,8/1/2023,Nairobi,Third Party,Agent,Collision,43,7,22,29476,218269,8,Yes,No,1,0,36-45
+CLM202300885,1/18/2026,Kiambu,Third Party Fire & Theft,Broker,Windscreen,34,1,7,19128,102799,1,Yes,No,0,0,26-35
+CLM202300886,10/2/2025,Nairobi,Comprehensive,Agent,Windscreen,47,9,81,31788,50599,5,Yes,No,2,0,46-55
+CLM202300887,3/14/2023,Other,Comprehensive,Online,Vandalism,40,7,118,42661,262695,1,No,No,1,0,36-45
+CLM202300888,9/22/2023,Nairobi,Third Party Fire & Theft,Broker,Collision,47,13,89,21024,84707,10,Yes,Yes,1,0,46-55
+CLM202300889,1/22/2023,Nairobi,Comprehensive,Agent,Windscreen,40,2,42,43338,7301,19,No,Yes,0,1,36-45
+CLM202300890,1/6/2024,Mombasa,Third Party,Agent,Collision,42,7,59,20006,129607,2,Yes,No,0,0,36-45
+CLM202300891,5/17/2023,Nairobi,Third Party,Agent,Collision,31,4,14,15848,121056,3,No,No,2,0,26-35
+CLM202300892,8/29/2025,Nairobi,Comprehensive,Agent,Collision,31,1,41,47889,466037,2,Yes,No,0,1,26-35
+CLM202300893,12/16/2024,Nairobi,Comprehensive,Online,Weather,51,1,82,48797,41101,4,Yes,No,0,0,46-55
+CLM202300894,9/3/2026,Kisumu,Comprehensive,Agent,Collision,45,15,20,25122,136133,8,Yes,Yes,0,0,36-45
+CLM202300895,10/22/2025,Nakuru,Comprehensive,Agent,Windscreen,27,7,58,31404,36092,4,Yes,Yes,1,0,26-35
+CLM202300896,4/17/2025,Kisumu,Comprehensive,Call Centre,Theft,40,5,35,43091,196362,10,Yes,Yes,2,0,36-45
+CLM202300897,11/28/2024,Uasin Gishu,Comprehensive,Call Centre,Windscreen,18,2,59,37909,22753,14,Yes,No,2,0,18-25
+CLM202300898,3/16/2023,Kiambu,Third Party,Agent,Windscreen,32,15,92,14995,34771,15,No,Yes,1,0,26-35
+CLM202300899,4/7/2023,Other,Third Party Fire & Theft,Online,Vandalism,49,3,107,38523,154703,2,Yes,No,0,0,46-55
+CLM202300900,4/23/2025,Uasin Gishu,Third Party,Online,Collision,37,8,50,15670,495382,19,Yes,Yes,1,0,36-45
+CLM202300901,1/6/2023,Uasin Gishu,Comprehensive,Call Centre,Collision,39,7,100,33148,148856,20,No,Yes,1,0,36-45
+CLM202300902,2/27/2023,Kisumu,Comprehensive,Call Centre,Theft,18,19,85,38441,94368,22,Yes,Yes,0,0,18-25
+CLM202300903,10/27/2023,Kiambu,Comprehensive,Agent,Collision,34,6,111,77491,494903,5,Yes,No,0,0,26-35
+CLM202300904,4/25/2026,Kiambu,Comprehensive,Agent,Collision,42,4,89,73722,61229,3,No,Yes,0,0,36-45
+CLM202300905,9/20/2024,Mombasa,Third Party Fire & Theft,Online,Collision,43,7,67,30721,607406,2,No,No,1,0,36-45
+CLM202300906,8/29/2025,Nairobi,Comprehensive,Call Centre,Collision,49,8,81,30991,424980,2,Yes,No,0,0,46-55
+CLM202300907,7/17/2024,Mombasa,Comprehensive,Call Centre,Collision,36,25,39,52306,477351,6,Yes,Yes,2,0,36-45
+CLM202300908,8/26/2023,Nairobi,Third Party,Agent,Collision,36,6,81,17815,250898,12,Yes,No,1,0,36-45
+CLM202300909,5/23/2024,Nairobi,Comprehensive,Broker,Vandalism,23,2,86,48344,12040,18,Yes,Yes,2,1,18-25
+CLM202300910,5/6/2023,Other,Comprehensive,Agent,Collision,36,5,74,40919,63145,4,No,Yes,0,0,36-45
+CLM202300911,11/20/2025,Kisumu,Comprehensive,Broker,Weather,24,7,13,43366,129745,5,No,Yes,0,0,18-25
+CLM202300912,9/9/2023,Nakuru,Third Party,Call Centre,Weather,18,8,63,13376,59118,5,Yes,No,1,0,18-25
+CLM202300913,5/30/2024,Kiambu,Third Party,Online,Collision,26,1,86,11611,112675,3,Yes,No,1,0,26-35
+CLM202300914,9/3/2026,Nakuru,Comprehensive,Agent,Windscreen,55,4,24,70364,42614,11,No,Yes,0,0,46-55
+CLM202300915,3/21/2025,Other,Third Party Fire & Theft,Broker,Theft,35,18,95,33286,158206,8,Yes,No,1,0,26-35
+CLM202300916,9/19/2024,Kisumu,Third Party Fire & Theft,Online,Fire,40,3,102,24006,62883,6,No,No,0,0,36-45
+CLM202300917,1/13/2025,Nakuru,Third Party,Call Centre,Collision,32,11,65,17658,294495,8,Yes,No,0,0,26-35
+CLM202300918,12/9/2025,Mombasa,Comprehensive,Online,Collision,18,5,116,53534,218909,10,Yes,No,1,0,18-25
+CLM202300919,12/15/2023,Kiambu,Comprehensive,Call Centre,Collision,48,6,103,92500,118811,9,Yes,No,0,0,46-55
+CLM202300920,5/21/2025,Kisumu,Third Party Fire & Theft,Agent,Theft,18,2,56,33196,320182,3,No,No,1,0,18-25
+CLM202300921,4/9/2026,Other,Comprehensive,Agent,Weather,32,5,107,60639,109519,12,Yes,Yes,0,0,26-35
+CLM202300922,2/22/2025,Mombasa,Third Party,Online,Fire,37,7,112,16171,483758,7,No,No,1,0,36-45
+CLM202300923,9/3/2024,Kiambu,Third Party,Agent,Windscreen,41,6,13,14167,29456,4,Yes,Yes,1,0,36-45
+CLM202300924,7/18/2023,Mombasa,Comprehensive,Agent,Weather,30,5,120,70694,292715,7,Yes,No,0,0,26-35
+CLM202300925,12/6/2023,Mombasa,Third Party,Broker,Fire,18,9,1,19206,37247,7,Yes,No,0,0,18-25
+CLM202300926,7/19/2026,Other,Third Party Fire & Theft,Agent,Collision,29,2,59,20611,209371,14,Yes,Yes,0,0,26-35
+CLM202300927,1/10/2025,Kisumu,Third Party,Agent,Vandalism,30,8,113,18168,47462,2,Yes,Yes,0,0,26-35
+CLM202300928,2/17/2024,Kiambu,Comprehensive,Agent,Collision,29,1,87,60683,72929,18,Yes,No,1,0,26-35
+CLM202300929,7/26/2024,Kiambu,Third Party Fire & Theft,Agent,Collision,49,13,33,14458,366330,6,Yes,No,1,0,46-55
+CLM202300930,3/2/2025,Mombasa,Comprehensive,Call Centre,Theft,25,6,78,37075,369129,3,Yes,No,0,0,18-25
+CLM202300931,1/5/2025,Nairobi,Third Party,Call Centre,Vandalism,41,10,26,17711,13106,3,No,No,1,0,36-45
+CLM202300932,8/15/2025,Mombasa,Third Party,Agent,Collision,40,0,29,9335,257014,2,No,Yes,1,0,36-45
+CLM202300933,12/19/2023,Machakos,Third Party,Broker,Theft,49,9,110,9758,291545,1,Yes,Yes,1,0,46-55
+CLM202300934,6/7/2025,Kisumu,Comprehensive,Broker,Collision,37,3,6,44499,81311,10,Yes,No,0,0,36-45
+CLM202300935,8/29/2024,Nairobi,Comprehensive,Call Centre,Collision,47,6,116,55083,74328,30,No,Yes,1,0,46-55
+CLM202300936,7/11/2026,Kisumu,Comprehensive,Online,Collision,36,9,55,55800,40621,1,Yes,No,1,0,36-45
+CLM202300937,8/5/2023,Kisumu,Comprehensive,Agent,Windscreen,43,6,8,74759,19924,2,No,Yes,1,0,36-45
+CLM202300938,7/23/2023,Nairobi,Comprehensive,Online,Vandalism,21,9,95,49118,56613,11,Yes,Yes,1,0,18-25
+CLM202300939,9/24/2024,Nakuru,Third Party,Call Centre,Collision,18,5,6,14415,274330,5,No,No,1,0,18-25
+CLM202300940,11/26/2024,Nakuru,Comprehensive,Broker,Collision,42,13,40,33286,179871,12,Yes,No,0,0,36-45
+CLM202300941,8/3/2025,Machakos,Third Party,Online,Collision,43,6,29,14366,62104,5,Yes,No,1,0,36-45
+CLM202300942,7/7/2024,Nairobi,Third Party Fire & Theft,Agent,Collision,43,6,95,31696,175534,3,Yes,Yes,0,0,36-45
+CLM202300943,6/4/2026,Nairobi,Comprehensive,Broker,Theft,32,6,48,59262,147915,4,Yes,No,2,1,26-35
+CLM202300944,10/11/2024,Mombasa,Third Party,Call Centre,Fire,54,6,79,17231,78936,1,Yes,No,1,0,46-55
+CLM202300945,6/27/2023,Nairobi,Third Party,Online,Fire,33,2,9,18649,46754,2,No,No,0,1,26-35
+CLM202300946,6/13/2023,Mombasa,Comprehensive,Broker,Collision,43,3,84,68620,239027,13,Yes,No,0,0,36-45
+CLM202300947,8/25/2026,Uasin Gishu,Comprehensive,Online,Theft,45,11,86,49022,259043,16,Yes,Yes,1,0,36-45
+CLM202300948,7/3/2023,Nairobi,Third Party,Online,Collision,57,10,35,23463,226365,19,Yes,No,0,0,56+
+CLM202300949,7/21/2026,Mombasa,Third Party Fire & Theft,Online,Collision,35,10,106,21213,80975,8,Yes,No,1,0,26-35
+CLM202300950,1/16/2024,Other,Third Party,Broker,Vandalism,31,8,57,15675,74820,1,Yes,No,0,0,26-35
+CLM202300951,5/8/2023,Mombasa,Third Party Fire & Theft,Call Centre,Windscreen,22,4,81,22725,8685,3,Yes,No,0,0,18-25
+CLM202300952,2/22/2024,Mombasa,Third Party Fire & Theft,Online,Vandalism,55,4,22,32461,29635,18,No,Yes,1,0,46-55
+CLM202300953,4/21/2025,Nakuru,Comprehensive,Online,Vandalism,43,6,112,36131,67035,24,No,No,1,0,36-45
+CLM202300954,8/8/2024,Nairobi,Third Party,Online,Fire,43,12,30,14622,205692,19,Yes,Yes,0,0,36-45
+CLM202300955,12/11/2025,Nairobi,Comprehensive,Agent,Vandalism,72,7,76,28517,17728,4,No,Yes,1,0,56+
+CLM202300956,4/16/2025,Kisumu,Third Party Fire & Theft,Agent,Collision,42,3,11,30708,62221,2,Yes,No,0,0,36-45
+CLM202300957,7/2/2024,Kiambu,Comprehensive,Agent,Collision,24,2,6,68054,108247,5,Yes,Yes,0,0,18-25
+CLM202300958,5/18/2025,Kiambu,Comprehensive,Online,Collision,36,11,16,61942,312170,6,No,No,0,0,36-45
+CLM202300959,8/22/2026,Nairobi,Third Party Fire & Theft,Agent,Collision,27,15,114,32643,75660,22,No,No,0,0,26-35
+CLM202300960,7/17/2024,Machakos,Comprehensive,Online,Collision,34,1,26,60718,162259,7,Yes,Yes,1,0,26-35
+CLM202300961,7/30/2023,Nairobi,Third Party,Broker,Collision,34,11,106,19463,176452,6,Yes,Yes,1,0,26-35
+CLM202300962,7/13/2024,Uasin Gishu,Comprehensive,Agent,Fire,32,8,70,57010,136557,6,Yes,Yes,1,0,26-35
+CLM202300963,2/24/2026,Kiambu,Third Party Fire & Theft,Broker,Windscreen,23,3,11,31444,32342,8,Yes,Yes,1,0,18-25
+CLM202300964,10/25/2023,Nakuru,Third Party Fire & Theft,Call Centre,Theft,56,7,53,21639,61803,10,Yes,Yes,1,0,56+
+CLM202300965,7/23/2026,Nairobi,Comprehensive,Broker,Collision,41,2,58,45383,85807,3,Yes,Yes,2,0,36-45
+CLM202300966,3/16/2025,Nairobi,Third Party,Agent,Windscreen,36,5,33,16318,82222,2,No,Yes,3,0,36-45
+CLM202300967,4/3/2025,Nakuru,Comprehensive,Online,Collision,46,6,73,43694,483256,19,Yes,No,0,0,46-55
+CLM202300968,3/10/2024,Kisumu,Third Party,Broker,Collision,43,13,104,10319,284596,1,Yes,Yes,2,0,36-45
+CLM202300969,6/14/2026,Nairobi,Third Party,Online,Collision,41,5,107,11322,349690,24,No,Yes,0,0,36-45
+CLM202300970,2/19/2023,Mombasa,Third Party,Agent,Collision,46,4,64,17064,33650,1,No,Yes,1,0,46-55
+CLM202300971,2/13/2024,Mombasa,Comprehensive,Online,Collision,39,8,108,61857,67882,3,Yes,Yes,0,0,36-45
+CLM202300972,7/26/2024,Nairobi,Comprehensive,Online,Windscreen,45,9,111,48126,20349,13,Yes,Yes,0,1,36-45
+CLM202300973,10/15/2024,Nakuru,Third Party,Agent,Windscreen,46,4,11,34700,180269,5,No,Yes,0,1,46-55
+CLM202300974,10/11/2024,Nairobi,Third Party,Broker,Fire,40,3,77,12367,129804,2,No,Yes,1,0,36-45
+CLM202300975,7/22/2023,Mombasa,Comprehensive,Agent,Collision,36,3,93,54368,263132,8,Yes,No,0,0,36-45
+CLM202300976,11/5/2023,Nairobi,Comprehensive,Online,Windscreen,55,13,2,68906,35326,6,Yes,Yes,0,0,46-55
+CLM202300977,5/11/2023,Mombasa,Comprehensive,Call Centre,Fire,33,9,73,64689,221715,5,No,Yes,0,0,26-35
+CLM202300978,2/22/2025,Kiambu,Third Party Fire & Theft,Agent,Collision,42,5,110,31234,142296,3,No,No,0,1,36-45
+CLM202300979,4/25/2024,Mombasa,Comprehensive,Broker,Fire,43,12,33,64772,63846,5,Yes,No,0,0,36-45
+CLM202300980,2/13/2025,Mombasa,Comprehensive,Online,Theft,31,3,103,48750,20883,3,Yes,Yes,0,0,26-35
+CLM202300981,3/18/2025,Other,Third Party Fire & Theft,Online,Collision,29,6,113,41417,404320,30,No,No,1,0,26-35
+CLM202300982,8/19/2025,Mombasa,Comprehensive,Call Centre,Collision,34,2,77,68751,88547,4,Yes,No,0,1,26-35
+CLM202300983,1/18/2025,Machakos,Third Party,Online,Theft,33,12,76,12603,40698,4,Yes,No,0,0,26-35
+CLM202300984,6/6/2025,Nairobi,Comprehensive,Agent,Collision,22,3,65,52522,205841,3,Yes,No,0,0,18-25
+CLM202300985,3/14/2025,Kiambu,Third Party Fire & Theft,Call Centre,Collision,31,3,50,16858,202708,27,Yes,No,0,1,26-35
+CLM202300986,6/12/2025,Nairobi,Third Party,Broker,Collision,41,8,55,24500,268016,1,No,No,0,0,36-45
+CLM202300987,4/24/2025,Mombasa,Third Party Fire & Theft,Broker,Weather,52,1,63,27685,247802,8,Yes,Yes,0,0,46-55
+CLM202300988,3/8/2024,Kisumu,Comprehensive,Agent,Collision,44,2,58,70025,69515,4,No,No,0,0,36-45
+CLM202300989,12/4/2023,Machakos,Comprehensive,Agent,Collision,18,10,100,46553,72006,2,Yes,No,1,0,18-25
+CLM202300990,12/13/2025,Nakuru,Third Party,Broker,Collision,45,3,93,9515,112367,3,No,Yes,0,0,36-45
+CLM202300991,4/14/2024,Kisumu,Comprehensive,Agent,Vandalism,32,23,42,100450,125906,7,Yes,Yes,0,0,26-35
+CLM202300992,1/21/2025,Nairobi,Comprehensive,Agent,Theft,43,7,62,49795,33709,3,Yes,No,0,0,36-45
+CLM202300993,9/27/2023,Nairobi,Comprehensive,Broker,Vandalism,38,1,26,36276,72298,7,No,No,1,0,36-45
+CLM202300994,8/13/2024,Uasin Gishu,Third Party Fire & Theft,Agent,Collision,36,15,22,35834,305647,26,No,No,0,0,36-45
+CLM202300995,12/26/2024,Nairobi,Third Party,Agent,Collision,37,7,45,28293,295722,6,Yes,Yes,1,0,36-45
+CLM202300996,5/7/2025,Nairobi,Third Party,Agent,Theft,38,5,7,15118,319490,1,Yes,No,0,0,36-45
+CLM202300997,12/21/2024,Other,Third Party,Online,Collision,53,7,103,15562,339385,3,Yes,Yes,2,0,46-55
+CLM202300998,5/8/2024,Other,Comprehensive,Broker,Windscreen,38,1,16,51308,5000,4,No,No,1,0,36-45
+CLM202300999,8/9/2026,Nakuru,Comprehensive,Call Centre,Vandalism,50,6,40,35168,237223,4,Yes,Yes,1,0,46-55
+CLM202301000,12/2/2024,Kiambu,Comprehensive,Agent,Collision,48,3,31,39560,188870,6,No,Yes,1,0,46-55
+CLM202301001,1/11/2026,Machakos,Third Party,Agent,Weather,45,6,25,26352,295237,7,Yes,No,1,0,36-45
+CLM202301002,10/5/2025,Nairobi,Comprehensive,Online,Theft,18,4,45,46256,70822,26,Yes,Yes,1,0,18-25
+CLM202301003,2/3/2025,Mombasa,Third Party Fire & Theft,Online,Collision,50,7,87,20565,35647,5,Yes,Yes,2,0,46-55
+CLM202301004,4/28/2026,Kiambu,Third Party,Online,Theft,33,5,108,14098,756710,2,Yes,No,1,0,26-35
+CLM202301005,6/25/2023,Other,Comprehensive,Call Centre,Collision,46,4,23,64819,69097,15,No,Yes,2,1,46-55
+CLM202301006,6/14/2026,Other,Third Party,Online,Windscreen,27,3,29,9201,20354,17,Yes,No,0,0,26-35
+CLM202301007,3/9/2026,Kisumu,Comprehensive,Online,Collision,25,1,57,51547,221118,7,No,No,2,0,18-25
+CLM202301008,11/20/2024,Nairobi,Third Party Fire & Theft,Call Centre,Collision,60,1,39,51807,269089,4,Yes,Yes,0,0,56+
+CLM202301009,10/1/2025,Mombasa,Third Party Fire & Theft,Agent,Theft,27,2,96,45915,429495,10,Yes,No,0,0,26-35
+CLM202301010,12/13/2024,Nairobi,Third Party Fire & Theft,Call Centre,Collision,51,9,27,30526,173373,5,No,No,2,0,46-55
+CLM202301011,1/3/2024,Other,Comprehensive,Online,Collision,39,3,49,69394,62383,1,Yes,No,1,0,36-45
+CLM202301012,12/31/2025,Nairobi,Comprehensive,Online,Fire,33,4,66,69208,293478,9,Yes,No,1,0,26-35
+CLM202301013,12/3/2023,Nairobi,Comprehensive,Call Centre,Collision,38,4,46,46338,258470,12,Yes,No,2,0,36-45
+CLM202301014,3/6/2024,Kisumu,Comprehensive,Online,Collision,24,4,75,62187,33944,20,Yes,No,0,0,18-25
+CLM202301015,12/11/2024,Mombasa,Comprehensive,Online,Collision,38,8,96,79202,451097,3,No,Yes,1,0,36-45
+CLM202301016,2/20/2026,Machakos,Comprehensive,Agent,Collision,26,5,64,33695,19828,7,Yes,Yes,1,0,26-35
+CLM202301017,6/9/2024,Nairobi,Third Party Fire & Theft,Broker,Collision,34,10,55,30556,331712,7,Yes,No,0,1,26-35
+CLM202301018,11/7/2024,Uasin Gishu,Comprehensive,Broker,Windscreen,48,2,115,53113,15715,6,Yes,Yes,0,0,46-55
+CLM202301019,2/27/2023,Nairobi,Comprehensive,Agent,Weather,41,10,118,49407,178478,6,Yes,No,2,0,36-45
+CLM202301020,6/8/2023,Nairobi,Third Party,Broker,Collision,22,14,120,16066,218086,6,No,Yes,0,0,18-25
+CLM202301021,3/18/2023,Mombasa,Third Party,Broker,Weather,47,6,2,17072,98530,7,No,Yes,0,0,46-55
+CLM202301022,4/9/2023,Nairobi,Third Party,Online,Theft,38,2,101,17478,260017,11,Yes,No,0,0,36-45
+CLM202301023,4/4/2026,Nakuru,Third Party,Agent,Fire,32,8,108,21885,155607,16,Yes,Yes,0,0,26-35
+CLM202301024,2/26/2026,Nairobi,Third Party Fire & Theft,Online,Fire,46,6,97,29711,295201,3,Yes,Yes,0,0,46-55
+CLM202301025,1/30/2026,Nairobi,Third Party,Agent,Fire,36,7,90,15223,957871,5,No,No,0,0,36-45
+CLM202301026,3/18/2023,Kisumu,Comprehensive,Agent,Windscreen,25,11,44,37941,8926,4,Yes,No,1,1,18-25
+CLM202301027,4/17/2023,Nairobi,Third Party,Online,Theft,58,4,88,14017,14145,3,Yes,No,1,0,56+
+CLM202301028,1/20/2024,Kisumu,Comprehensive,Agent,Theft,38,4,70,51642,129974,1,Yes,Yes,0,0,36-45
+CLM202301029,2/12/2025,Uasin Gishu,Comprehensive,Agent,Collision,37,25,100,39390,98446,6,No,No,0,1,36-45
+CLM202301030,4/2/2024,Nairobi,Comprehensive,Broker,Collision,34,8,43,62555,107198,8,Yes,No,1,0,26-35
+CLM202301031,10/29/2024,Uasin Gishu,Comprehensive,Online,Fire,51,12,90,54142,79467,5,Yes,No,1,0,46-55
+CLM202301032,8/25/2023,Nairobi,Third Party,Call Centre,Collision,32,10,95,22038,291395,5,No,Yes,1,0,26-35
+CLM202301033,9/27/2025,Kiambu,Comprehensive,Call Centre,Collision,21,12,101,40138,48023,8,No,Yes,0,0,18-25
+CLM202301034,3/5/2024,Nairobi,Comprehensive,Broker,Collision,31,8,21,38035,207962,19,Yes,No,1,1,26-35
+CLM202301035,4/2/2023,Machakos,Comprehensive,Call Centre,Collision,53,11,104,65976,241654,4,No,No,1,0,46-55
+CLM202301036,10/13/2025,Nakuru,Third Party,Call Centre,Theft,47,4,27,16593,233469,2,Yes,Yes,2,0,46-55
+CLM202301037,5/20/2026,Mombasa,Comprehensive,Online,Theft,35,1,113,45354,267626,5,Yes,No,2,0,26-35
+CLM202301038,1/21/2023,Other,Third Party,Broker,Collision,53,3,5,19457,309868,30,Yes,No,0,0,46-55
+CLM202301039,8/20/2024,Kiambu,Third Party Fire & Theft,Agent,Collision,46,5,27,31290,151349,2,Yes,Yes,0,0,46-55
+CLM202301040,2/6/2026,Other,Comprehensive,Broker,Collision,35,5,74,33770,109896,10,Yes,No,1,1,26-35
+CLM202301041,8/24/2025,Kisumu,Third Party,Online,Collision,36,6,66,23577,213969,16,Yes,Yes,1,0,36-45
+CLM202301042,3/18/2026,Other,Comprehensive,Agent,Windscreen,42,3,83,42789,42192,1,Yes,No,1,1,36-45
+CLM202301043,7/22/2024,Other,Comprehensive,Agent,Theft,29,1,49,77262,369305,8,No,No,1,0,26-35
+CLM202301044,5/24/2024,Other,Third Party,Call Centre,Theft,38,4,1,11014,46061,9,Yes,No,0,1,36-45
+CLM202301045,8/28/2025,Nairobi,Third Party Fire & Theft,Online,Theft,41,2,75,28416,156499,4,Yes,No,0,0,36-45
+CLM202301046,7/30/2023,Uasin Gishu,Comprehensive,Agent,Weather,19,6,62,45569,43283,3,Yes,No,1,0,18-25
+CLM202301047,11/24/2023,Uasin Gishu,Third Party,Agent,Windscreen,36,8,62,9203,40883,3,Yes,Yes,1,0,36-45
+CLM202301048,4/2/2025,Kisumu,Comprehensive,Online,Theft,35,4,46,57714,324162,4,Yes,No,1,0,26-35
+CLM202301049,7/4/2025,Nairobi,Third Party,Call Centre,Collision,49,2,107,9336,116420,4,Yes,No,0,1,46-55
+CLM202301050,6/13/2023,Other,Third Party,Broker,Collision,18,6,96,14745,80909,4,Yes,Yes,0,0,18-25
+CLM202301051,11/26/2024,Nairobi,Third Party,Online,Weather,34,25,22,21797,163634,4,Yes,No,0,0,26-35
+CLM202301052,5/14/2024,Mombasa,Third Party,Agent,Collision,33,8,5,13793,130339,16,No,Yes,2,1,26-35
+CLM202301053,11/17/2024,Mombasa,Comprehensive,Agent,Collision,49,9,22,37269,453914,2,No,No,1,1,46-55
+CLM202301054,8/5/2026,Nairobi,Third Party,Online,Weather,38,4,6,20019,419231,1,Yes,No,1,0,36-45
+CLM202301055,4/15/2023,Kisumu,Third Party,Call Centre,Windscreen,58,3,86,14920,58120,16,No,No,1,1,56+
+CLM202301056,9/24/2026,Nairobi,Third Party,Broker,Collision,45,12,75,14284,174663,5,Yes,No,1,0,36-45
+CLM202301057,9/7/2024,Kisumu,Comprehensive,Online,Collision,33,1,56,68594,624651,4,No,Yes,3,0,26-35
+CLM202301058,11/23/2025,Machakos,Comprehensive,Broker,Collision,41,3,71,34618,175793,5,Yes,No,1,0,36-45
+CLM202301059,8/4/2024,Kiambu,Comprehensive,Online,Theft,34,16,98,42204,123535,7,Yes,No,1,0,26-35
+CLM202301060,3/1/2024,Kisumu,Comprehensive,Broker,Collision,47,6,100,61179,84475,3,Yes,Yes,1,0,46-55
+CLM202301061,11/20/2025,Nairobi,Comprehensive,Online,Vandalism,23,1,53,33996,37167,9,Yes,Yes,0,0,18-25
+CLM202301062,7/30/2025,Machakos,Comprehensive,Broker,Vandalism,29,8,72,78909,64918,2,No,No,0,0,26-35
+CLM202301063,7/17/2023,Other,Third Party,Online,Theft,43,4,70,15057,262525,4,Yes,No,0,0,36-45
+CLM202301064,8/23/2025,Nairobi,Comprehensive,Call Centre,Theft,51,1,114,61318,58425,1,Yes,Yes,0,0,46-55
+CLM202301065,10/27/2025,Kisumu,Third Party,Online,Collision,18,7,92,20427,101250,16,Yes,Yes,2,0,18-25
+CLM202301066,6/14/2024,Mombasa,Comprehensive,Agent,Collision,53,6,38,45996,171917,5,Yes,Yes,1,0,46-55
+CLM202301067,6/21/2026,Nakuru,Third Party,Agent,Windscreen,36,6,107,13992,43678,10,Yes,No,0,0,36-45
+CLM202301068,5/27/2025,Kisumu,Comprehensive,Online,Collision,18,8,48,47426,142024,8,Yes,No,0,0,18-25
+CLM202301069,4/1/2024,Mombasa,Comprehensive,Online,Collision,18,2,91,58601,176327,9,Yes,No,0,0,18-25
+CLM202301070,1/15/2023,Nakuru,Third Party,Broker,Collision,21,7,118,12139,53835,5,No,No,1,0,18-25
+CLM202301071,7/13/2025,Nairobi,Third Party Fire & Theft,Broker,Collision,38,7,98,18563,69917,8,Yes,Yes,1,0,36-45
+CLM202301072,10/14/2023,Kiambu,Comprehensive,Agent,Collision,37,12,13,72732,138109,2,Yes,No,0,0,36-45
+CLM202301073,11/1/2025,Machakos,Comprehensive,Broker,Fire,45,3,25,39073,250870,2,Yes,Yes,1,0,36-45
+CLM202301074,12/19/2024,Nairobi,Third Party,Broker,Windscreen,32,13,96,17668,31405,5,No,Yes,1,0,26-35
+CLM202301075,9/30/2024,Nakuru,Third Party,Online,Theft,26,10,15,15119,91911,3,No,No,0,0,26-35
+CLM202301076,8/13/2023,Nairobi,Comprehensive,Online,Vandalism,33,5,2,45924,54000,20,Yes,No,0,0,26-35
+CLM202301077,9/1/2025,Machakos,Comprehensive,Agent,Collision,38,6,31,71644,485998,8,Yes,No,0,0,36-45
+CLM202301078,8/16/2023,Nakuru,Comprehensive,Online,Vandalism,41,1,59,46869,100850,3,Yes,Yes,0,0,36-45
+CLM202301079,7/25/2024,Kiambu,Third Party Fire & Theft,Broker,Theft,29,6,16,23528,159151,4,Yes,Yes,0,0,26-35
+CLM202301080,2/18/2026,Nairobi,Comprehensive,Call Centre,Collision,48,10,19,44509,63820,6,No,No,1,0,46-55
+CLM202301081,6/13/2026,Mombasa,Comprehensive,Broker,Weather,31,5,41,41689,57361,5,No,No,0,0,26-35
+CLM202301082,9/16/2026,Other,Third Party Fire & Theft,Agent,Collision,28,12,72,21552,145767,7,Yes,Yes,0,0,26-35
+CLM202301083,8/4/2026,Mombasa,Comprehensive,Broker,Collision,32,8,66,41736,180818,6,No,No,1,0,26-35
+CLM202301084,1/31/2025,Mombasa,Comprehensive,Broker,Collision,50,19,96,76470,227963,2,No,No,1,1,46-55
+CLM202301085,10/2/2023,Uasin Gishu,Comprehensive,Online,Collision,37,3,118,58581,197773,1,No,No,0,0,36-45
+CLM202301086,2/22/2026,Kiambu,Comprehensive,Call Centre,Collision,30,9,4,43578,107829,4,No,No,0,0,26-35
+CLM202301087,1/2/2026,Mombasa,Comprehensive,Agent,Theft,48,2,83,63185,120421,9,Yes,Yes,0,1,46-55
+CLM202301088,9/17/2026,Kiambu,Comprehensive,Agent,Vandalism,62,5,20,30778,335565,4,No,No,1,0,56+
+CLM202301089,6/10/2025,Nairobi,Third Party,Agent,Collision,40,8,44,23518,92903,17,Yes,No,0,1,36-45
+CLM202301090,7/13/2023,Kisumu,Third Party,Agent,Theft,52,9,42,22994,64490,5,Yes,No,1,0,46-55
+CLM202301091,11/19/2024,Machakos,Comprehensive,Call Centre,Collision,49,5,85,89781,39086,19,Yes,No,0,0,46-55
+CLM202301092,9/5/2024,Other,Third Party,Online,Windscreen,31,12,31,21239,19676,15,No,Yes,2,0,26-35
+CLM202301093,2/27/2026,Other,Comprehensive,Agent,Collision,38,14,108,54251,307576,14,Yes,Yes,0,0,36-45
+CLM202301094,6/21/2024,Mombasa,Third Party Fire & Theft,Online,Collision,24,4,46,37323,91467,2,Yes,Yes,0,0,18-25
+CLM202301095,3/25/2024,Kiambu,Comprehensive,Online,Theft,36,5,98,40285,591043,6,No,No,0,1,36-45
+CLM202301096,4/20/2023,Nakuru,Third Party,Online,Fire,31,5,115,14323,165781,16,Yes,No,1,0,26-35
+CLM202301097,2/17/2026,Other,Comprehensive,Agent,Windscreen,34,4,62,47144,63407,7,Yes,No,1,0,26-35
+CLM202301098,10/31/2025,Kisumu,Third Party,Broker,Theft,30,14,13,23474,98860,9,Yes,No,0,0,26-35
+CLM202301099,2/26/2023,Mombasa,Comprehensive,Agent,Windscreen,35,14,85,37772,14413,2,Yes,Yes,0,0,26-35
+CLM202301100,8/16/2024,Kisumu,Third Party,Broker,Collision,44,5,51,12222,155955,30,Yes,No,0,0,36-45
+CLM202301101,10/18/2024,Uasin Gishu,Comprehensive,Agent,Collision,37,9,41,51287,213317,3,Yes,No,2,0,36-45
+CLM202301102,10/4/2024,Other,Third Party Fire & Theft,Broker,Collision,18,12,55,31785,125659,1,Yes,Yes,1,0,18-25
+CLM202301103,6/12/2026,Uasin Gishu,Comprehensive,Call Centre,Collision,30,7,36,39423,183223,4,No,No,3,0,26-35
+CLM202301104,7/26/2023,Mombasa,Third Party,Agent,Collision,21,5,34,19304,232182,1,No,No,0,0,18-25
+CLM202301105,2/24/2024,Nairobi,Third Party,Agent,Theft,41,3,119,23470,58176,2,Yes,No,1,0,36-45
+CLM202301106,9/5/2023,Mombasa,Third Party Fire & Theft,Call Centre,Collision,44,10,34,36388,110386,30,No,Yes,0,1,36-45
+CLM202301107,12/1/2023,Kiambu,Comprehensive,Online,Theft,41,2,56,52991,119693,4,No,No,0,0,36-45
+CLM202301108,5/26/2026,Other,Comprehensive,Broker,Theft,29,5,86,46798,124435,2,No,No,1,0,26-35
+CLM202301109,7/11/2026,Mombasa,Comprehensive,Agent,Fire,41,4,27,78036,230903,6,Yes,No,1,0,36-45
+CLM202301110,3/3/2023,Mombasa,Comprehensive,Agent,Fire,33,2,75,48207,111348,2,Yes,Yes,0,0,26-35
+CLM202301111,5/15/2025,Kiambu,Third Party,Online,Collision,25,6,108,20819,29156,12,Yes,Yes,0,0,18-25
+CLM202301112,11/15/2023,Nakuru,Third Party Fire & Theft,Call Centre,Collision,46,5,98,44989,120003,2,Yes,No,1,0,46-55
+CLM202301113,9/21/2023,Mombasa,Third Party Fire & Theft,Agent,Theft,47,3,4,32851,77351,7,Yes,Yes,0,0,46-55
+CLM202301114,2/4/2024,Nairobi,Comprehensive,Broker,Theft,48,13,49,36307,269601,2,Yes,Yes,0,0,46-55
+CLM202301115,9/24/2023,Machakos,Third Party,Broker,Collision,31,10,1,11310,276246,30,Yes,No,0,0,26-35
+CLM202301116,11/2/2024,Kiambu,Third Party Fire & Theft,Agent,Collision,51,6,73,23921,25454,9,Yes,Yes,1,1,46-55
+CLM202301117,9/24/2026,Mombasa,Third Party Fire & Theft,Agent,Fire,33,11,40,31714,89757,5,Yes,No,1,0,26-35
+CLM202301118,3/13/2025,Nairobi,Comprehensive,Agent,Fire,45,12,108,54366,221228,4,Yes,No,2,0,36-45
+CLM202301119,9/17/2025,Nakuru,Comprehensive,Online,Collision,32,14,22,89049,46976,3,No,No,1,0,26-35
+CLM202301120,11/6/2024,Kisumu,Third Party,Broker,Collision,36,3,103,18073,271202,3,Yes,No,2,0,36-45
+CLM202301121,1/20/2023,Other,Comprehensive,Online,Vandalism,18,11,42,43795,151060,3,Yes,Yes,0,0,18-25
+CLM202301122,4/26/2023,Nairobi,Comprehensive,Agent,Collision,35,5,111,34948,127373,25,Yes,Yes,2,0,26-35
+CLM202301123,1/4/2024,Other,Third Party Fire & Theft,Broker,Vandalism,39,7,24,36184,35131,3,Yes,Yes,0,0,36-45
+CLM202301124,11/30/2023,Kisumu,Third Party Fire & Theft,Broker,Collision,33,4,33,25956,22835,1,No,Yes,0,0,26-35
+CLM202301125,2/24/2026,Kiambu,Third Party Fire & Theft,Online,Theft,57,6,43,17054,347616,2,Yes,Yes,1,0,56+
+CLM202301126,2/28/2026,Nairobi,Third Party,Broker,Collision,25,11,119,16100,719649,13,No,No,1,0,18-25
+CLM202301127,3/15/2026,Kiambu,Comprehensive,Agent,Collision,32,16,89,36321,609875,4,No,No,1,1,26-35
+CLM202301128,5/22/2025,Machakos,Comprehensive,Broker,Vandalism,28,5,98,42607,55826,5,Yes,Yes,1,0,26-35
+CLM202301129,1/31/2025,Kiambu,Comprehensive,Online,Collision,32,3,67,48083,60497,16,Yes,Yes,1,0,26-35
+CLM202301130,6/7/2025,Mombasa,Third Party,Online,Weather,49,17,96,12418,198375,3,Yes,No,2,0,46-55
+CLM202301131,7/10/2024,Kisumu,Comprehensive,Agent,Collision,54,3,76,41874,131005,10,Yes,No,0,0,46-55
+CLM202301132,7/6/2025,Machakos,Third Party,Broker,Vandalism,30,1,81,12991,95653,3,Yes,Yes,1,0,26-35
+CLM202301133,12/23/2025,Kisumu,Comprehensive,Broker,Vandalism,30,4,101,39266,83132,9,Yes,Yes,0,0,26-35
+CLM202301134,11/10/2025,Uasin Gishu,Third Party,Online,Theft,25,1,118,12065,195250,4,Yes,Yes,2,0,18-25
+CLM202301135,4/20/2025,Nairobi,Comprehensive,Call Centre,Collision,52,12,70,41931,330149,4,Yes,No,1,0,46-55
+CLM202301136,3/21/2023,Machakos,Comprehensive,Call Centre,Fire,50,3,53,37363,391126,11,Yes,Yes,4,0,46-55
+CLM202301137,9/19/2025,Nairobi,Comprehensive,Agent,Theft,37,2,79,56568,119310,11,Yes,No,1,0,36-45
+CLM202301138,5/16/2024,Nairobi,Comprehensive,Broker,Weather,23,6,89,50776,48500,5,Yes,Yes,0,0,18-25
+CLM202301139,10/15/2025,Other,Third Party Fire & Theft,Online,Collision,24,16,119,36329,19638,4,No,No,1,0,18-25
+CLM202301140,1/8/2025,Nairobi,Comprehensive,Call Centre,Collision,40,8,84,81408,109926,23,Yes,No,1,0,36-45
+CLM202301141,4/21/2026,Nairobi,Comprehensive,Agent,Collision,44,2,115,58024,60466,9,Yes,Yes,1,0,36-45
+CLM202301142,4/8/2024,Nakuru,Third Party,Agent,Fire,18,21,88,18146,233190,4,Yes,No,2,0,18-25
+CLM202301143,6/29/2026,Kiambu,Third Party,Online,Weather,34,7,115,19686,77584,3,No,No,1,0,26-35
+CLM202301144,3/2/2026,Nairobi,Comprehensive,Agent,Collision,56,11,91,54699,120879,14,No,No,2,0,56+
+CLM202301145,3/29/2024,Nakuru,Comprehensive,Broker,Windscreen,36,2,107,48679,49974,6,Yes,No,0,0,36-45
+CLM202301146,10/22/2024,Uasin Gishu,Comprehensive,Online,Vandalism,54,19,23,47607,89660,5,Yes,No,0,0,46-55
+CLM202301147,12/28/2024,Uasin Gishu,Third Party,Agent,Collision,45,4,120,12019,132077,6,Yes,Yes,0,0,36-45
+CLM202301148,11/18/2025,Nairobi,Comprehensive,Online,Collision,26,1,42,60709,558846,7,Yes,No,1,0,26-35
+CLM202301149,8/1/2025,Nakuru,Comprehensive,Call Centre,Fire,35,7,96,47581,300971,5,Yes,No,3,0,26-35
+CLM202301150,3/12/2026,Machakos,Comprehensive,Broker,Fire,37,11,48,72029,119559,16,Yes,Yes,0,0,36-45
+CLM202301151,5/21/2024,Nairobi,Third Party,Online,Collision,28,9,55,20673,107741,17,No,Yes,3,0,26-35
+CLM202301152,11/22/2024,Nairobi,Comprehensive,Agent,Windscreen,27,9,90,40283,49040,9,Yes,Yes,0,0,26-35
+CLM202301153,8/12/2024,Nairobi,Third Party,Agent,Theft,55,8,65,22684,213184,19,Yes,Yes,2,0,46-55
+CLM202301154,5/30/2026,Mombasa,Comprehensive,Call Centre,Vandalism,27,7,86,23434,26610,6,Yes,Yes,1,0,26-35
+CLM202301155,2/22/2024,Nairobi,Third Party,Broker,Vandalism,50,2,10,27469,133486,10,Yes,No,1,0,46-55
+CLM202301156,3/14/2025,Kisumu,Comprehensive,Broker,Windscreen,33,5,101,32998,71359,14,No,No,0,1,26-35
+CLM202301157,6/14/2023,Other,Comprehensive,Call Centre,Theft,38,5,50,55138,466374,14,No,Yes,0,0,36-45
+CLM202301158,3/10/2026,Nairobi,Comprehensive,Agent,Collision,44,14,95,54102,498166,12,Yes,Yes,0,0,36-45
+CLM202301159,6/9/2024,Kisumu,Third Party,Broker,Theft,31,12,35,21916,948836,10,No,Yes,0,1,26-35
+CLM202301160,4/11/2024,Nairobi,Third Party Fire & Theft,Agent,Collision,44,4,72,23714,578652,30,Yes,Yes,0,0,36-45
+CLM202301161,3/9/2025,Nairobi,Comprehensive,Agent,Fire,18,10,71,26323,218990,3,Yes,No,0,0,18-25
+CLM202301162,11/13/2024,Uasin Gishu,Comprehensive,Online,Collision,43,6,17,43797,122731,5,Yes,Yes,1,0,36-45
+CLM202301163,3/6/2026,Mombasa,Third Party Fire & Theft,Online,Theft,18,1,57,24452,41938,5,Yes,No,1,0,18-25
+CLM202301164,12/28/2024,Other,Comprehensive,Call Centre,Collision,36,1,77,27043,146266,4,Yes,No,0,0,36-45
+CLM202301165,12/8/2024,Nakuru,Comprehensive,Online,Collision,47,9,101,48614,219652,1,Yes,No,4,0,46-55
+CLM202301166,5/24/2023,Nairobi,Comprehensive,Call Centre,Collision,45,3,107,35515,150141,19,Yes,No,1,0,36-45
+CLM202301167,1/31/2023,Mombasa,Third Party,Broker,Theft,24,3,47,19189,40017,2,No,No,3,0,18-25
+CLM202301168,6/29/2024,Nairobi,Third Party,Broker,Windscreen,25,3,78,14935,20752,6,Yes,No,0,0,18-25
+CLM202301169,9/28/2026,Machakos,Third Party,Call Centre,Collision,30,9,21,27707,242985,2,Yes,Yes,0,0,26-35
+CLM202301170,6/9/2026,Kisumu,Third Party Fire & Theft,Online,Vandalism,40,12,108,24200,28717,10,No,No,0,1,36-45
+CLM202301171,5/11/2025,Kiambu,Comprehensive,Online,Vandalism,18,12,105,54147,74499,3,Yes,Yes,2,0,18-25
+CLM202301172,5/13/2025,Mombasa,Comprehensive,Agent,Collision,38,1,120,45220,204800,2,Yes,Yes,1,0,36-45
+CLM202301173,6/19/2024,Kisumu,Comprehensive,Agent,Fire,41,3,59,30468,407838,7,Yes,No,1,0,36-45
+CLM202301174,9/1/2023,Uasin Gishu,Comprehensive,Call Centre,Collision,35,3,44,45326,570674,3,Yes,Yes,0,0,26-35
+CLM202301175,1/12/2023,Nairobi,Comprehensive,Online,Collision,44,9,91,59273,107176,3,Yes,Yes,2,0,36-45
+CLM202301176,4/8/2024,Nairobi,Comprehensive,Online,Theft,40,3,87,56813,209953,6,Yes,Yes,0,0,36-45
+CLM202301177,3/9/2024,Nairobi,Comprehensive,Agent,Collision,32,5,26,44216,172223,11,Yes,Yes,1,0,26-35
+CLM202301178,9/20/2023,Kiambu,Third Party,Online,Vandalism,18,10,65,10641,109697,3,Yes,Yes,0,0,18-25
+CLM202301179,12/21/2023,Mombasa,Comprehensive,Broker,Vandalism,39,6,78,57492,100298,2,No,No,1,0,36-45
+CLM202301180,2/3/2023,Nairobi,Comprehensive,Agent,Windscreen,28,7,55,53982,81609,6,No,No,1,0,26-35
+CLM202301181,4/12/2025,Mombasa,Third Party,Broker,Theft,32,5,45,20262,28074,9,Yes,No,1,1,26-35
+CLM202301182,6/23/2026,Mombasa,Third Party,Broker,Theft,43,11,29,14818,253229,20,No,Yes,1,1,36-45
+CLM202301183,8/3/2025,Nairobi,Third Party,Broker,Weather,54,12,50,9984,149903,2,No,No,2,0,46-55
+CLM202301184,9/5/2024,Other,Third Party,Agent,Collision,38,8,30,18579,120127,4,No,No,0,0,36-45
+CLM202301185,7/29/2024,Nakuru,Third Party,Broker,Collision,44,12,37,15959,23701,16,Yes,No,2,0,36-45
+CLM202301186,2/26/2024,Kiambu,Comprehensive,Agent,Theft,22,25,23,70872,172618,30,Yes,No,0,0,18-25
+CLM202301187,7/14/2023,Mombasa,Comprehensive,Online,Collision,41,10,46,48388,82129,2,Yes,No,0,0,36-45
+CLM202301188,3/30/2025,Kiambu,Third Party,Broker,Collision,37,6,76,15798,555072,3,No,Yes,3,0,36-45
+CLM202301189,2/14/2025,Machakos,Comprehensive,Broker,Collision,52,8,46,53949,195775,8,Yes,No,0,1,46-55
+CLM202301190,1/11/2023,Nakuru,Comprehensive,Agent,Theft,32,13,18,40612,95918,3,No,No,0,0,26-35
+CLM202301191,7/22/2024,Mombasa,Comprehensive,Call Centre,Collision,35,4,97,40067,28068,3,No,No,0,0,26-35
+CLM202301192,1/16/2024,Other,Comprehensive,Agent,Collision,50,4,52,46702,232579,7,Yes,Yes,0,0,46-55
+CLM202301193,8/22/2023,Machakos,Comprehensive,Broker,Collision,37,7,71,37095,253067,22,Yes,No,0,0,36-45
+CLM202301194,8/20/2025,Machakos,Comprehensive,Call Centre,Collision,26,6,63,45018,122011,2,No,No,0,0,26-35
+CLM202301195,12/20/2024,Nairobi,Third Party,Online,Vandalism,66,3,61,27541,105759,21,Yes,Yes,0,0,56+
+CLM202301196,5/17/2025,Nairobi,Third Party Fire & Theft,Call Centre,Collision,26,7,53,34815,109740,3,Yes,No,1,0,26-35
+CLM202301197,9/3/2025,Kisumu,Comprehensive,Broker,Fire,37,14,91,52324,391611,7,No,No,0,1,36-45
+CLM202301198,9/6/2026,Mombasa,Third Party Fire & Theft,Broker,Windscreen,42,8,103,40148,57748,23,Yes,No,2,0,36-45
+CLM202301199,1/3/2026,Kisumu,Comprehensive,Broker,Collision,41,2,109,38101,39079,7,Yes,Yes,1,0,36-45
+CLM202301200,4/29/2025,Uasin Gishu,Third Party Fire & Theft,Broker,Windscreen,36,9,54,52218,8549,4,Yes,No,1,1,36-45
+CLM202301201,4/18/2026,Kiambu,Third Party Fire & Theft,Agent,Fire,36,5,41,22855,846848,10,No,No,0,1,36-45
+CLM202301202,10/15/2024,Kiambu,Comprehensive,Broker,Theft,35,20,10,84122,382082,5,Yes,Yes,1,0,26-35
+CLM202301203,9/10/2026,Mombasa,Third Party,Agent,Collision,26,9,54,28006,52817,9,Yes,No,0,1,26-35
+CLM202301204,11/8/2025,Nairobi,Third Party Fire & Theft,Call Centre,Collision,62,4,120,15914,41282,5,Yes,No,0,0,56+
+CLM202301205,6/10/2025,Kisumu,Third Party Fire & Theft,Agent,Weather,36,10,32,39208,119854,12,Yes,No,0,0,36-45
+CLM202301206,5/21/2026,Uasin Gishu,Third Party Fire & Theft,Agent,Windscreen,45,7,102,24013,10465,2,Yes,No,0,1,36-45
+CLM202301207,12/6/2024,Mombasa,Third Party,Call Centre,Vandalism,34,13,91,13648,50646,2,Yes,No,1,0,26-35
+CLM202301208,9/13/2025,Kisumu,Comprehensive,Agent,Vandalism,34,4,80,55595,62828,2,No,No,0,1,26-35
+CLM202301209,1/25/2024,Mombasa,Third Party,Online,Collision,33,9,68,12066,134880,5,Yes,Yes,0,0,26-35
+CLM202301210,8/11/2026,Kisumu,Third Party,Broker,Windscreen,21,2,91,18415,64275,1,No,No,0,0,18-25
+CLM202301211,5/3/2025,Nairobi,Third Party,Agent,Collision,36,7,12,12295,629256,3,No,Yes,1,0,36-45
+CLM202301212,12/6/2025,Uasin Gishu,Comprehensive,Agent,Windscreen,34,2,16,50440,17793,2,Yes,No,0,1,26-35
+CLM202301213,9/22/2024,Kisumu,Third Party,Online,Collision,51,7,24,23254,58686,21,Yes,Yes,0,0,46-55
+CLM202301214,4/1/2026,Nairobi,Comprehensive,Agent,Collision,25,8,92,53486,197910,2,Yes,No,0,0,18-25
+CLM202301215,4/12/2023,Nakuru,Third Party,Agent,Windscreen,32,8,52,14467,96266,2,Yes,No,0,0,26-35
+CLM202301216,6/6/2023,Machakos,Comprehensive,Agent,Windscreen,28,4,25,55857,18904,7,Yes,Yes,0,0,26-35
+CLM202301217,11/25/2024,Nairobi,Third Party,Online,Theft,54,7,6,10792,357868,25,Yes,Yes,2,0,46-55
+CLM202301218,9/29/2025,Uasin Gishu,Third Party,Online,Collision,28,12,59,12651,74219,5,Yes,Yes,0,0,26-35
+CLM202301219,1/12/2026,Other,Comprehensive,Agent,Collision,44,17,48,42552,147489,5,Yes,Yes,0,0,36-45
+CLM202301220,8/25/2024,Machakos,Comprehensive,Broker,Weather,49,7,22,59831,40065,17,Yes,No,1,0,46-55
+CLM202301221,6/8/2025,Kiambu,Comprehensive,Broker,Collision,36,13,3,53776,146262,12,Yes,No,1,0,36-45
+CLM202301222,1/27/2025,Nakuru,Third Party Fire & Theft,Agent,Collision,23,3,91,30203,132101,8,Yes,No,0,0,18-25
+CLM202301223,8/9/2026,Other,Third Party,Online,Theft,23,5,94,15878,294823,3,Yes,No,0,1,18-25
+CLM202301224,6/14/2025,Nakuru,Comprehensive,Call Centre,Collision,47,7,30,38495,601354,8,Yes,Yes,3,0,46-55
+CLM202301225,7/24/2024,Nairobi,Comprehensive,Broker,Theft,24,6,60,72811,132789,2,Yes,Yes,1,0,18-25
+CLM202301226,8/20/2026,Nairobi,Comprehensive,Online,Collision,42,5,31,39481,29281,3,Yes,No,0,0,36-45
+CLM202301227,5/27/2023,Uasin Gishu,Comprehensive,Online,Windscreen,39,12,50,53976,22204,20,Yes,No,2,0,36-45
+CLM202301228,9/9/2026,Mombasa,Third Party Fire & Theft,Agent,Vandalism,42,3,14,25197,82904,18,Yes,No,0,0,36-45
+CLM202301229,7/30/2023,Nairobi,Third Party,Call Centre,Vandalism,43,3,114,18732,76688,8,Yes,No,0,0,36-45
+CLM202301230,1/30/2024,Kiambu,Comprehensive,Call Centre,Theft,28,2,87,40515,159803,1,No,No,0,0,26-35
+CLM202301231,1/29/2026,Uasin Gishu,Third Party Fire & Theft,Call Centre,Collision,27,7,109,34913,476709,2,Yes,No,0,0,26-35
+CLM202301232,10/1/2025,Mombasa,Comprehensive,Agent,Fire,46,5,36,70606,185948,3,Yes,No,1,0,46-55
+CLM202301233,8/21/2026,Machakos,Third Party Fire & Theft,Online,Windscreen,31,11,105,34318,24001,5,Yes,Yes,1,0,26-35
+CLM202301234,10/23/2025,Uasin Gishu,Comprehensive,Agent,Theft,18,7,63,50166,97292,2,No,No,0,0,18-25
+CLM202301235,5/22/2025,Other,Third Party,Online,Fire,45,4,24,14165,41228,4,No,No,0,0,36-45
+CLM202301236,4/19/2024,Other,Third Party Fire & Theft,Online,Windscreen,27,4,40,57299,33965,27,Yes,Yes,0,1,26-35
+CLM202301237,1/7/2023,Nairobi,Comprehensive,Broker,Fire,43,1,98,36363,202924,8,Yes,No,1,0,36-45
+CLM202301238,6/19/2023,Kisumu,Third Party,Agent,Windscreen,53,5,93,20478,11184,7,Yes,No,1,0,46-55
+CLM202301239,2/12/2024,Nairobi,Third Party Fire & Theft,Call Centre,Collision,38,2,87,28539,139943,2,No,No,2,1,36-45
+CLM202301240,2/26/2023,Other,Comprehensive,Agent,Theft,49,12,28,47167,161547,1,Yes,Yes,3,0,46-55
+CLM202301241,11/26/2024,Nairobi,Comprehensive,Agent,Theft,40,5,78,50554,109978,2,No,Yes,1,0,36-45
+CLM202301242,11/30/2025,Kisumu,Third Party,Call Centre,Collision,55,2,113,13870,76868,1,Yes,No,2,0,46-55
+CLM202301243,8/11/2026,Machakos,Comprehensive,Broker,Vandalism,26,13,6,54097,90224,6,Yes,Yes,1,0,26-35
+CLM202301244,11/1/2024,Nairobi,Comprehensive,Online,Theft,38,6,39,52453,151294,8,Yes,Yes,0,0,36-45
+CLM202301245,4/12/2026,Machakos,Comprehensive,Broker,Collision,45,9,10,101590,90372,2,Yes,Yes,1,0,36-45
+CLM202301246,9/11/2026,Nairobi,Third Party,Agent,Windscreen,36,4,13,21594,13100,6,Yes,Yes,1,0,36-45
+CLM202301247,3/23/2026,Mombasa,Comprehensive,Agent,Windscreen,51,14,120,55459,23522,21,No,No,0,0,46-55
+CLM202301248,9/28/2024,Mombasa,Comprehensive,Online,Windscreen,33,3,29,56394,54681,30,Yes,No,2,0,26-35
+CLM202301249,3/21/2024,Kiambu,Third Party,Online,Collision,61,5,22,26780,171065,11,Yes,Yes,0,0,56+
+CLM202301250,8/31/2026,Nakuru,Comprehensive,Broker,Vandalism,61,1,9,36579,53975,5,No,No,0,0,56+
+CLM202301251,11/28/2023,Other,Third Party,Agent,Collision,41,14,118,15202,185587,11,No,Yes,1,0,36-45
+CLM202301252,7/17/2024,Kiambu,Comprehensive,Broker,Theft,44,4,57,28140,539901,18,No,Yes,0,0,36-45
+CLM202301253,4/12/2023,Nakuru,Third Party Fire & Theft,Broker,Collision,51,8,95,30403,214662,1,No,No,2,0,46-55
+CLM202301254,12/22/2025,Machakos,Third Party,Agent,Fire,25,8,31,20289,205338,21,Yes,No,2,0,18-25
+CLM202301255,6/8/2025,Uasin Gishu,Comprehensive,Agent,Windscreen,24,12,77,36322,43500,3,No,Yes,2,0,18-25
+CLM202301256,4/27/2023,Nairobi,Third Party Fire & Theft,Online,Theft,52,7,107,38858,159727,3,Yes,No,0,0,46-55
+CLM202301257,10/31/2023,Other,Comprehensive,Broker,Theft,41,6,81,39249,210005,4,No,Yes,0,0,36-45
+CLM202301258,1/30/2025,Nairobi,Comprehensive,Broker,Windscreen,36,11,63,43611,17651,7,No,No,1,0,36-45
+CLM202301259,1/9/2025,Nakuru,Comprehensive,Broker,Fire,38,8,26,49634,48233,2,Yes,Yes,1,0,36-45
+CLM202301260,1/3/2026,Nakuru,Third Party,Online,Collision,18,5,29,25002,190757,4,Yes,No,1,0,18-25
+CLM202301261,12/31/2023,Uasin Gishu,Comprehensive,Agent,Weather,36,14,72,37747,133941,9,No,No,1,0,36-45
+CLM202301262,6/19/2026,Nairobi,Comprehensive,Online,Fire,30,9,55,52078,132466,7,Yes,Yes,0,0,26-35
+CLM202301263,8/31/2024,Nairobi,Comprehensive,Agent,Weather,48,2,6,59630,232459,8,Yes,No,0,0,46-55
+CLM202301264,1/31/2026,Uasin Gishu,Comprehensive,Broker,Weather,49,16,24,56282,56984,4,No,No,1,0,46-55
+CLM202301265,11/23/2023,Nairobi,Comprehensive,Agent,Vandalism,44,4,52,56867,15818,10,Yes,Yes,0,0,36-45
+CLM202301266,2/20/2023,Mombasa,Comprehensive,Agent,Windscreen,42,12,22,59408,14943,14,Yes,No,0,0,36-45
+CLM202301267,3/17/2023,Uasin Gishu,Comprehensive,Online,Theft,22,2,67,41095,52832,13,Yes,No,0,0,18-25
+CLM202301268,5/25/2024,Kisumu,Comprehensive,Online,Collision,44,11,37,76998,190026,8,Yes,Yes,1,0,36-45
+CLM202301269,7/28/2026,Nairobi,Third Party,Broker,Theft,45,2,35,15510,99307,13,Yes,No,0,1,36-45
+CLM202301270,3/8/2023,Kiambu,Comprehensive,Online,Windscreen,52,7,13,44832,57379,12,No,Yes,1,0,46-55
+CLM202301271,5/20/2024,Other,Third Party,Call Centre,Theft,61,8,61,23334,391865,30,Yes,No,0,0,56+
+CLM202301272,5/30/2023,Mombasa,Comprehensive,Call Centre,Vandalism,19,5,23,40231,31132,16,No,No,0,0,18-25
+CLM202301273,6/29/2026,Nairobi,Comprehensive,Call Centre,Collision,34,6,76,52503,75963,5,No,No,2,1,26-35
+CLM202301274,7/13/2025,Nairobi,Comprehensive,Broker,Collision,30,3,113,39205,222357,2,Yes,No,2,1,26-35
+CLM202301275,11/10/2025,Kiambu,Comprehensive,Broker,Theft,40,11,110,97182,396926,4,No,No,2,1,36-45
+CLM202301276,9/3/2025,Other,Comprehensive,Broker,Collision,38,7,81,91618,28981,4,No,Yes,0,0,36-45
+CLM202301277,6/18/2025,Kiambu,Third Party,Online,Collision,35,3,97,15514,181648,9,Yes,Yes,2,0,26-35
+CLM202301278,11/25/2025,Nairobi,Comprehensive,Online,Collision,49,8,111,55521,24995,3,Yes,No,3,0,46-55
+CLM202301279,1/12/2023,Mombasa,Comprehensive,Broker,Windscreen,26,8,82,48070,16829,16,Yes,Yes,0,0,26-35
+CLM202301280,3/30/2026,Nairobi,Third Party,Agent,Theft,27,6,31,14512,434764,2,Yes,No,2,0,26-35
+CLM202301281,10/9/2025,Nairobi,Comprehensive,Agent,Collision,27,1,61,49635,1610902,1,Yes,Yes,0,0,26-35
+CLM202301282,10/9/2025,Other,Comprehensive,Call Centre,Collision,34,5,103,47457,119782,5,Yes,Yes,1,0,26-35
+CLM202301283,6/22/2024,Kisumu,Comprehensive,Agent,Collision,24,11,81,31356,53466,3,No,Yes,0,0,18-25
+CLM202301284,1/1/2026,Nairobi,Comprehensive,Online,Collision,37,9,44,51668,96153,2,No,No,0,0,36-45
+CLM202301285,6/6/2024,Mombasa,Comprehensive,Broker,Fire,36,9,21,47435,175801,3,No,Yes,0,0,36-45
+CLM202301286,3/9/2023,Nairobi,Third Party,Agent,Windscreen,29,7,18,17462,15268,3,No,Yes,0,0,26-35
+CLM202301287,5/27/2026,Nairobi,Third Party Fire & Theft,Call Centre,Collision,48,11,46,25442,69191,6,Yes,No,2,0,46-55
+CLM202301288,11/18/2023,Nakuru,Comprehensive,Agent,Theft,37,4,97,43393,128818,3,Yes,No,0,0,36-45
+CLM202301289,5/20/2023,Mombasa,Third Party,Call Centre,Collision,50,3,67,20441,198978,3,Yes,No,0,0,46-55
+CLM202301290,5/1/2025,Uasin Gishu,Third Party,Broker,Collision,36,18,8,18576,126622,5,Yes,Yes,0,0,36-45
+CLM202301291,11/16/2023,Other,Comprehensive,Agent,Vandalism,38,4,111,70958,32231,14,Yes,Yes,2,0,36-45
+CLM202301292,3/20/2026,Nairobi,Third Party,Agent,Theft,32,2,49,18377,106041,21,No,No,1,0,26-35
+CLM202301293,8/30/2024,Other,Third Party,Online,Vandalism,38,5,47,15139,46859,6,Yes,Yes,0,0,36-45
+CLM202301294,1/7/2023,Mombasa,Third Party Fire & Theft,Online,Collision,46,7,99,30901,65183,7,Yes,No,1,1,46-55
+CLM202301295,7/26/2026,Nairobi,Third Party Fire & Theft,Agent,Collision,33,11,46,14932,82353,5,Yes,No,1,0,26-35
+CLM202301296,12/5/2024,Machakos,Comprehensive,Call Centre,Collision,44,5,75,86508,242655,8,Yes,Yes,1,0,36-45
+CLM202301297,12/27/2023,Nairobi,Comprehensive,Agent,Theft,29,5,111,51833,150750,8,Yes,No,0,0,26-35
+CLM202301298,7/16/2025,Nakuru,Comprehensive,Call Centre,Weather,46,6,63,88486,24960,18,Yes,Yes,0,0,46-55
+CLM202301299,12/27/2024,Kisumu,Comprehensive,Agent,Collision,32,4,74,37629,329209,1,No,Yes,2,0,26-35
+CLM202301300,2/10/2023,Nairobi,Comprehensive,Call Centre,Vandalism,47,2,43,35102,91068,4,No,Yes,0,0,46-55
+CLM202301301,11/5/2025,Machakos,Third Party Fire & Theft,Agent,Vandalism,39,2,107,28804,21579,7,Yes,No,0,0,36-45
+CLM202301302,7/3/2024,Nairobi,Comprehensive,Online,Theft,55,13,10,53128,135311,5,Yes,No,0,0,46-55
+CLM202301303,8/16/2025,Machakos,Comprehensive,Broker,Collision,25,10,34,52768,76942,2,Yes,No,1,0,18-25
+CLM202301304,5/11/2026,Nairobi,Third Party,Agent,Theft,22,6,119,16855,311501,2,Yes,Yes,0,0,18-25
+CLM202301305,4/15/2025,Nairobi,Comprehensive,Call Centre,Collision,31,9,59,40259,107707,11,Yes,No,1,0,26-35
+CLM202301306,7/8/2025,Kiambu,Comprehensive,Agent,Windscreen,23,10,21,31668,24624,3,Yes,No,0,0,18-25
+CLM202301307,12/15/2023,Machakos,Third Party Fire & Theft,Online,Theft,23,4,50,28145,155792,1,Yes,No,0,0,18-25
+CLM202301308,11/22/2023,Nairobi,Comprehensive,Online,Vandalism,45,3,31,33518,19968,12,Yes,No,0,0,36-45
+CLM202301309,7/22/2024,Machakos,Comprehensive,Broker,Theft,38,12,64,32643,557908,8,Yes,No,1,1,36-45
+CLM202301310,3/13/2026,Nairobi,Comprehensive,Agent,Theft,33,1,29,43147,307890,5,No,No,1,0,26-35
+CLM202301311,12/18/2024,Mombasa,Third Party Fire & Theft,Agent,Windscreen,34,9,48,29332,14354,2,Yes,Yes,2,1,26-35
+CLM202301312,4/21/2024,Kiambu,Comprehensive,Agent,Theft,31,7,109,83745,211319,5,Yes,No,0,0,26-35
+CLM202301313,12/3/2025,Nairobi,Comprehensive,Online,Vandalism,56,12,10,63142,142241,16,Yes,Yes,0,0,56+
+CLM202301314,3/14/2026,Other,Comprehensive,Agent,Collision,30,9,92,71701,151612,1,No,No,1,0,26-35
+CLM202301315,5/20/2026,Mombasa,Comprehensive,Call Centre,Weather,23,9,10,57641,352645,1,Yes,Yes,1,0,18-25
+CLM202301316,2/14/2024,Kisumu,Third Party Fire & Theft,Online,Windscreen,47,3,55,28813,269405,3,Yes,Yes,0,0,46-55
+CLM202301317,8/29/2025,Nakuru,Comprehensive,Broker,Vandalism,36,10,81,96817,58988,5,Yes,Yes,1,0,36-45
+CLM202301318,3/19/2025,Mombasa,Third Party Fire & Theft,Online,Theft,60,8,115,17952,113733,4,Yes,No,2,0,56+
+CLM202301319,9/6/2024,Nakuru,Comprehensive,Agent,Windscreen,32,3,31,42755,11827,10,No,Yes,1,1,26-35
+CLM202301320,6/27/2024,Other,Comprehensive,Online,Collision,47,7,7,43700,24677,15,Yes,No,3,1,46-55
+CLM202301321,6/6/2023,Kisumu,Third Party Fire & Theft,Agent,Windscreen,50,3,91,33391,70842,7,Yes,No,1,0,46-55
+CLM202301322,1/12/2024,Nakuru,Comprehensive,Online,Collision,32,6,108,36494,109283,9,Yes,Yes,0,0,26-35
+CLM202301323,1/22/2025,Kisumu,Comprehensive,Online,Collision,30,23,68,59440,292077,7,Yes,No,1,0,26-35
+CLM202301324,4/28/2026,Nakuru,Third Party Fire & Theft,Online,Collision,46,3,8,30582,343057,6,Yes,No,0,0,46-55
+CLM202301325,4/1/2026,Mombasa,Comprehensive,Call Centre,Collision,44,2,61,60276,61066,2,Yes,No,0,0,36-45
+CLM202301326,9/14/2023,Nakuru,Comprehensive,Agent,Collision,22,2,47,59971,68860,2,Yes,Yes,1,0,18-25
+CLM202301327,7/18/2025,Mombasa,Third Party Fire & Theft,Online,Windscreen,26,5,55,39998,105392,2,No,No,1,0,26-35
+CLM202301328,4/27/2023,Uasin Gishu,Comprehensive,Agent,Collision,18,10,7,47343,137096,5,Yes,Yes,1,0,18-25
+CLM202301329,7/13/2025,Other,Comprehensive,Online,Windscreen,45,6,39,55681,15390,7,Yes,No,0,0,36-45
+CLM202301330,4/13/2024,Other,Comprehensive,Broker,Collision,35,2,120,39055,62840,1,No,No,0,0,26-35
+CLM202301331,9/7/2024,Machakos,Comprehensive,Agent,Windscreen,36,9,6,36637,23307,6,No,No,1,0,36-45
+CLM202301332,9/9/2025,Nakuru,Comprehensive,Broker,Windscreen,19,1,110,78677,87204,2,Yes,Yes,2,0,18-25
+CLM202301333,8/4/2024,Uasin Gishu,Third Party,Online,Collision,26,2,63,12746,250907,2,Yes,No,1,1,26-35
+CLM202301334,1/10/2026,Nairobi,Comprehensive,Agent,Windscreen,33,4,71,57442,30185,3,Yes,Yes,0,1,26-35
+CLM202301335,12/31/2024,Mombasa,Third Party,Call Centre,Vandalism,31,12,113,18565,232535,2,No,Yes,0,0,26-35
+CLM202301336,9/29/2026,Nairobi,Comprehensive,Online,Windscreen,39,7,27,66699,79723,9,Yes,Yes,2,0,36-45
+CLM202301337,5/23/2025,Nairobi,Comprehensive,Broker,Collision,44,7,119,30172,189432,5,No,No,1,0,36-45
+CLM202301338,2/10/2024,Other,Comprehensive,Online,Theft,63,2,34,61605,1670324,11,Yes,Yes,1,1,56+
+CLM202301339,11/27/2025,Machakos,Third Party,Call Centre,Windscreen,38,4,42,15742,21413,4,Yes,No,0,0,36-45
+CLM202301340,7/12/2024,Mombasa,Comprehensive,Agent,Collision,50,11,54,40578,349030,4,Yes,No,1,0,46-55
+CLM202301341,1/1/2025,Nairobi,Comprehensive,Online,Windscreen,29,8,73,44745,19059,30,Yes,No,0,0,26-35
+CLM202301342,7/7/2023,Kisumu,Third Party Fire & Theft,Broker,Collision,20,10,39,34757,298572,1,Yes,No,0,0,18-25
+CLM202301343,6/13/2023,Mombasa,Third Party,Online,Windscreen,34,6,96,19635,21396,17,No,No,0,0,26-35
+CLM202301344,2/25/2025,Uasin Gishu,Comprehensive,Online,Collision,20,11,3,46311,209732,24,Yes,Yes,1,0,18-25
+CLM202301345,9/13/2023,Other,Third Party Fire & Theft,Call Centre,Collision,38,2,80,18900,981265,11,No,No,1,0,36-45
+CLM202301346,9/27/2026,Kiambu,Comprehensive,Broker,Weather,29,5,79,35588,217357,4,Yes,Yes,1,0,26-35
+CLM202301347,3/17/2026,Nairobi,Comprehensive,Broker,Vandalism,18,9,65,59267,95555,20,Yes,Yes,1,0,18-25
+CLM202301348,8/17/2025,Nairobi,Comprehensive,Broker,Vandalism,57,1,74,33563,35109,4,Yes,Yes,1,0,56+
+CLM202301349,10/2/2025,Nairobi,Comprehensive,Call Centre,Weather,32,0,90,46438,117995,3,Yes,No,1,0,26-35
+CLM202301350,3/25/2025,Kiambu,Comprehensive,Call Centre,Collision,20,18,109,101687,64737,4,Yes,Yes,0,0,18-25
+CLM202301351,3/24/2023,Nairobi,Third Party,Broker,Collision,48,7,27,18197,294805,3,No,Yes,1,0,46-55
+CLM202301352,6/21/2024,Nairobi,Comprehensive,Agent,Collision,30,1,58,59088,288945,2,Yes,No,0,1,26-35
+CLM202301353,11/9/2024,Nairobi,Third Party,Agent,Theft,50,6,68,11888,156988,15,Yes,Yes,1,0,46-55
+CLM202301354,6/7/2026,Nairobi,Third Party Fire & Theft,Broker,Collision,30,2,42,18439,548704,3,Yes,No,0,0,26-35
+CLM202301355,10/28/2023,Uasin Gishu,Third Party,Call Centre,Vandalism,32,3,117,19994,220642,5,Yes,Yes,1,0,26-35
+CLM202301356,11/11/2024,Nairobi,Third Party,Online,Collision,42,12,62,14784,163441,1,Yes,No,0,0,36-45
+CLM202301357,4/16/2024,Machakos,Third Party,Agent,Collision,45,4,72,22225,227954,6,Yes,Yes,0,0,36-45
+CLM202301358,7/3/2023,Nairobi,Third Party Fire & Theft,Agent,Collision,46,4,24,27063,90556,2,Yes,Yes,0,0,46-55
+CLM202301359,5/22/2023,Nairobi,Comprehensive,Online,Collision,37,2,50,129928,116628,2,No,No,0,0,36-45
+CLM202301360,5/15/2024,Nairobi,Comprehensive,Call Centre,Collision,44,5,76,42054,61211,5,Yes,No,1,0,36-45
+CLM202301361,4/23/2023,Kisumu,Comprehensive,Agent,Fire,46,7,52,53525,113730,14,Yes,Yes,0,1,46-55
+CLM202301362,4/2/2023,Nairobi,Comprehensive,Broker,Collision,40,4,93,38430,133383,8,Yes,Yes,1,0,36-45
+CLM202301363,4/25/2024,Mombasa,Comprehensive,Broker,Theft,36,21,17,65903,48018,9,Yes,No,0,0,36-45
+CLM202301364,10/4/2023,Nairobi,Third Party,Call Centre,Vandalism,22,3,19,18614,103511,5,No,Yes,0,0,18-25
+CLM202301365,1/29/2025,Other,Comprehensive,Agent,Theft,45,3,41,37715,410584,4,No,No,0,0,36-45
+CLM202301366,1/25/2023,Nairobi,Third Party Fire & Theft,Call Centre,Fire,38,5,39,24465,165697,11,No,No,0,1,36-45
+CLM202301367,2/18/2024,Mombasa,Comprehensive,Broker,Collision,33,19,98,72480,16759,3,No,No,0,0,26-35
+CLM202301368,9/12/2024,Machakos,Comprehensive,Broker,Collision,52,10,105,70083,118432,12,Yes,No,3,1,46-55
+CLM202301369,8/11/2026,Nairobi,Comprehensive,Agent,Collision,22,4,57,33221,47562,17,Yes,Yes,1,0,18-25
+CLM202301370,5/18/2025,Nairobi,Comprehensive,Online,Weather,56,4,61,43325,62325,3,Yes,No,0,0,56+
+CLM202301371,4/20/2026,Uasin Gishu,Comprehensive,Broker,Theft,38,3,36,82203,579072,3,No,No,2,1,36-45
+CLM202301372,4/14/2024,Nairobi,Comprehensive,Online,Collision,41,5,64,47106,20680,3,No,No,1,0,36-45
+CLM202301373,9/7/2024,Nairobi,Comprehensive,Online,Collision,34,5,85,51964,75463,1,Yes,No,0,0,26-35
+CLM202301374,7/29/2024,Mombasa,Comprehensive,Broker,Windscreen,20,9,87,65808,50683,4,Yes,No,0,0,18-25
+CLM202301375,4/29/2026,Nairobi,Comprehensive,Broker,Fire,36,8,117,33994,95102,18,Yes,Yes,0,0,36-45
+CLM202301376,8/6/2026,Other,Comprehensive,Agent,Theft,42,4,70,37943,97235,2,No,No,2,0,36-45
+CLM202301377,8/10/2026,Kisumu,Comprehensive,Online,Vandalism,45,15,41,45086,331673,18,Yes,No,5,0,36-45
+CLM202301378,10/26/2025,Nakuru,Comprehensive,Agent,Fire,36,4,9,69165,225700,4,Yes,Yes,0,0,36-45
+CLM202301379,11/19/2024,Nairobi,Comprehensive,Call Centre,Fire,18,2,83,65676,352108,30,Yes,No,1,0,18-25
+CLM202301380,1/10/2025,Kisumu,Comprehensive,Call Centre,Collision,21,7,97,60385,215394,3,Yes,No,0,0,18-25
+CLM202301381,9/4/2026,Kisumu,Comprehensive,Agent,Collision,61,12,67,47477,165024,5,Yes,No,0,0,56+
+CLM202301382,1/25/2024,Nairobi,Third Party,Agent,Weather,26,6,111,22576,279019,2,Yes,No,0,0,26-35
+CLM202301383,4/19/2024,Other,Third Party Fire & Theft,Agent,Theft,54,2,39,25620,832268,3,No,Yes,2,0,46-55
+CLM202301384,5/12/2026,Nakuru,Third Party Fire & Theft,Online,Collision,28,7,7,31435,37710,18,Yes,No,1,0,26-35
+CLM202301385,6/12/2024,Uasin Gishu,Comprehensive,Call Centre,Theft,36,7,76,63725,176201,8,No,Yes,1,0,36-45
+CLM202301386,11/18/2023,Nairobi,Comprehensive,Online,Collision,45,8,15,79385,140075,14,Yes,No,0,0,36-45
+CLM202301387,2/6/2025,Nairobi,Comprehensive,Agent,Windscreen,29,7,11,48591,18514,2,Yes,No,1,0,26-35
+CLM202301388,3/21/2024,Kisumu,Third Party,Agent,Collision,56,13,85,14866,317851,10,Yes,No,0,0,56+
+CLM202301389,5/4/2026,Uasin Gishu,Third Party,Agent,Windscreen,39,3,53,23646,32055,2,Yes,Yes,0,0,36-45
+CLM202301390,5/29/2026,Kiambu,Third Party,Call Centre,Theft,43,0,73,24160,845777,2,Yes,No,0,0,36-45
+CLM202301391,2/23/2024,Nairobi,Third Party Fire & Theft,Broker,Collision,35,1,90,22965,349655,7,Yes,No,1,0,26-35
+CLM202301392,12/25/2024,Machakos,Comprehensive,Broker,Collision,45,2,46,36227,432030,7,Yes,Yes,0,0,36-45
+CLM202301393,9/9/2026,Nairobi,Third Party,Online,Windscreen,55,11,74,23148,10000,6,Yes,Yes,2,0,46-55
+CLM202301394,10/13/2025,Kiambu,Third Party,Call Centre,Collision,37,5,65,10391,76086,10,No,Yes,1,1,36-45
+CLM202301395,10/23/2023,Nakuru,Comprehensive,Online,Collision,57,16,70,30729,81270,12,Yes,No,0,1,56+
+CLM202301396,3/19/2025,Nairobi,Third Party Fire & Theft,Call Centre,Windscreen,31,2,85,24803,75221,21,Yes,No,1,0,26-35
+CLM202301397,4/28/2025,Nairobi,Comprehensive,Call Centre,Collision,46,16,46,49397,66886,2,Yes,No,0,0,46-55
+CLM202301398,6/13/2025,Nairobi,Third Party Fire & Theft,Online,Collision,43,3,61,19323,68469,21,Yes,No,4,1,36-45
+CLM202301399,2/4/2023,Other,Third Party,Call Centre,Collision,26,5,71,17025,59125,30,No,No,1,0,26-35
+CLM202301400,2/14/2024,Kiambu,Comprehensive,Agent,Vandalism,40,1,17,51718,590310,4,Yes,No,1,0,36-45
+CLM202301401,3/15/2026,Kisumu,Third Party,Broker,Collision,38,14,26,13986,129405,1,No,Yes,0,0,36-45
+CLM202301402,11/27/2023,Other,Comprehensive,Agent,Collision,29,6,11,84823,221549,2,No,Yes,0,0,26-35
+CLM202301403,2/15/2024,Kisumu,Third Party,Online,Collision,42,22,24,18046,58221,4,Yes,Yes,1,0,36-45
+CLM202301404,3/17/2024,Mombasa,Third Party,Agent,Collision,40,12,53,21946,312355,30,Yes,No,1,0,36-45
+CLM202301405,8/31/2023,Mombasa,Third Party,Agent,Collision,37,5,113,10642,35086,6,Yes,No,1,0,36-45
+CLM202301406,8/1/2023,Kiambu,Third Party Fire & Theft,Agent,Collision,37,3,111,17252,66256,3,No,No,0,0,36-45
+CLM202301407,4/20/2024,Nakuru,Comprehensive,Online,Collision,37,11,92,54599,80772,3,Yes,No,2,0,36-45
+CLM202301408,4/11/2026,Other,Comprehensive,Broker,Collision,34,6,67,80686,172747,2,Yes,No,1,0,26-35
+CLM202301409,1/3/2023,Uasin Gishu,Comprehensive,Online,Vandalism,40,3,25,36177,34597,12,Yes,No,0,0,36-45
+CLM202301410,1/23/2024,Mombasa,Comprehensive,Online,Collision,31,7,43,49966,490749,5,No,No,0,0,26-35
+CLM202301411,3/24/2023,Kiambu,Comprehensive,Call Centre,Collision,67,1,92,33966,216873,30,Yes,Yes,0,0,56+
+CLM202301412,2/7/2025,Other,Comprehensive,Call Centre,Vandalism,22,8,110,39251,37583,10,Yes,Yes,0,0,18-25
+CLM202301413,12/10/2023,Nairobi,Comprehensive,Agent,Vandalism,32,9,116,50667,144940,12,Yes,No,1,0,26-35
+CLM202301414,12/20/2025,Machakos,Comprehensive,Online,Fire,32,2,47,41816,121738,4,No,No,2,0,26-35
+CLM202301415,3/11/2025,Nairobi,Third Party Fire & Theft,Broker,Collision,60,13,59,18039,90413,2,No,No,0,0,56+
+CLM202301416,12/9/2025,Kisumu,Comprehensive,Broker,Collision,23,11,62,33095,296897,2,Yes,Yes,1,0,18-25
+CLM202301417,5/19/2025,Uasin Gishu,Third Party Fire & Theft,Online,Collision,43,7,7,15333,20378,2,Yes,No,1,0,36-45
+CLM202301418,8/23/2024,Mombasa,Comprehensive,Broker,Collision,41,3,14,54852,261017,12,Yes,No,1,0,36-45
+CLM202301419,3/24/2026,Nairobi,Comprehensive,Agent,Collision,42,9,6,56743,81962,4,Yes,Yes,1,0,36-45
+CLM202301420,10/13/2024,Machakos,Comprehensive,Online,Theft,52,5,89,56663,102329,13,Yes,No,0,0,46-55
+CLM202301421,7/24/2026,Kiambu,Comprehensive,Broker,Collision,51,7,27,37212,694536,6,Yes,No,1,0,46-55
+CLM202301422,9/23/2026,Kiambu,Comprehensive,Broker,Theft,33,10,85,63616,118499,4,No,Yes,1,0,26-35
+CLM202301423,3/17/2025,Mombasa,Comprehensive,Call Centre,Collision,40,2,46,58504,311521,2,Yes,Yes,1,0,36-45
+CLM202301424,7/12/2025,Mombasa,Comprehensive,Agent,Collision,18,1,96,48098,181296,7,Yes,No,2,0,18-25
+CLM202301425,12/17/2023,Kisumu,Comprehensive,Agent,Windscreen,39,4,14,45938,35457,4,Yes,No,1,0,36-45
+CLM202301426,1/20/2026,Nairobi,Third Party,Agent,Vandalism,29,19,40,13341,53399,12,Yes,Yes,0,0,26-35
+CLM202301427,7/8/2025,Mombasa,Comprehensive,Agent,Collision,36,22,25,50653,113814,3,Yes,No,0,0,36-45
+CLM202301428,5/20/2026,Other,Third Party,Agent,Theft,19,8,53,25164,615397,10,Yes,No,0,0,18-25
+CLM202301429,1/1/2024,Nairobi,Comprehensive,Online,Collision,42,12,68,66010,305241,24,Yes,Yes,1,0,36-45
+CLM202301430,12/14/2025,Mombasa,Third Party Fire & Theft,Online,Collision,19,6,21,24200,97221,7,Yes,No,1,0,18-25
+CLM202301431,10/5/2024,Kisumu,Third Party,Broker,Windscreen,40,7,81,18604,11305,11,No,No,1,0,36-45
+CLM202301432,9/11/2023,Other,Third Party Fire & Theft,Online,Collision,25,5,116,19100,90845,9,No,Yes,1,0,18-25
+CLM202301433,8/23/2023,Nakuru,Third Party,Agent,Collision,29,12,6,19629,317961,30,Yes,Yes,0,0,26-35
+CLM202301434,2/8/2025,Machakos,Comprehensive,Broker,Theft,51,16,11,38037,465369,8,Yes,Yes,0,0,46-55
+CLM202301435,3/13/2024,Nairobi,Comprehensive,Agent,Collision,44,6,115,58234,226035,10,Yes,No,0,0,36-45
+CLM202301436,5/20/2023,Kiambu,Comprehensive,Call Centre,Collision,51,7,78,110227,39778,5,No,No,1,0,46-55
+CLM202301437,8/7/2024,Other,Third Party,Agent,Collision,55,5,111,13640,265007,3,No,No,0,1,46-55
+CLM202301438,6/12/2025,Other,Third Party,Online,Weather,29,16,85,36269,287989,2,Yes,No,0,1,26-35
+CLM202301439,3/12/2024,Nakuru,Comprehensive,Call Centre,Theft,54,11,87,55069,208247,17,Yes,Yes,0,0,46-55
+CLM202301440,7/31/2026,Mombasa,Third Party Fire & Theft,Broker,Collision,22,3,19,21077,706679,2,Yes,No,0,0,18-25
+CLM202301441,12/3/2025,Mombasa,Comprehensive,Broker,Collision,46,19,62,38416,50398,11,Yes,No,1,0,46-55
+CLM202301442,12/2/2024,Nairobi,Third Party,Broker,Theft,33,1,44,31024,313476,8,Yes,No,1,0,26-35
+CLM202301443,7/3/2026,Other,Third Party,Agent,Collision,28,15,101,18368,64107,13,Yes,No,0,1,26-35
+CLM202301444,8/15/2024,Machakos,Comprehensive,Broker,Theft,45,12,6,40963,422720,3,Yes,No,2,0,36-45
+CLM202301445,7/11/2023,Mombasa,Third Party,Call Centre,Windscreen,48,6,3,15114,42616,3,Yes,No,0,0,46-55
+CLM202301446,2/19/2023,Nairobi,Third Party,Call Centre,Collision,48,6,67,18051,612665,8,Yes,No,0,0,46-55
+CLM202301447,7/8/2026,Kiambu,Comprehensive,Online,Collision,40,6,117,47883,216264,4,Yes,No,1,0,36-45
+CLM202301448,8/6/2026,Nairobi,Comprehensive,Online,Collision,39,3,120,52881,104955,2,No,No,1,0,36-45
+CLM202301449,10/9/2025,Kisumu,Comprehensive,Broker,Collision,44,18,72,78871,97893,30,Yes,Yes,0,0,36-45
+CLM202301450,5/22/2023,Nakuru,Third Party,Online,Collision,41,6,52,11667,118699,3,Yes,Yes,2,0,36-45
+CLM202301451,2/7/2024,Nairobi,Comprehensive,Agent,Vandalism,44,3,33,57495,43365,2,No,No,1,0,36-45
+CLM202301452,2/26/2023,Nakuru,Third Party Fire & Theft,Agent,Collision,40,17,119,25475,425992,4,Yes,No,2,0,36-45
+CLM202301453,3/12/2023,Other,Third Party Fire & Theft,Agent,Theft,47,8,22,22609,502898,17,Yes,Yes,0,0,46-55
+CLM202301454,12/3/2023,Nairobi,Comprehensive,Online,Fire,20,9,16,64807,50362,1,Yes,Yes,1,1,18-25
+CLM202301455,2/22/2025,Mombasa,Comprehensive,Agent,Collision,37,20,62,31881,149519,16,Yes,No,1,0,36-45
+CLM202301456,3/31/2023,Mombasa,Third Party,Agent,Collision,23,10,48,8248,152433,2,No,Yes,2,0,18-25
+CLM202301457,9/9/2026,Nairobi,Third Party,Agent,Collision,41,4,60,17038,77610,7,Yes,No,1,1,36-45
+CLM202301458,9/15/2024,Nakuru,Comprehensive,Call Centre,Fire,56,10,109,46178,236772,3,Yes,Yes,4,0,56+
+CLM202301459,12/28/2023,Nakuru,Comprehensive,Agent,Collision,33,3,33,32865,466573,30,Yes,No,1,0,26-35
+CLM202301460,12/7/2024,Nairobi,Comprehensive,Agent,Windscreen,39,4,106,29733,53270,6,No,Yes,1,0,36-45
+CLM202301461,12/17/2025,Nairobi,Third Party Fire & Theft,Online,Vandalism,46,8,26,44642,191690,3,No,No,0,0,46-55
+CLM202301462,3/3/2024,Machakos,Comprehensive,Agent,Windscreen,18,11,39,54644,14690,4,Yes,No,0,1,18-25
+CLM202301463,3/7/2023,Kiambu,Third Party Fire & Theft,Call Centre,Weather,32,4,1,26143,104508,6,Yes,Yes,1,0,26-35
+CLM202301464,3/11/2023,Nakuru,Comprehensive,Call Centre,Windscreen,42,6,82,88754,14146,6,Yes,No,0,0,36-45
+CLM202301465,3/12/2026,Nakuru,Third Party Fire & Theft,Online,Vandalism,18,5,104,34615,79025,8,Yes,No,0,0,18-25
+CLM202301466,6/2/2023,Machakos,Comprehensive,Online,Windscreen,27,13,107,78775,33971,5,Yes,No,2,0,26-35
+CLM202301467,5/20/2025,Uasin Gishu,Comprehensive,Online,Windscreen,50,6,21,34495,56250,2,Yes,Yes,2,0,46-55
+CLM202301468,6/10/2024,Machakos,Third Party Fire & Theft,Agent,Windscreen,49,19,93,18490,74644,4,Yes,No,0,0,46-55
+CLM202301469,11/30/2025,Nakuru,Third Party Fire & Theft,Agent,Vandalism,42,4,17,30904,113228,9,No,Yes,0,0,36-45
+CLM202301470,3/24/2023,Mombasa,Comprehensive,Agent,Collision,48,4,76,53907,72864,3,Yes,No,0,0,46-55
+CLM202301471,5/14/2026,Kiambu,Comprehensive,Agent,Theft,40,15,85,68109,61445,10,Yes,No,1,1,36-45
+CLM202301472,8/13/2025,Kiambu,Comprehensive,Broker,Theft,44,9,19,30404,274759,6,No,No,2,0,36-45
+CLM202301473,9/7/2024,Mombasa,Comprehensive,Agent,Vandalism,35,25,14,58452,216728,4,Yes,Yes,5,0,26-35
+CLM202301474,10/11/2023,Nairobi,Comprehensive,Agent,Collision,39,15,9,63320,142152,16,Yes,Yes,1,0,36-45
+CLM202301475,8/30/2026,Mombasa,Third Party Fire & Theft,Online,Windscreen,31,2,86,33792,7691,1,Yes,Yes,1,0,26-35
+CLM202301476,2/18/2024,Kiambu,Comprehensive,Online,Windscreen,52,6,74,42834,138344,3,Yes,Yes,0,0,46-55
+CLM202301477,11/2/2024,Nairobi,Third Party,Agent,Weather,55,8,15,18501,150142,17,Yes,No,0,0,46-55
+CLM202301478,6/23/2024,Nairobi,Comprehensive,Agent,Collision,53,7,61,38630,166276,28,Yes,No,0,0,46-55
+CLM202301479,11/12/2023,Uasin Gishu,Comprehensive,Agent,Fire,34,6,96,44220,65504,30,Yes,Yes,0,1,26-35
+CLM202301480,7/24/2024,Nakuru,Third Party,Agent,Windscreen,28,7,29,11948,26441,6,Yes,Yes,0,0,26-35
+CLM202301481,7/27/2023,Uasin Gishu,Comprehensive,Call Centre,Vandalism,52,7,73,38814,113039,8,No,No,0,0,46-55
+CLM202301482,1/3/2023,Nakuru,Third Party,Call Centre,Vandalism,44,4,36,14956,97577,11,Yes,No,1,0,36-45
+CLM202301483,2/2/2024,Machakos,Comprehensive,Online,Theft,42,12,32,41835,105211,17,Yes,No,1,0,36-45
+CLM202301484,6/3/2023,Uasin Gishu,Third Party Fire & Theft,Online,Theft,31,17,48,21023,173162,7,Yes,Yes,1,0,26-35
+CLM202301485,7/21/2024,Nairobi,Third Party,Broker,Collision,43,10,43,11120,88582,13,Yes,Yes,0,0,36-45
+CLM202301486,3/27/2026,Other,Third Party Fire & Theft,Broker,Weather,26,8,60,45024,384286,8,Yes,Yes,0,0,26-35
+CLM202301487,8/11/2023,Nairobi,Comprehensive,Agent,Collision,45,6,25,41723,296674,9,Yes,No,4,0,36-45
+CLM202301488,1/2/2023,Nakuru,Comprehensive,Agent,Windscreen,53,8,47,52646,17158,2,Yes,No,1,0,46-55
+CLM202301489,6/2/2023,Uasin Gishu,Comprehensive,Online,Windscreen,56,8,75,29332,10249,4,Yes,Yes,0,0,56+
+CLM202301490,11/26/2024,Kiambu,Comprehensive,Broker,Collision,46,3,47,70200,181088,3,Yes,Yes,2,0,46-55
+CLM202301491,1/12/2024,Nakuru,Comprehensive,Agent,Collision,23,12,79,50300,97757,2,No,No,0,0,18-25
+CLM202301492,11/1/2024,Kiambu,Comprehensive,Agent,Collision,40,5,14,42390,103761,1,Yes,Yes,0,0,36-45
+CLM202301493,2/10/2023,Nairobi,Comprehensive,Online,Vandalism,62,16,17,42494,26313,4,No,No,0,0,56+
+CLM202301494,4/1/2024,Nairobi,Comprehensive,Agent,Theft,28,7,104,61230,80701,4,Yes,Yes,0,0,26-35
+CLM202301495,7/15/2024,Nairobi,Comprehensive,Online,Collision,37,12,56,20996,165153,6,Yes,Yes,1,1,36-45
+CLM202301496,8/13/2024,Nairobi,Comprehensive,Broker,Windscreen,54,10,74,38108,21082,9,Yes,Yes,0,0,46-55
+CLM202301497,1/24/2025,Nakuru,Comprehensive,Online,Collision,45,2,89,46426,1068430,6,No,No,0,0,36-45
+CLM202301498,12/4/2025,Mombasa,Third Party,Agent,Vandalism,65,15,18,15425,104965,4,Yes,Yes,1,0,56+
+CLM202301499,10/1/2024,Mombasa,Comprehensive,Agent,Collision,30,4,117,96804,57707,2,No,Yes,0,0,26-35
+CLM202301500,2/25/2026,Kisumu,Comprehensive,Call Centre,Collision,27,4,51,43671,42446,12,Yes,No,1,0,26-35
